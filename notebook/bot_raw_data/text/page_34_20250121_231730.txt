@@ -1,0 +1,66 @@
+The Group as a lessor
+Leases for which the Group is a lessor is classified as a finance or operating lease. Whenever the terms of the lease transfer substantially all the risks and
+rewards of ownership to the lessee, the contract is classified as a finance lease. All other leases are classified as operating leases.
+WhentheGroupisanintermediatelessor,itaccountsforitsinterestsinthe headlease andthe subleaseseparately. Thesublease isclassified asa financeor
+operating lease by reference to the right-of-use asset arising from the head lease.
+For operating leases, rental income is recognized on a straight line basis over the term of the relevant lease.
+Following are the changes in the carrying value of right-of-use assets for the three months ended March 31, 2024:
+(In ₹ crore)
+Particulars Category of ROU asset
+Land Buildings Vehicles Computers Total
+Balance as of January 1, 2024 607 3,527 18 2,740 6,892
+Additions* — 61 2 376 439
+Deletions — (92) — (215) (307)
+Impairment# — — — — —
+Depreciation (2) (185) (2) (234) (423)
+Translation difference — (13) (1) (35) (49)
+Balance as of March 31, 2024 605 3,298 17 2,632 6,552
+* Net of adjustments on account of modifications
+# included under other expenses. Refer note 2.18
+Following are the changes in the carrying value of right-of-use assets for the three months ended March 31, 2023:
+(In ₹ crore)
+Particulars Category of ROU asset
+Land Buildings Vehicles Computers Total
+Balance as of January 1, 2023 624 3,847 15 1,994 6,480
+Additions* — 228 2 651 881
+Deletions — (33) — (124) (157)
+Depreciation (2) (171) (3) (179) (355)
+Translation difference 1 25 1 6 33
+Balance as of March 31, 2023 623 3,896 15 2,348 6,882
+* Net of adjustments on account of modifications and lease incentives
+Following are the changes in the carrying value of right-of-use assets for the year ended March 31, 2024:
+(In ₹ crore)
+Particulars Category of ROU asset
+Total
+Land Buildings Vehicles Computers
+Balance as of April 1, 2023 623 3,896 15 2,348 6,882
+Additions* — 394 12 1,872 2,278
+Deletions (10) (181) (1) (755) (947)
+Impairment # — (88) — — (88)
+Depreciation (6) (728) (10) (851) (1,595)
+Translation difference (2) 5 1 18 22
+Balance as of March 31, 2024 605 3,298 17 2,632 6,552
+* Net of adjustments on account of modifications and lease incentives
+# included under other expenses. Refer note 2.18
+Following are the changes in the carrying value of right-of-use assets for the year ended March 31, 2023:
+(In ₹ crore)
+Particulars Category of ROU asset
+Total
+Land Buildings Vehicles Computers
+Balance as of April 1, 2022 628 3,711 16 468 4,823
+Additions* — 847 8 2,646 3,501
+Deletions — (45) — (364) (409)
+Depreciation (6) (671) (10) (499) (1,186)
+Translation difference 1 54 1 97 153
+Balance as of March 31, 2023 623 3,896 15 2,348 6,882
+* Net of adjustments on account of modifications and lease incentives
+TheaggregatedepreciationexpenseonROUassetsisincludedunderdepreciationandamortizationexpenseintheinterimcondensedConsolidatedStatement
+of Profit and Loss.
+The following is the break-up of current and non-current lease liabilities as at March 31, 2024 and March 31, 2023:
+(In ₹ crore)
+Particulars As at
+March 31, 2024 March 31, 2023
+Current lease liabilities 1,959 1,242
+Non-current lease liabilities 6,400 7,057
+Total 8,359 8,299
+33

@@ -1,0 +1,47 @@
+The incremental costs of obtaining a contract (i.e., costs that would not have been incurred if the contract had not been obtained) are recognized as an asset if the Group expects to
+recover them.
+Certaineligible,nonrecurringcosts(e.g.set-uportransitionortransformationcosts)thatdonotrepresentaseparateperformanceobligationarerecognizedasanassetwhensuchcosts
+(a) relate directly to the contract; (b) generate or enhance resources of the Group that will be used in satisfying the performance obligation in the future; and (c) are expected to be
+recovered.
+Capitalizedcontractcostsrelatingtoupfrontpaymentstocustomersareamortizedtorevenueandothercapitalizedcosts areamortizedtoexpenses overtherespectivecontractlifeon
+a systematic basisconsistentwiththe transfer ofgoodsor servicesto customer to whichthe asset relates. Capitalized costsare monitored regularlyfor impairment. Impairment losses
+are recorded when present value of projected remaining operating cash flows is not sufficient to recover the carrying amount of the capitalized costs.
+The Group presents revenues net of indirect taxes in its Consolidated Statement of Profit and Loss.
+Revenue from operation for the three months and year ended March 31, 2024 and March 31, 2023 are as follows:
+(In ₹ crore)
+Particulars Three months ended March 31, Year ended March 31,
+2024 2023 2024 2023
+Revenue from software services 36,064 35,199 145,285 137,575
+Revenue from products and platforms 1,859 2,242 8,385 9,192
+Total revenue from operations 37,923 37,441 153,670 146,767
+Products & platforms
+TheGroupalsoderivesrevenuesfromthesaleofproductsandplatformsincludingFinacle–corebankingsolution,EdgeSuiteofproducts,Panayaplatform,InfosysEquinox,Infosys
+Helix, Infosys Applied AI, Infosys Cortex, Stater digital platform and Infosys McCamish – insurance platform.
+Disaggregated revenue information
+Revenue disaggregation by business segments has been included in segment information (Refer to Note 2.23). The table below presents disaggregated revenues from contracts with
+customers by geography and contract type. The Group believes that this disaggregation best depicts how the nature, amount, timing and uncertainty of revenues and cash flows are
+affected by industry, market and other economic factors.
+For the three months and year ended March 31, 2024 and March 31, 2023:
+(In ₹ crore)
+Particulars Three months ended March 31, Year ended March 31,
+2024 2023 2024 2023
+Revenues by Geography*
+North America 22,606 22,842 92,411 90,724
+Europe 10,861 10,088 42,267 37,675
+India 833 981 3,881 3,861
+Rest of the world 3,623 3,530 15,111 14,507
+Total 37,923 37,441 153,670 146,767
+*Geographical revenues is based on the domicile of customer.
+Thepercentageofrevenuefromfixed-pricecontractsforthe threemonthsendedMarch 31,2024 andMarch31,2023 is54%and52%, respectively.The percentageofrevenuefrom
+fixed-price contracts for the year ended March 31, 2024 and March 31, 2023 is 53% and 52%, respectively.
+Trade Receivables and Contract Balances
+The timing of revenue recognition, billings and cash collections results in receivables, unbilled revenue, and unearned revenue on the Group’s Consolidated Balance Sheet. Amounts
+are billed as work progresses in accordance with agreed-upon contractual terms, either at periodic intervals (e.g., monthly or quarterly) or upon achievement of contractual milestones.
+TheGroup’sreceivablesarerightstoconsiderationthatareunconditional. Unbilledrevenuescomprisingrevenuesinexcessofbillingsfromtimeandmaterialcontractsandfixedprice
+maintenance contracts are classified as financial asset when the right to consideration is unconditional and is due only after a passage of time.
+Invoicing to the clients for other fixed price contracts is based on milestones as defined inthe contract and therefore the timingof revenue recognition isdifferent fromthe timingof
+invoicing to the customers. Therefore unbilled revenues for other fixed price contracts (contract asset) are classified as non-financial asset because the right to consideration is
+dependent on completion of contractual milestones.
+Invoicing in excess of earnings are classified as unearned revenue.
+Trade receivables and unbilled revenues are presented net of impairment in the consolidated Balance Sheet.
+29

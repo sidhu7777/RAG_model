@@ -1,0 +1,38 @@
+2X13AOX13AOX13AO .15 INCOME TAXES
+Accounting policy
+Incometaxexpensecomprisescurrentanddeferredincometax.IncometaxexpenseisrecognizedinnetprofitintheConsolidatedStatementofProfitandLossexceptto
+theextentthatitrelatestoitemsrecognizeddirectlyinequity,inwhichcaseitisrecognizedinequityorothercomprehensiveincome.Currentincometaxforcurrentand
+prior periods is recognized at the amount expected to be paid to or recovered from the tax authorities, using the tax rates and tax laws that have been enacted or
+substantively enacted by the Balance Sheet date. Deferred income tax assets and liabilities are recognized for all temporary differences arising between the tax bases of
+assetsandliabilitiesandtheircarryingamountsinthefinancialstatementsexceptwhenthedeferredincometaxarisesfromtheinitialrecognitionofgoodwilloranassetor
+liability in a transaction that is not a business combination and affects neither accounting nor taxable profit or loss at the time of the transaction. Deferred tax assets are
+reviewed at each reporting date and are reduced to the extent that it is no longer probable that the related tax benefit will be realized.
+Deferred income tax assets and liabilities are measured using tax rates and tax laws that have been enacted or substantively enacted by the Balance Sheet date and are
+expectedtoapplytotaxableincomeintheyearsinwhichthosetemporarydifferencesareexpectedtoberecoveredorsettled.Theeffectofchangesintaxratesondeferred
+income tax assets and liabilities is recognized as income or expense in the period that includes the enactment or the substantive enactment date. A deferred income tax
+asset is recognized to the extent that it is probable that future taxable profit will be available against which the deductible temporary differences and tax losses can be
+utilized. Deferred income taxes are not provided on the undistributed earnings of subsidiaries and branches where it is expected that the earnings of the subsidiary or
+branch will not be distributed in the foreseeable future.
+The Group offsets current tax assets and current tax liabilities; deferred tax assets and deferred tax liabilities, where it has a legally enforceable right to set off the
+recognizedamountsandwhereitintendseithertosettleonanetbasis,orto realizethe assetand settlethe liabilitysimultaneously. Taxbenefitsofdeductionsearnedon
+exercise of employee share options in excess of compensation charged to income are credited to equity.
+Income tax expense in the Consolidated Statement of Profit and Loss comprises:
+(In ₹ crore)
+Particulars Three months ended March 31, Year ended March 31,
+2024 2023 2024 2023
+Current taxes 1,173 2,260 8,390 9,287
+Deferred taxes 1,092 72 1,350 (73)
+Income tax expense 2,265 2,332 9,740 9,214
+Income tax expense for the three months ended March 31, 2024 and March 31, 2023 includes reversal (net of provisions) of ₹871 crore and ₹71 crore, respectively.
+Income tax expense for the year ended March 31, 2024 and March 31, 2023 includes reversal (net of provisions) of ₹937 crore and ₹106 crore, respectively. These
+reversals pertaining to prior periods are primarilyon account of adjudication of certain disputed matters, upon filing of tax return and completion of assessments, across
+various jurisdictions.
+During the quarter ending March 31, 2024, the Companyreceived orders under sections 250 and 254 of the Income Tax Act, 1961, fromthe Income Tax Authorities in
+India for the assessment years, 2007-08 to 2015-16, 2017-18 and 2018-19. These orders confirmed the Company's position with respect to tax treatment of certain
+contentious matters. As a result interest income (pre-tax) of ₹1,933 crore was recognised and provision for income tax aggregating ₹525 crore was reversed with a
+correspondingcredittotheStatementofProfitandLoss.Also,uponresolutionofthedisputes,anamountaggregatingto₹1,628 crorehasbeenreduced fromcontingent
+liabilities.
+Deferred income tax for three months and year ended March 31, 2024 and March 31, 2023 substantially relates to origination and reversal of temporary differences.
+The Company’s Advanced Pricing Arrangement (APA) with the Internal Revenue Service (IRS) for US branch income tax expired in March 2021. The Company has
+applied for renewal of APA and currently the US taxable income is based on the Company’s best estimate determined based on the expected value method.
+27

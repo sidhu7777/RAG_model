@@ -1,0 +1,58 @@
+2X12AO .12 OTHER FINANCIAL LIABILITIES
+(In ₹ crore)
+Particulars As at
+March 31, 2024 March 31, 2023
+Non-current
+Others
+Accrued compensation to employees (1) 7 5
+Accrued expenses (1) 1,779 1,628
+Compensated absences 89 83
+Financial liability under option arrangements (2) # 98 —
+Other Payables (1)(4) 157 342
+Total non-current other financial liabilities 2,130 2,058
+Current
+Unpaid dividends (1) 37 37
+Others
+Accrued compensation to employees (1) 4,454 4,174
+Accrued expenses (1) 8,224 7,802
+Payable for acquisition of business - Contingent consideration (2) — 97
+Payable by controlled trusts (1) 211 211
+Compensated absences 2,622 2,399
+Financial liability under option arrangements (2) # 499 600
+Foreign currency forward and options contracts (2) (3) 31 78
+Capital creditors (1) 310 674
+Other payables (1)(4) 571 2,486
+Total current other financial liabilities 16,959 18,558
+Total other financial liabilities 19,089 20,616
+(1) Financial liability carried at amortized cost 15,750 17,359
+(2) Financial liability carried at fair value through profit or loss 627 761
+(3) Financial liability carried at fair value through other comprehensive income 1 14
+Financial liability under option arrangements on an undiscounted basis 690 676
+Contingent consideration on undiscounted basis — 101
+(4)Deferredcontractcostinnote2.9includestechnologyassetstakenoverbytheGroupfromacustomerasapartoftransformationprojectwhichisnotconsidered
+as distinct goods or services and the control related to the assets is not transferred to the Group in accordance with Ind AS 115 - Revenue from contract with
+customers. Accordingly, the same has been considered as a reduction to the total contract value and accounted as Deferred contract cost. The Group has entered
+into financing arrangements with a third party for these assets. As at March 31, 2024 and March 31, 2023, the financial liability pertaining to such arrangements
+amountsto₹372croreand₹731crore,respectively.Fortheyearended March31,2023₹118crorewassettleddirectlybythethirdpartytothecustomeronbehalf
+of the Group and accordingly considered as non-cash transaction.
+# Represents liability related to options issued by the Group over the non-controlling interests in its subsidiaries
+Accrued expenses primarily relate to cost of technical sub-contractors, telecommunication charges, legal and professional charges, brand building expenses,
+overseas travel expenses, office maintenance and cost of third party software and hardware.
+2.13 OTHER LIABILITIES
+(In ₹ crore)
+Particulars As at
+March 31, 2024 March 31, 2023
+Non-current
+Others
+Accrued defined benefit liability 159 445
+Others 76 55
+Total non-current other liabilities 235 500
+Current
+Unearned revenue 7,341 7,163
+Others
+Withholding taxes and others 3,185 3,632
+Accrued defined benefit liability 5 4
+Others 8 31
+Total current other liabilities 10,539 10,830
+Total other liabilities 10,774 11,330
+25

@@ -1,0 +1,39 @@
+Year ended March 31, 2024 and March 31, 2023:
+(In ₹ crore)
+Financial Retail (2) Communic Energy, Manufacturing Hi-Tech Life All other Total
+Services (1)* ation (3) Utilities, Sciences (4) segments (5)
+Particulars Resources
+and Services
+Revenue from operations 42,158 22,504 17,991 20,035 22,298 12,411 11,515 4,758 153,670
+43,763 21,204 18,086 18,539 19,035 11,867 10,085 4,188 146,767
+Identifiable operating expenses 24,782 11,704 11,071 10,838 14,596 7,232 6,716 2,938 89,877
+24,990 10,892 11,101 9,923 12,493 6,959 5,834 2,801 84,993
+Allocated expenses 8,052 3,918 3,232 3,674 3,505 2,026 1,901 1,060 27,368
+7,930 3,916 3,226 3,461 3,429 1,949 1,685 1,048 26,644
+Segment operating income 9,324 6,882 3,688 5,523 4,197 3,153 2,898 760 36,425
+10,843 6,396 3,759 5,155 3,113 2,959 2,566 339 35,130
+Unallocable expenses 4,678
+4,225
+Other income, net (Refer to Note 2.17) 4,711
+2,701
+Finance cost 470
+284
+Profit before tax 35,988
+33,322
+Income tax expense 9,740
+9,214
+Net Profit 26,248
+24,108
+Depreciation and amortization expense 4,678
+4,225
+Non-cash expenses other than depreciation and amortization —
+—
+(1) Financial Services include enterprises in Financial Services and Insurance
+(2) Retail includes enterprises in Retail, Consumer Packaged Goods and Logistics
+(3) Communication includes enterprises in Communication, Telecom OEM and Media
+(4) Life Sciences includes enterprises in Life sciences and Health care
+(5) Others include operating segments of businesses in India, Japan, China, Infosys Public Services & other enterprises in Public Services
+* Includes impact on account of McCamish cybersecurity incident. Refer note 2.21.3.
+Significant clients
+No client individually accounted for more than 10% of the revenues for the three months and year ended March 31, 2024 and March 31, 2023, respectively.
+38

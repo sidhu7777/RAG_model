@@ -1,0 +1,57 @@
+Condensed Consolidated Statement of Changes in Equity (contd.)
+(In ₹ crore)
+Particulars OTHER EQUITY
+Reserves & Surplus Other comprehensive income
+Capital Capital Securities Retained General Share Special Other Equity Exchange Effective Other items of Total equity
+Equity reserve redemption Premium earnings reserve Options Economic reserves (3) instruments differences on portion of other attributable to Non-
+Share reserve Outstanding Zone Re- through other translating the Cash Flow comprehensive equity holders controlling Total equity
+capital (1) Account investment comprehensive financial Hedges income / (loss) of the interest
+reserve (2) income statements of a Company
+foreign operation
+Balance as at April 1, 2023 2,069 54 169 166 58,957 1,054 878 10,014 19 247 2,325 (5) (540) 75,407 388 75,795
+Changes in equity for the year ended March 31, 2024
+Profit for the period — — — — 26,233 — — — — — — — — 26,233 15 26,248
+Remeasurement of the net defined benefit liability/asset, net* — — — — — — — — — — — — 120 120 — 120
+Equity instruments through other comprehensive income, net* — — — — — — — — — 19 — — — 19 — 19
+Fair value changes on derivatives designated as cash flow hedge, net* — — — — — — — — — — — 11 — 11 — 11
+Exchange differences on translation of foreign operations — — — — — — — — — — 227 — — 227 (1) 226
+Fair value changes on investments, net* — — — — — — — — — — — — 144 144 — 144
+Total Comprehensive income for the period — — — — 26,233 — — — — 19 227 11 264 26,754 14 26,768
+Shares issued on exercise of employee stock options (Refer to Note
+2 — — 3 — — — — — — — — — 5 — 5
+2.11)
+Employee stock compensation expense (Refer to Note 2.11) — — — — — — 639 — — — — — — 639 — 639
+Transferred on account of exercise of stock options (Refer to note
+— — — 447 — — (447) — — — — — — — — —
+2.11)
+Transferred on account of options not exercised — — — — — 160 (160) — — — — — — — — —
+Income tax benefit arising on exercise of stock options — — — — — — 3 — — — — — — 3 — 3
+Transfer to legal reserve — — — — (3) — — — 3 — — — — — — —
+Dividends (1) — — — — (14,692) — — — — — — — — (14,692) — (14,692)
+Dividends paid to non controlling interest of subsidiary — — — — — — — — — — — — — — (39) (39)
+Buyback of shares pertaining to non controlling interest of subsidiary — — — — — — — — — — — — — — (18) (18)
+Transferred to Special Economic Zone Re-investment reserve — — — — (2,957) — — 2,957 — — — — — — — —
+Transferred from Special Economic Zone Re-investment reserve on
+— — — — 867 — — (867) — — — — — — — —
+utilization
+Balance as at March 31, 2024 2,071 54 169 616 68,405 1,214 913 12,104 22 266 2,552 6 (276) 88,116 345 88,461
+* Net of tax
+** Including tax on buyback of ₹2,166 crore for the year ended March 31, 2023.
+# Impact on account of adoption of amendment to Ind AS 37 Provisions, Contingent Liabilities and Contingents Assets
+(1)Net of treasury shares
+(2)TheSpecialEconomicZoneRe-investmentReservehasbeencreatedoutoftheprofitofeligibleSEZunitsintermsoftheprovisionsofSec10AA(1)(ii)ofIncomeTaxAct,1961.ThereserveshouldbeutilizedbytheGroupforacquiringnewplantandmachineryforthepurposeofitsbusinessinthetermsofthe
+Sec 10AA(2) of the Income Tax Act, 1961.
+(3)Under the Swiss Code of Obligation, few subsidiaries of Infosys Consulting are required to appropriate a certain percentage of the annual profit to legal reserve which may be used only to cover losses or for measures designed to sustain the Company through difficult times, to prevent unemployment or to
+mitigate its consequences.
+The accompanying notes form an integral part of the interim condensed consolidated financial statements.
+As per our report of even date attached
+for Deloitte Haskins & Sells LLP for and on behalf of the Board of Directors of Infosys Limited
+Chartered Accountants
+Firm’s Registration No :
+117366W/ W-100018
+Sanjiv V. Pilgaonkar D. Sundaram Salil Parekh Bobby Parikh
+Partner Lead Independent Director Chief Executive Officer Director
+Membership No. 039826 and Managing Director
+Bengaluru Jayesh Sanghrajka A.G.S. Manikantha
+April 18, 2024 Chief Financial Officer Company Secretary
+4

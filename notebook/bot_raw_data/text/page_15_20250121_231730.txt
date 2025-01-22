@@ -1,0 +1,40 @@
+2.3 GOODWILL AND OTHER INTANGIBLE ASSETS
+2.3.1 Goodwill
+Accounting policy
+GoodwillrepresentsthepurchaseconsiderationinexcessoftheGroup'sinterestinthenetfairvalueofidentifiableassets,liabilitiesandcontingentliabilitiesoftheacquiredentity.Whenthenetfair
+value of the identifiable assets, liabilities and contingent liabilities acquired exceeds purchase consideration, the fair value of net assets acquired is reassessed and the bargain purchase gain is
+recognized in capital reserve. Goodwill is measured at cost less accumulated impairment losses.
+Impairment
+Goodwill is tested for impairment on an annual basis and whenever there is an indication that the recoverable amount of a cash generating unit (CGU) is less than its carrying amount. For the
+impairment test, goodwill is allocated to the CGU or groups of CGUs which benefit fromthe synergies of the acquisition and which represents the lowestlevel atwhich goodwill is monitored for
+internal management purposes. A CGU is the smallest identifiable group of assets that generates cash inflows that are largely independent of the cash inflows from other assets or group of assets.
+Impairment occurs when the carrying amount of a CGU including the goodwill, exceeds the estimated recoverable amount of the CGU. The recoverable amount of a CGU is the higher of its fair
+value less cost to sell and its value-in-use. Value-in-use is the present value of future cash flows expected to be derived fromthe CGU. Key assumptions in the cash flowprojections are prepared
+based on current economic conditions and includes estimated long term growth rates, weighted average cost of capital and estimated operating margins.
+Following is a summary of changes in the carrying amount of goodwill:
+(In ₹ crore)
+Particulars As at
+March 31, 2024 March 31, 2023
+Carrying value at the beginning 7,248 6,195
+Goodwill on acquisitions (Refer to note 2.1) — 630
+Translation differences 55 423
+Carrying value at the end 7,303 7,248
+For the purpose of impairment testing, goodwill acquired in a business combination is allocated to the CGU or groups of CGUs, which benefit from the synergies of the acquisition.
+2.3.2 Intangible Assets
+Accounting policy
+Intangibleassetsarestatedatcostlessaccumulatedamortizationandimpairment.Intangibleassetsareamortizedovertheirrespectiveindividualestimatedusefullivesonastraight-linebasis,from
+the date that theyare available for use. The estimated usefullife ofan identifiable intangible asset is based on a number offactors includingthe effectsof obsolescence, demand, competition, and
+othereconomicfactors(suchasthestabilityoftheindustry,andknowntechnologicaladvances)andthelevelofmaintenanceexpendituresrequiredtoobtaintheexpectedfuturecashflowsfromthe
+asset. Amortization methods and useful lives are reviewed periodically including at each financial year end.
+Research costs are expensed as incurred. Software product development costs are expensed as incurred unless technical and commercial feasibilityof the project is demonstrated, future economic
+benefitsare probable, the Group has anintentionand abilityto complete and use or sellthe software and the costscanbe measured reliably. The costswhichcan be capitalized include the costof
+material, direct labor, overhead costs that are directly attributable to prepare the asset for its intended use.
+Impairment
+Intangibleassetsareevaluatedforrecoverabilitywhenevereventsorchangesincircumstancesindicatethattheircarryingamountsmaynotberecoverable.Forthepurposeofimpairmenttesting,the
+recoverable amount (i.e. the higher of the fair value less cost to sell and the value-in-use) is determined on an individual asset basis unless the asset does not generate cash flows that are largely
+independent of those from other assets. In such cases, the recoverable amount is determined for the CGU to which the asset belongs.
+Ifsuchassetsare considered to be impaired, the impairment to be recognized intheConsolidated StatementofProfitand Lossismeasuredbytheamountbywhichthecarryingvalueoftheassets
+exceedstheestimatedrecoverableamountoftheasset.AnimpairmentlossisreversedintheConsolidatedStatementofProfitandLossiftherehasbeenachangeintheestimatesusedtodetermine
+the recoverable amount. The carrying amount of the asset is increased to its revised recoverable amount, provided that this amount does not exceed the carrying amount that would have been
+determined (net of any accumulated amortization) had no impairment loss been recognized for the asset in prior years.
+14

@@ -1,0 +1,61 @@
+2X15AO .17 OTHER INCOME, NET
+Accounting policy
+Other income is comprised primarilyof interest income, dividend income, gain/loss oninvestment and exchange gain/loss on forward and optionscontracts
+andontranslationofforeigncurrencyassetsandliabilities.Interestincomeisrecognizedusingtheeffectiveinterestmethod.Dividendincomeisrecognized
+when the right to receive payment is established.
+Foreign currency
+Accounting policy
+Functional currency
+The functional currency of Infosys, Infosys BPM, EdgeVerve, Skava, Infosys Green Forum, Danske IT and controlled trusts is the Indian rupee. The
+functional currencies for foreign subsidiaries are their respective local currencies. These financial statements are presented in Indian rupees (rounded off to
+crore; one crore equals ten million).
+Transactions and translations
+Foreign-currency denominated monetary assets and liabilities are translated into the relevant functional currency at exchange rates in effect at the Balance
+Sheet date. The gains or losses resulting from such translations are recognized in the Condensed Consolidated Statement of Profit and Loss and reported
+within exchange gains/ (losses) on translation of assets and liabilities, net, except when deferred in Other Comprehensive Income as qualifying cash flow
+hedges. Non-monetary assets and non-monetary liabilities denominated in a foreign currency and measured at fair value are translated at the exchange rate
+prevalentatthedatewhenthefairvaluewasdetermined.Non-monetaryassetsandnon-monetaryliabilitiesdenominated inaforeigncurrencyandmeasured
+at historical cost are translated at the exchange rate prevalent at the date of transaction. The related revenue and expense are recognized using the same
+exchange rate.
+Transaction gains or losses realized upon settlement of foreign currency transactions are included in determining net profit for the period in which the
+transactionissettled.Revenue,expenseandcash-flowitemsdenominatedinforeigncurrenciesaretranslatedintotherelevantfunctionalcurrenciesusingthe
+exchange rate in effect on the date of the transaction.
+Thetranslationoffinancialstatementsoftheforeignsubsidiariestothepresentationcurrency isperformedforassetsandliabilitiesusingtheexchangeratein
+effectattheBalanceSheetdateandforrevenue,expenseandcash-flowitemsusingtheaverageexchangeratefortherespectiveperiods.Thegainsorlosses
+resultingfromsuchtranslationareincludedincurrencytranslationreservesunderothercomponentsofequity.Whenasubsidiaryisdisposedoff,infull,the
+relevant amount is transferred to net profit in the Condensed Consolidated Statement of Profit and Loss. However when a change in the parent's ownership
+does not result in loss of control of a subsidiary, such changes are recorded through equity.
+OtherComprehensiveIncome,netoftaxesincludestranslationdifferencesonnon-monetaryfinancialassetsmeasuredatfairvalueatthereportingdate,such
+as equities classified as financial instruments and measured at fair value through other comprehensive income (FVOCI).
+Goodwillandfairvalueadjustmentsarisingontheacquisitionofaforeignentityaretreatedasassetsandliabilitiesoftheforeignentityandtranslatedatthe
+exchange rate in effect at the Balance Sheet date.
+Government grant
+TheGrouprecognizesgovernmentgrantsonlywhenthereisreasonableassurancethattheconditionsattachedtothemshallbecompliedwith,andthegrants
+willbe received. Government grantsrelated to assetsare treated asdeferred income and are recognized innet profit inthe Consolidated Statement ofProfit
+andLossonasystematicandrationalbasisovertheusefullifeoftheasset.Governmentgrantsrelatedtorevenuearerecognizedonasystematicbasisinnet
+profit in the Consolidated Statement of Profit and Loss over the periods necessary to match them with the related costs which they are intended to
+compensate.
+Other income for the three months and year ended March 31, 2024 and March 31, 2023 is as follows:
+(In ₹ crore)
+Particulars Three months ended March 31, Year ended March 31,
+2024 2023 2024 2023
+Interest income on financial assets carried at amortized cost
+Tax free bonds and Government bonds 31 36 131 149
+Deposit with Bank and others 222 161 929 712
+Interest income on financial assets carried at fair value through other
+comprehensive income
+Non-convertible debentures, commercial papers, certificates of deposit
+318 231 1,007 955
+and government securities
+Income on investments carried at fair value through profit or loss
+Dividend income on liquid mutual funds — — — —
+Gain / (loss) on liquid mutual funds and other investments 88 61 285 148
+Income on investments carried at fair value through other comprehensive
+— — — 1
+income
+Interest on income tax refund 1,916 2 1,965 3
+Exchange gains / (losses) on forward and options contracts 190 1 42 100 ( 647)
+Exchange gains / (losses) on translation of other assets and liabilities (123) (91) 87 1,062
+Miscellaneous income, net 87 129 207 318
+Total other income 2,729 671 4,711 2,701
+30

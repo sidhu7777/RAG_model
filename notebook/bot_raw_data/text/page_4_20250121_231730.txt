@@ -1,0 +1,43 @@
+INFOSYS LIMITED AND SUBSIDIARIES
+Condensed Consolidated Statement of Changes in Equity
+(In ₹ crore)
+Particulars OTHER EQUITY
+Reserves & Surplus Other comprehensive income
+Capital Capital Securities Retained General Share Special Other Equity Exchange Effective Other items of Total equity
+Equity reserve redemption Premium earnings reserve Options Economic reserves (3) instruments differences on portion of other attributable to Non-
+Share reserve Outstanding Zone Re- through other translating the Cash Flow comprehensive equity holders controlling Total equity
+capital (1) Account investment comprehensive financial Hedges income / (loss) of the interest
+reserve (2) income statements of a Company
+foreign operation
+Balance as at April 1, 2022 2,098 54 139 200 61,313 1,061 606 8,339 16 254 1,560 2 (292) 75,350 386 75,736
+Impact on adoption of amendment to Ind AS 37# — — — — (19) — — — — — — — — (19) — (19)
+2,098 54 139 200 61,294 1,061 606 8,339 16 254 1,560 2 (292) 75,331 386 75,717
+Changes in equity for the year ended March 31, 2023
+Profit for the period — — — — 24,095 — — — — — — — — 24,095 13 24,108
+Remeasurement of the net defined benefit liability/asset, net* — — — — — — — — — — — — 8 8 — 8
+Equity instruments through other comprehensive income, net* — — — — — — — — — (7) — — — (7) — (7)
+Fair value changes on derivatives designated as cash flow hedge, net* — — — — — — — — — — — (7) — (7) — (7)
+Exchange differences on translation of foreign operations — — — — — — — — — — 765 — — 765 11 776
+Fair value changes on investments, net* — — — — — — — — — — — — (256) (256) — (256)
+Total Comprehensive income for the period — — — — 24,095 — — — — (7) 765 (7) (248) 24,598 24 24,622
+Shares issued on exercise of employee stock options (Refer to Note
+1 — — 34 — — — — — — — — — 35 — 35
+2.11)
+Employee stock compensation expense (Refer to Note 2.11) — — — — — — 514 — — — — — — 514 — 514
+Transferred on account of options not exercised — — — — — 2 (2) — — — — — — — — —
+Buyback of equity shares (Refer to Note 2.11)** (30) — — (340) (11,096) — — — — — — — — (11,466) — (11,466)
+Transaction costs relating to buyback* — — — (19) (5) — — — — — — — — (24) — (24)
+Amount transferred to capital redemption reserve upon buyback — — 30 — (21) (9) — — — — — — — — — —
+Transferred to Special Economic Zone Re-investment reserve — — — — (3,139) — — 3,139 — — — — — — — —
+Transfer to legal reserve — — — — (3) — — — 3 — — — — — — —
+Transferred on account of exercise of stock options (Refer to note
+— — — 291 — — (291) — — — — — — — — —
+2.11)
+Income tax benefit arising on exercise of stock options — — — — — — 51 — — — — — — 51 — 51
+Dividends (1) — — — — (13,632) — — — — — — — — (13,632) — (13,632)
+Dividends paid to non controlling interest of subsidiary — — — — — — — — — — — — — — (22) (22)
+Transferred from Special Economic Zone Re-investment reserve on
+— — — — 1,464 — — (1,464) — — — — — — — —
+utilization
+Balance as at March 31, 2023 2,069 54 169 166 58,957 1,054 878 10,014 19 247 2,325 (5) (540) 75,407 388 75,795
+3

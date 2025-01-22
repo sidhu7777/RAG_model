@@ -1,0 +1,56 @@
+2X11AO .11 EQUITY
+Accounting policy
+Ordinary Shares
+Ordinarysharesareclassifiedasequitysharecapital.Incrementalcostsdirectlyattributabletotheissuanceofnewordinaryshares,shareoptionsandbuybackarerecognizedasadeductionfrom
+equity, net of any tax effects.
+Treasury Shares
+When any entity within the Group purchases the company's ordinary shares, the consideration paid including any directly attributable incremental cost is presented as a deduction from total
+equity,untiltheyarecancelled,soldorreissued.Whentreasurysharesaresoldorreissuedsubsequently,theamountreceivedisrecognizedasanincreaseinequity,andtheresultingsurplusor
+deficit on the transaction is transferred to / from securities premium.
+Description of reserves
+Capital Redemption Reserve
+Inaccordancewithsection69oftheIndianCompaniesAct,2013,theCompanycreatescapitalredemptionreserveequaltothenominalvalueofthesharesboughtbackasanappropriationfrom
+general reserve / retained earnings.
+Retained earnings
+Retained earnings represent the amount of accumulated earnings of the Group.
+Securities premium
+The amountreceived inexcess ofthe par value ofequityshareshas beenclassified assecurities premium. Amounts have been utilized for bonus issue and share buybackfromshare premium
+account.
+Share options outstanding account
+The share options outstanding account is used to record the fair value of equity-settled share based payment transactions with employees. The amounts recorded in share options outstanding
+account are transferred to securities premium upon exercise of stock options and transferred to general reserve on account of stock options not exercised by employees.
+Special Economic Zone Re-investment reserve
+The Special Economic Zone Re-investment reserve has been created out of the profit of the eligible SEZ unit in terms of the provisions of Sec 10AA (1)(ii) of Income Tax Act, 1961. The
+reserve should be utilized by the Company for acquiring new plant and machinery for the purpose of its business in terms of the provisions of the Sec 10AA (2) of the Income Tax Act, 1961.
+Other components of equity
+Other componentsofequityinclude currencytranslation, remeasurement ofnet defined benefit liability/asset, equityinstrumentsfair valued throughother comprehensive income, changeson
+fair valuation of investments and changes in fair value of derivatives designated as cash flow hedges, net of taxes.
+Currency translation reserve
+The exchange differences arising from the translation of financial statements of foreign subsidiaries with functional currency other than Indian rupees is recognized in other comprehensive
+income and is presented within equity.
+Cash flow hedge reserve
+When a derivative is designated as a cash flow hedging instrument, the effective portion of changes in the fair value of the derivative is recognized in other comprehensive income and
+accumulatedinthecashflowhedgingreserve.ThecumulativegainorlosspreviouslyrecognizedinthecashflowhedgingreserveistransferredtotheinterimcondensedConsolidatedStatement
+of Profit and Loss upon the occurrence of the related forecasted transaction.
+EQUITY SHARE CAPITAL
+(In ₹ crore, except as otherwise stated)
+Particulars As at
+March 31, 2024 March 31, 2023
+Authorized
+Equity shares, ₹5/- par value
+4,80,00,00,000 (4,80,00,00,000) equity shares 2,400 2,400
+Issued, Subscribed and Paid-Up
+Equity shares, ₹5/- par value(1) 2,071 2,069
+4,13,99,50,635 (4,13,63,87,925) equity shares fully paid-up(2)
+2,071 2,069
+Note: Forfeited shares amounted to ₹1,500 (₹1,500)
+(1) Refer to Note 2.20 for details of basic and diluted shares
+(2) Net of treasury shares 1,09,16,829 (1,21,72,119)
+TheCompanyhasonlyoneclassofsharesreferredtoasequityshareshavingaparvalueof₹5/-.Eachholderofequitysharesisentitledtoonevotepershare.Theequitysharesrepresentedby
+American Depositary Shares (ADS) carry similar rights to voting and dividends as the other equity shares. Each ADS represents one underlying equity share.
+IntheeventofliquidationoftheCompany,theholdersofequityshareswillbeentitledtoreceiveanyoftheremainingassetsoftheCompanyinproportiontothenumberofequitysharesheld
+by the shareholders, after distribution of all preferential amounts. However, no such preferential amounts exist currently, other than the amounts held by irrevocable controlled trusts. For
+irrevocable controlled trusts, the corpus would be settled in favor of the beneficiaries.
+There are no voting, dividend or liquidation rights to the holders of options issued under the company's share option plans
+For details of shares reserved for issue under the employee stock option plan of the Company refer to the note below.
+22

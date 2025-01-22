@@ -1,0 +1,82 @@
+2.4 INVESTMENTS
+(In ₹ crore)
+Particulars As at
+March 31, 2024 March 31, 2023
+Non-current Investments
+Unquoted
+Investments carried at fair value through other comprehensive income
+Preference securities 91 193
+Equity securities 2 3
+93 196
+Investments carried at fair value through profit or loss
+Target maturity fund units 431 402
+Others (1) 198 169
+629 571
+Quoted
+Investments carried at amortized cost
+Government bonds 28 28
+Tax free bonds 1,731 1,742
+1,759 1,770
+Investments carried at fair value through other comprehensive income
+Non convertible debentures 2,217 2,713
+Equity securities 113 —
+Government securities 6,897 7,319
+9,227 10,032
+Total non-current investments 11,708 12,569
+Current Investments
+Unquoted
+Investments carried at fair value through profit or loss
+Liquid mutual fund units 2,615 975
+2,615 975
+Investments carried at fair value through other comprehensive income
+Commercial Papers 4,830 742
+Certificates of deposit 3,043 3,574
+7,873 4,316
+Quoted
+Investments carried at amortized cost
+Tax free bonds — 150
+— 150
+Investments carried at fair value through other comprehensive income
+Non convertible debentures 1,962 1,155
+Government securities 465 313
+2,427 1,468
+Total current investments 12,915 6,909
+Total investments 24,623 19,478
+Aggregate amount of quoted investments 13,413 13,420
+Market value of quoted investments (including interest accrued), current 2,428 1,637
+Market value of quoted investments (including interest accrued), non current 11,201 12,042
+Aggregate amount of unquoted investments 11,210 6,058
+Investments carried at amortized cost 1,759 1,920
+Investments carried at fair value through other comprehensive income 19,620 16,012
+Investments carried at fair value through profit or loss 3,244 1,546
+(1) Uncalled capital commitments outstanding as at March 31, 2024 and March 31, 2023 was ₹79 crore and ₹92 crore, respectively.
+Refer to Note 2.10 for Accounting policies on Financial Instruments.
+Method of fair valuation:
+(In ₹ crore)
+Class of investment Method Fair value as at
+March 31, 2024 March 31, 2023
+Liquid mutual fund units - carried at fair value through profit or loss Quoted price 2,615 975
+Target maturity fund units - carried at fair value through profit or loss Quoted price 431 402
+Tax free bonds and government bonds - carried at amortized cost Quoted price and market observable inputs 1,973 2,148
+Non-convertible debentures - carried at fair value through other
+Quoted price and market observable inputs 4,179 3,868
+comprehensive income
+Government securities - carried at fair value through other
+Quoted price and market observable inputs 7,362 7,632
+comprehensive income
+Commercial Papers - carried at fair value through other comprehensive
+Market observable inputs 4,830 742
+income
+Certificates of deposit - carried at fair value through other
+Market observable inputs 3,043 3,574
+comprehensive income
+Quoted Equity securities - carried at fair value through other
+Quoted price 113 —
+comprehensive income
+Unquoted equity and preference securities - carried at fair value Discounted cash flows method, Market multiples method, 93 196
+through other comprehensive income Option pricing model
+Others - carried at fair value through profit or loss Discounted cash flows method, Market multiples method, 198 169
+Option pricing model
+Total 24,837 19,706
+Note: Certain quoted investments are classified as Level 2 in the absence of active market for such investments.
+15

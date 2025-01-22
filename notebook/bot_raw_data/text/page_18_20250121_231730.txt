@@ -1,0 +1,55 @@
+2.8 CASH AND CASH EQUIVALENTS
+(In ₹ crore)
+Particulars As at
+March 31, 2024 March 31, 2023
+Balances with banks
+In current and deposit accounts 14,786 10,026
+Cash on hand — —
+Others
+Deposits with financial institutions — 2,147
+Total cash and cash equivalents 14,786 12,173
+Balances with banks in unpaid dividend accounts 37 37
+Deposit with more than 12 months maturity 57 833
+CashandcashequivalentsasatMarch31,2024andMarch31,2023 includerestrictedcashandbankbalancesof₹348croreand₹362crorerespectively.The
+restrictions are primarily on account of bank balances held by irrevocable trusts controlled by the company.
+The deposits maintained by the Group with banks and financial institutions comprise of time deposits, which can be withdrawn by the Group at any point
+without prior notice or penalty on the principal.
+2.9 OTHER ASSETS
+(In ₹ crore)
+Particulars As at
+March 31, 2024 March 31, 2023
+Non-current
+Capital advances 155 159
+Advances other than capital advances
+Others
+Withholding taxes and others 673 684
+Unbilled revenues # 103 264
+Defined benefit plan assets 31 36
+Prepaid expenses 343 332
+Deferred Contract Cost
+Cost of obtaining a contract * 129 191
+Cost of fulfillment 687 652
+Other receivables — —
+Total non-current other assets 2,121 2,318
+Current
+Advances other than capital advances
+Payment to vendors for supply of goods 356 202
+Others
+Unbilled revenues # 4,845 6,972
+Withholding taxes and others 3,540 3,268
+Prepaid expenses 3,329 2,745
+Deferred Contract Cost
+Cost of obtaining a contract * 200 853
+Cost of fulfillment 358 175
+Other receivables 180 261
+Total current other assets 12,808 14,476
+Total other assets 14,929 16,794
+# Classified as non financial asset as the contractual right to consideration is dependent on completion of contractual milestones.
+*Includes technologyassets takenover bythe Group froma customer asa part oftransformationprojectwhichisnot consideredasdistinctgoodsorservices
+and the control related to the assets is not transferred to the Group in accordance with Ind AS 115 - Revenue fromcontract with customers. Accordingly, the
+samehasbeenconsideredasareductiontothetotalcontractvalueandaccountedasDeferredcontractcost.TheGrouphasenteredintofinancingarrangements
+withathirdpartyfortheseassets.AsatMarch31,2024andMarch31,2023,thefinancialliabilitypertainingtosucharrangementsamountsto₹372croreand
+₹731 crore, respectively. For the year ended March 31, 2023 ₹118 crore was settled directly by the third party to the customer on behalf of the Group and
+accordingly considered as non-cash transaction (Refer to note 2.13)
+Withholding taxes and others primarily consist of input tax credits and Cenvat/VAT recoverable from Government of India.
+17

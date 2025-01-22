@@ -1,0 +1,61 @@
+2.5 LOANS
+(In ₹ crore)
+Particulars As at
+March 31, 2024 March 31, 2023
+Non Current
+Loans considered good - Unsecured
+Other loans
+Loans to employees 34 39
+34 39
+Loans credit impaired - Unsecured
+Other loans
+Loans to employees 2 2
+Less: Allowance for credit impairment (2) (2)
+— —
+Total non-current loans 34 39
+Current
+Loans considered good - Unsecured
+Other loans
+Loans to employees 248 289
+Total current loans 248 289
+Total loans 282 328
+2.6 OTHER FINANCIAL ASSETS
+(In ₹ crore)
+Particulars As at
+March 31, 2024 March 31, 2023
+Non Current
+Security deposits (1) 259 287
+Unbilled revenues (1)# 1,677 1,185
+Net investment in sublease of right-of-use asset (1) 3 305
+Restricted deposits (1)* 47 96
+Others (1) 1,119 925
+Total non-current other financial assets 3,105 2,798
+Current
+Security deposits (1) 75 42
+Restricted deposits (1)* 2,535 2,348
+Unbilled revenues (1)# 7,923 8,317
+Interest accrued but not due (1) 537 488
+Foreign currency forward and options contracts (2) (3) 84 101
+Net investment in sublease of right of-use-asset (1) 6 53
+Others (1)** 925 255
+Total current other financial assets 12,085 11,604
+Total other financial assets 15,190 14,402
+(1) Financial assets carried at amortized cost 15,106 14,301
+(2) Financial assets carried at fair value through other comprehensive income 23 32
+(3) Financial assets carried at fair value through profit or loss 61 69
+* Restricted deposits represent deposits with financial institutions to settle employee related obligations as and when they arise during the normal course of business.
+# Classified as financial asset as right to consideration is unconditional and is due only after a passage of time.
+** Primarily includes net investment in lease
+2.7 TRADE RECEIVABLES
+(In ₹ crore)
+Particulars As at
+March 31, 2024 March 31, 2023
+Current
+Trade Receivable considered good - Unsecured 30,713 25,965
+Less: Allowance for expected credit loss 520 541
+Trade Receivable considered good - Unsecured 30,193 25,424
+Trade Receivable - credit impaired - Unsecured 196 142
+Less: Allowance for credit impairment 196 142
+Trade Receivable - credit impaired - Unsecured — —
+Total trade receivables 30,193 25,424
+16

@@ -1,0 +1,69 @@
+The carrying value and fair value of financial instruments by categories as at March 31, 2023 were as follows:
+(In ₹ crore)
+Particulars Amortized Financial assets/ liabilities at Financial assets/liabilities at fair Total carrying Total fair value
+cost fair value through profit or value through OCI value
+loss
+Designated Mandatory Equity instruments Mandatory
+upon initial designated upon
+recognition initial recognition
+Assets:
+Cash and cash equivalents (Refer to Note 2.8) 12,173 — — — — 12,173 12,173
+Investments (Refer to Note 2.4)
+Equity and preference securities — — — 196 — 196 196
+Tax free bonds and government bonds 1,920 — — — — 1,920 2,148 (1)
+Liquid mutual fund units — — 975 — — 975 975
+Target maturity fund units — — 402 — — 402 402
+Non convertible debentures — — — — 3,868 3,868 3,868
+Government securities — — — — 7,632 7,632 7,632
+Commercial papers — — — — 742 742 742
+Certificates of deposit — — — — 3,574 3,574 3,574
+Other investments — — 169 — — 169 169
+Trade receivables (Refer to Note 2.7) 25,424 — — — — 25,424 25,424
+Loans (Refer to Note 2.5) 328 — — — — 328 328
+Other financials assets (Refer to Note 2.6)(3) 14,301 — 69 — 32 14,402 14,318 (2)
+Total 54,146 — 1,615 196 15,848 71,805 71,949
+Liabilities:
+Trade payables 3,865 — — — — 3,865 3,865
+Lease liabilities (Refer to Note 2.19) 8,299 — — — — 8,299 8,299
+Financial Liability under option arrangements — — 600 — — 600 600
+(Refer to Note 2.12)
+Other financial liabilities (Refer to Note 2.12) 17,359 — 161 — 14 17,534 17,534
+Total 29,523 — 761 — 14 30,298 30,298
+(1) On account of fair value changes including interest accrued
+(2) Excludes interest accrued on tax free bonds and government bonds carried at amortized cost of ₹84 crore
+(3) Excludes unbilled revenue on contracts where the right to consideration is dependent on completion of contractual milestones
+Fortradereceivables,tradepayables,otherassetsandpayablesmaturingwithinoneyearfromtheBalanceSheetdate,thecarryingamountsapproximatethefairvalueduetothe
+short maturity of these instruments.
+Fair value hierarchy
+Level 1 - Quoted prices (unadjusted) in active markets for identical assets or liabilities.
+Level 2 - Inputs other than quoted prices included within Level 1 that are observable for the asset or liability, either directly (i.e. as prices) or indirectly (i.e. derived from prices).
+Level 3 - Inputs for the assets or liabilities that are not based on observable market data (unobservable inputs).
+The fair value hierarchy of assets and liabilities measured at fair value on a recurring basis as at March 31, 2024 is as follows:
+(In ₹ crore)
+Particulars As at March 31, Fair value measurement at end of the reporting period
+2024 using
+Level 1 Level 2 Level 3
+Assets
+Investments (Refer to note 2.4)
+Investments in liquid mutual funds 2,615 2,615 — —
+Investments in target maturity fund units 431 431 — —
+Investments in tax free bonds 1,944 1,944 — —
+Investments in government bonds 29 29 — —
+Investments in non convertible debentures 4,179 3,922 257 —
+Investment in government securities 7,362 7,289 73 —
+Investments in equity securities 115 — — 115
+Investments in preference securities 91 — — 91
+Investments in commercial papers 4,830 — 4,830 —
+Investments in certificates of deposit 3,043 — 3,043 —
+Other investments 198 — — 198
+Others
+Derivative financial instruments - gain on outstanding foreign exchange forward and option 84 84
+— —
+contracts (Refer to Note 2.6)
+Liabilities
+Derivative financial instruments - loss on outstanding foreign exchange forward and option 31 31
+— —
+contracts (Refer to Note 2.12)
+Financial liability under option arrangements (Refer to Note 2.12)(1) 597 — — 597
+(1) Discount rate ranges from 9% to 15%
+20

@@ -1,0 +1,34 @@
+2X17AO .20 BASIC AND DILUTED SHARES USED IN COMPUTING EARNINGS PER EQUITY SHARE
+Accounting policy
+BasicearningsperequityshareiscomputedbydividingthenetprofitattributabletotheequityholdersoftheGroupbytheweightedaveragenumberofequity
+sharesoutstandingduringtheperiod.DilutedearningsperequityshareiscomputedbydividingthenetprofitattributabletotheequityholdersoftheGroupby
+the weighted average number of equity shares considered for deriving basic earnings per equity share and also the weighted average number of equityshares
+thatcouldhavebeenissueduponconversionofalldilutivepotentialequityshares.Thedilutivepotentialequitysharesareadjustedfortheproceedsreceivable
+had the equity shares been actually issued at fair value (i.e. the average market value of the outstanding equity shares). Dilutive potential equity shares are
+deemedconvertedasatthebeginningoftheperiod,unlessissuedatalaterdate.Dilutivepotentialequitysharesaredetermined independentlyforeachperiod
+presented.
+The number of equity shares and potentiallydilutive equityshares are adjusted retrospectively for all periods presented for anyshare splits and bonus shares
+issues including for changes effected prior to the approval of the financial statements by the Board of Directors.
+2.21 CONTINGENT LIABILITIES AND COMMITMENTS
+Accounting policy
+Contingentliabilityisapossibleobligationarisingfrompasteventsandwhoseexistencewillbeconfirmedonlybytheoccurrenceornon-occurrenceofoneor
+more uncertainfutureeventsnotwhollywithinthe controloftheentityora presentobligation thatarisesfrompasteventsbut isnot recognizedbecause itis
+not probable that an outflow of resources embodying economic benefits will be required to settle the obligation or the amount of the obligation cannot be
+measured with sufficient reliability.
+2.21.1 Contingent liability
+(In ₹ crore)
+As at
+Particulars
+March 31, 2024 March 31, 2023
+Contingent liabilities :
+Claims against the Group, not acknowledged as debts(1) 3,583 4,762
+[Amount paid to statutory authorities ₹8,754 crore (₹6,539 crore)]
+(1) AsatMarch31,2024andMarch31,2023,claimsagainsttheGroupnotacknowledgedasdebtsinrespectofincometaxmattersamountedto₹2,794crore
+and ₹4,062 crore, respectively.
+TheclaimsagainsttheGroupprimarilyrepresentdemandsarisingoncompletionofassessmentproceedingsundertheIncomeTaxAct,1961.Theseclaimsare
+onaccountofissuesofdisallowanceofexpendituretowardssoftwarebeingheldascapitalinnature,paymentsmadetoAssociatedEnterprisesheldasliablefor
+withholding of taxes, among others. These matters are pending before various Income Tax Authorities and the Management including its tax advisors expect
+that its position will likely be upheld on ultimate resolution and will not have a material adverse effect on the Group's financial position and results of
+operations.
+Amount paid to statutory authorities against the tax claims amounted to ₹8,743 crore and ₹6,528 crore as at March 31, 2024 and March 31, 2023, respectively.
+34

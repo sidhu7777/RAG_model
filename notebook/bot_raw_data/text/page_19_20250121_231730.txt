@@ -1,0 +1,49 @@
+2X10AO .10 FINANCIAL INSTRUMENTS
+Accounting policy
+2.10.1 Initial recognition
+The Group recognizes financial assets and financial liabilities when it becomes a party to the contractual provisions of the instrument. All financial assets and liabilities are
+recognized atfair value oninitial recognition, except for trade receivables whichare initiallymeasuredattransactionprice. Transactioncoststhatare directlyattributable tothe
+acquisition or issue of financial assets and financial liabilities, which are not at fair value through profit or loss, are added to the fair value on initial recognition. Regular way
+purchase and sale of financial assets are accounted for at trade date.
+2.10.2 Subsequent measurement
+a. Non-derivative financial instruments
+(i) Financial assets carried at amortized cost
+Afinancialassetissubsequentlymeasuredatamortizedcostifitisheldwithinabusinessmodelwhoseobjectiveistoholdtheassetinordertocollectcontractualcashflowsand
+the contractual terms of the financial asset give rise on specified dates to cash flows that are solely payments of principal and interest on the principal amount outstanding.
+(ii) Financial assets carried at fair value through other comprehensive income (FVOCI)
+Afinancialassetissubsequentlymeasured atfairvaluethroughothercomprehensiveincomeifitisheldwithinabusinessmodelwhoseobjectiveisachievedbybothcollecting
+contractual cashflowsand selling financial assets and the contractual terms ofthe financial asset give rise onspecified dates to cashflows that are solelypayments ofprincipal
+and interest on the principal amount outstanding. The Group has made an irrevocable election for its investments which are classified as equity instruments to present the
+subsequent changes in fair value in other comprehensive income based on its business model.
+(iii) Financial assets carried at fair value through profit or loss (FVTPL)
+A financial asset which is not classified in any of the above categories is subsequently fair valued through profit or loss.
+(iv) Financial liabilities
+Financial liabilities are subsequently carried at amortized cost using the effective interest method, except for contingent consideration and financial liability under option
+arrangements recognized in a business combination which is subsequently measured at fair value through profit or loss.
+b. Derivative financial instruments
+The Group holds derivative financial instruments such as foreign exchange forward and option contracts to mitigate the risk of changes in exchange rates on foreign currency
+exposures. The counterparty for such contracts is generally a bank.
+(i) Financial assets or financial liabilities, carried at fair value through profit or loss.
+This category includes derivative financial assets or liabilities which are not designated as hedges.
+Although the Group believes that these derivatives constitute hedges from an economic perspective, they may not qualify for hedge accounting under Ind AS 109, Financial
+Instruments.Anyderivativethatiseithernotdesignatedashedge,orissodesignatedbutisineffectiveasperIndAS109,iscategorizedasafinancialassetorfinancialliability,
+at fair value through profit or loss.
+DerivativesnotdesignatedashedgesarerecognizedinitiallyatfairvalueandattributabletransactioncostsarerecognizedinnetprofitintheConsolidatedStatementofProfitand
+Losswhenincurred.Subsequenttoinitialrecognition,thesederivativesaremeasuredatfairvaluethroughprofitorlossandtheresultingexchangegainsorlossesareincludedin
+otherincome.Assets/liabilitiesinthiscategoryarepresentedascurrentassets/currentliabilitiesiftheyareeitherheldfortradingorareexpectedtoberealizedwithin12months
+after the Balance Sheet date.
+(ii) Cash flow hedge
+The Group designates certainforeignexchange forward and optionscontractsascashflowhedgesto mitigate the riskofforeignexchangeexposure onhighlyprobableforecast
+cash transactions.
+Whenaderivativeisdesignatedasacashflowhedginginstrument,theeffectiveportionofchangesinthefairvalueofthederivativeisrecognizedinothercomprehensiveincome
+and accumulated in the cash flow hedging reserve. Any ineffective portion of changes in the fair value of the derivative is recognized immediately in the net profit in the
+ConsolidatedStatementofProfitandLoss.Ifthehedginginstrumentnolongermeetsthecriteriaforhedgeaccounting,thenhedgeaccountingisdiscontinuedprospectively.Ifthe
+hedginginstrumentexpires or issold, terminated or exercised, the cumulative gain or loss onthe hedginginstrument recognized in cashflowhedgingreserve tillthe period the
+hedge was effective remains in cash flow hedging reserve until the forecasted transaction occurs. The cumulative gain or loss previously recognized in the cash flow hedging
+reserveistransferredtothenetprofitintheConsolidatedStatementofProfitandLossupontheoccurrenceoftherelatedforecastedtransaction.Iftheforecastedtransactionisno
+longer expected to occur, then the amount accumulated in cash flow hedging reserve is reclassified to net profit in the Consolidated Statement of Profit and Loss.
+2.10.3 Derecognition of financial instruments
+TheGroupderecognizesafinancialassetwhenthecontractualrightstothecashflowsfromthefinancialassetexpireorittransfersthefinancialassetandthetransferqualifiesfor
+derecognition under Ind AS 109. A financial liability (or a part of a financial liability) is derecognized from the Group's Balance Sheet when the obligation specified in the
+contract is discharged or cancelled or expires.
+18

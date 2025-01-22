@@ -1,0 +1,45 @@
+The changes in the carrying value of property, plant and equipment for the year ended March 31, 2024 are as follows:
+(In ₹ crore)
+Particulars Land - Buildings Plant and Office Computer Furniture and Leasehold Vehicles Total
+Freehold (1) machinery Equipment equipment fixtures Improvements
+Gross carrying value as at April 1, 2023 1,431 11,562 3,302 1,482 8,519 2,303 1,445 45 30,089
+Additions 1 300 193 106 931 121 108 1 1,761
+Deletions** — (55) (64) (60) (846) (99) (102) (1) (1,227)
+Translation difference — (37) (3) — 7 1 (4) — (36)
+Gross carrying value as at March 31, 2024 1,432 11,770 3,428 1,528 8,611 2,326 1,447 45 30,587
+Accumulated depreciation as at April 1, 2023 — (4,535) (2,437) (1,198) (5,826) (1,675) (1,032) (40) (16,743)
+Depreciation — (450) (259) (130) (1,387) (250) (206) (3) (2,685)
+Accumulated depreciation on deletions** — 55 64 59 836 89 97 1 1,201
+Translation difference — 9 2 — (3) (1) 3 — 10
+Accumulated depreciation as at March 31, 2024 — (4,921) (2,630) (1,269) (6,380) (1,837) (1,138) (42) (18,217)
+Carrying value as at April 1, 2023 1,431 7,027 865 284 2,693 628 413 5 13,346
+Carrying value as at March 31, 2024 1,432 6,849 798 259 2,231 489 309 3 12,370
+**DuringthethreemonthsandyearendedMarch31,2024,certainassetswhichwerenotinusehavinggrossbookvalueof₹181crore(net bookvalue: Nil)and ₹775crore (netbookvalue:Nil),
+respectively were retired.
+The changes in the carrying value of property, plant and equipment for the year ended March 31, 2023 are as follows:
+(In ₹ crore)
+Particulars Land - Buildings Plant and Office Computer Furniture and Leasehold Vehicles Total
+Freehold (1) machinery Equipment equipment fixtures Improvements
+Gross carrying value as at April 1, 2022 1,431 11,224 3,210 1,427 8,527 2,278 1,234 44 29,375
+Additions - Business Combination (Refer to Note 2.1) — — — 5 6 1 2 — 14
+Additions 2 337 273 122 1,510 364 220 2 2,830
+Deletions* (2) — (182) (76) (1,563) (348) (25) (1) (2,197)
+Translation difference — 1 1 4 39 8 14 — 67
+Gross carrying value as at March 31, 2023 1,431 11,562 3,302 1,482 8,519 2,303 1,445 45 30,089
+Accumulated depreciation as at April 1, 2022 — (4,100) (2,344) (1,150) (6,034) (1,779) (856) (37) (16,300)
+Depreciation — (434) (273) (121) (1,322) (236) (187) (4) (2,577)
+Accumulated depreciation on deletions* — — 181 76 1,556 347 21 1 2,182
+Translation difference — (1) (1) (3) (26) (7) (10) — (48)
+Accumulated depreciation as at March 31, 2023 — (4,535) (2,437) (1,198) (5,826) (1,675) (1,032) (40) (16,743)
+Carrying value as at April 1, 2022 1,431 7,124 866 277 2,493 499 378 7 13,075
+Carrying value as at March 31, 2023 1,431 7,027 865 284 2,693 628 413 5 13,346
+*Duringthe three monthsand year ended March31, 2023, certain assetswhich were old and not inuse havinggross bookvalue of₹1,414 crore (net bookvalue: Nil) and ₹1,918 crore (net book
+value: Nil), respectively were retired.
+(1) Buildings include ₹250/- being the value of five shares of ₹50/- each in Mittal Towers Premises Co-operative Society Limited.
+The aggregate depreciation has been included under depreciation and amortization expense in the interim condensed Consolidated Statement of Profit and Loss.
+Repairs and maintenance costs are recognized in the Consolidated Statement of Profit and Loss when incurred.
+ConsequenttotheCompanies(CorporateSocialResponsibilityPolicy)AmendmentRules,2021(“theRules”),theCompanywasrequiredtotransferitsCSRcapitalassetsinstalledpriortoJanuary
+2021.TowardsthistheCompanyhadincorporatedasubsidiary‘InfosysGreenForum’ (IGF)underSection8oftheCompaniesAct,2013.DuringtheyearendedMarch31,2022theCompanyhad
+completedthetransferofassetsuponobtainingtherequiredapprovalsfromregulatoryauthorities,asapplicable.DuringMarch31,2024,theapplicationfiledbyIGFforregistrationu/s.12ABofthe
+Income Tax Act was rejected and registration cancelled. IGF is in the process of challenging the rejection order.
+13

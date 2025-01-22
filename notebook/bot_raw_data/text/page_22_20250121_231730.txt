@@ -1,0 +1,39 @@
+During the year ended March 31, 2024, government securities , non convertible debentures and tax free bonds of ₹2,143 crore was transferred from Level 2 to Level 1 of fair
+value hierarchy, since these were valued based on quoted price. Further, government securities of ₹ 73 crore were transferred from Level 1 to Level 2 of fair value hierarchy,
+since these were valued based on market observable inputs.
+The fair value hierarchy of assets and liabilities measured at fair value on a recurring basis as at March 31, 2023 was as follows:
+(In ₹ crore)
+Particulars As at Fair value measurement at end of the reporting period
+March 31, 2023 using
+Level 1 Level 2 Level 3
+Assets
+Investments (Refer to note 2.4)
+Investments in liquid mutual funds 975 975 — —
+Investments in target maturity fund units 402 402 — —
+Investments in tax free bonds 2,120 1,331 789 —
+Investments in government bonds 28 28 — —
+Investments in non convertible debentures 3,868 1,793 2,075 —
+Investment in government securities 7,632 7,549 83 —
+Investments in equity securities 3 — — 3
+Investments in preference securities 193 — — 193
+Investments in commercial papers 742 — 742 —
+Investments in certificates of deposit 3,574 — 3,574 —
+Other investments 169 — — 169
+Others
+Derivative financial instruments - gain on outstanding foreign exchange forward and option 101 — 101 —
+contracts (Refer to Note 2.6)
+Liabilities
+Derivative financial instruments - loss on outstanding foreign exchange forward and option 78 — 78 —
+contracts (Refer to Note 2.12)
+Financial liability under option arrangements (Refer to Note 2.12)(1) 600 — — 600
+Liability towards contingent consideration (Refer to Note 2.12)(1) 97 — — 97
+(1) Discount rate ranges from 10% to 15%
+DuringtheyearendedMarch31,2023,governmentsecuritiesandtaxfreebondsof₹383crorewastransferredfromLevel2toLevel1offairvaluehierarchy,sincethesewere
+valuedbasedonquotedprice.Further,non-convertibledebenturesof₹1,611croreweretransferredfromLevel1toLevel2offairvaluehierarchy,sincethesewerevaluedbased
+on market observable inputs.
+A one percentage point change in the unobservable inputs used in fair valuation of Level 3 assets and liabilities does not have a significant impact in its value.
+Majority of investments of the Group are fair valued based on Level 1 or Level 2 inputs. These investments primarily include investment in liquid mutual fund units, target
+maturity fund units, tax free bonds, certificates of deposit, commercial papers, treasury bills, government securities, non-convertible debentures, quoted bonds issued by
+government and quasi-government organizations. The Group invests after considering counterparty risks based on multiple criteria including Tier I capital, Capital Adequacy
+Ratio, Credit Rating, Profitability, NPA levels and Deposit base of banks and financial institutions. These risks are monitored regularly as per Group's risk management program.
+21

@@ -1,0 +1,72 @@
+The reconciliation of the number of shares outstanding and the amount of share capital as at March 31, 2024 and March 31, 2023 are as follows:
+(In ₹ crore, except as stated otherwise)
+Particulars As at March 31, 2024 As at March 31, 2023
+Number of shares Amount Number of shares Amount
+As at the beginning of the period 413,63,87,925 2,069 419,30,12,929 2,098
+Add: Shares issued on exercise of employee stock options 35,62,710 2 38,01,344 1
+Less: Shares bought back — — 6,04,26,348 30
+As at the end of the period 413,99,50,635 2,071 413,63,87,925 2,069
+Capital allocation policy
+Effectivefromfinancialyear2025,theCompanyexpectstocontinuethepolicyofreturningapproximately85%ofthefreecashflowcumulativelyovera5-yearperiodthroughacombinationof
+semi-annual dividends and/or share buyback/ special dividends subject to applicable laws and requisite approvals, if any. Under this policy, the Companyexpects to progressively increase its
+annual dividend per share (excluding special dividend if any).
+FreecashflowisdefinedasnetcashprovidedbyoperatingactivitieslesscapitalexpenditureaspertheconsolidatedstatementofcashflowspreparedunderIFRS.Dividendandbuybackinclude
+applicable taxes
+Buyback completed in February 2023
+In line with the capital allocation policy, the Board, at its meeting held on October 13, 2022, approved the buyback of equity shares, from the open market route through the Indian stock
+exchanges,amountingto₹9,300crore(MaximumBuybackSize,excludingbuybacktax)atapricenotexceeding₹1,850pershare(MaximumBuybackPrice),subjecttoshareholders'approval
+by way of Postal Ballot.
+The shareholders approved the proposal of buyback of Equity Shares recommended by its Board of Directors by way of e-voting on the postal ballot, the results of which were declared on
+December3,2022.ThebuybackwasofferedtoallequityshareholdersoftheCompany(otherthanthePromoters,thePromoterGroupandPersonsinControloftheCompany)undertheopen
+market route through the stock exchange. The buyback of equity shares through the stock exchange commenced on December 7, 2022 and was completed on February 13, 2023. During this
+buybackperiodtheCompanyhadpurchasedandextinguishedatotalof60,426,348equitysharesfromthestockexchangeatavolumeweightedaveragebuybackpriceof₹1,539.06/-perequity
+share comprising 1.44% of the pre buyback paid-up equity share capital of the Company. The buyback resulted in a cash outflow of ₹9,300 crore (excluding transaction costs and tax on
+buyback). The Company funded the buyback from its free reserves including Securities Premium as explained in Section 68 of the Companies Act, 2013.
+Inaccordancewithsection69oftheCompaniesAct,2013,asatMarch31,2023,theCompanyhascreated‘CapitalRedemptionReserve’of₹30croreequaltothenominalvalueoftheshares
+bought back as an appropriation from general reserve and retained earnings.
+The Company’s objective when managing capital is to safeguard itsabilityto continue asa goingconcern and to maintainan optimal capital structure so asto maximize shareholder value. In
+ordertomaintainorachieveanoptimalcapitalstructure,theCompanymayadjusttheamountofdividendpayment,returncapitaltoshareholders,issuenewsharesorbuybackissuedshares.As
+of March 31, 2024, the Company has only one class of equity shares and has no debt. Consequent to the above capital structure there are no externally imposed capital requirements.
+Dividend
+The final dividend on sharesis recorded as a liabilityonthe date of approval bythe shareholders and interimdividendsare recorded as a liabilityonthe date of declarationbythe Company's
+Board of Directors. Income tax consequences of dividends on financial instruments classified as equity will be recognized according to where the entity originally recognized those past
+transactions or events that generated distributable profits.
+The Company declares and pays dividends in Indian rupees. Companies are required to pay/distribute dividend after deducting applicable taxes. The remittance of dividends outside India is
+governed by Indian law on foreign exchange and is also subject to withholding tax at applicable rates.
+The amount of per share dividend recognized as distribution to equity shareholders is as follows:
+(in ₹)
+Particulars Three months ended March 31, Year ended March 31,
+2024 2023 2024 2023
+Final dividend for fiscal 2022 — — — 16.00
+Interim dividend for fiscal 2023 — — — 16.50
+Final dividend for fiscal 2023 — — 17.50 —
+Interim dividend for fiscal 2024 — — 18.00 —
+During the year ended March 31, 2024, on account of the final dividend for fiscal 2023 and interim dividend for fiscal 2024, the Company has incurred a net cash outflow of ₹14,692 crore
+(excluding dividend paid on treasury shares)
+TheBoardofDirectorsintheirmeetingheldonApril18,2024recommendedafinaldividendof₹20/-perequityshareforthefinancialyearendedMarch31,2024andaspecialdividendof₹8/-
+per equity share. The payment is subject to the approval of shareholders in the AGM of the Company to be held on June 26, 2024 and if approved, would result in a net cash outflow of
+approximately ₹11,592 crore (excluding dividend paid on treasury shares).
+Employee Stock Option Plan (ESOP):
+Accounting policy
+TheGrouprecognizescompensationexpenserelatingtoshare-basedpaymentsinnetprofitbasedonestimatedfairvaluesoftheawardsonthegrantdate.Theestimatedfairvalueofawardsis
+recognized as an expense in the statement of profit and loss on a straight-line basis over the requisite service period for each separately vesting portion of the award as if the award was in-
+substance, multiple awards with a corresponding increase to share options outstanding account.
+Infosys Expanded Stock Ownership Program 2019 (the 2019 Plan) :
+OnJune22,2019pursuanttoapprovalbytheshareholdersintheAnnualGeneralMeeting,theBoardhasbeenauthorizedtointroduce,offer,issueandprovideshare-basedincentivestoeligible
+employees of the Companyand its subsidiaries under the 2019 Plan. The maximumnumber of shares under the 2019 Plan shall not exceed 5,00,00,000 equityshares. To implement the 2019
+Plan, up to 4,50,00,000 equityshares maybe issued bywayofsecondaryacquisitionofshares byInfosysExpanded StockOwnership Trust. The Restricted Stock Units(RSUs) granted under
+the 2019 Planshallvestbasedontheachievementofdefined annualperformance parametersasdeterminedbytheadministrator (Nominationand RemunerationCommittee). Theperformance
+parameters will be based on a combination of relative Total Shareholder Return (TSR) against selected industry peers and certain broader market domestic and global indices and operating
+performancemetricsoftheCompanyasdecidedbyadministrator.Eachoftheaboveperformanceparameterswillbedistinctforthepurposesofcalculationofquantityofsharestovestbasedon
+performance. These instruments will generally vest between a minimum of 1 to maximum of 3 years from the grant date.
+2015 Stock Incentive Compensation Plan (the 2015 Plan) :
+OnMarch31,2016,pursuanttotheapprovalbytheshareholdersthroughpostalballot,theBoardwasauthorizedtointroduce,offer,issueandallotshare-basedincentivestoeligibleemployees
+of the Companyand its subsidiaries under the 2015 Stock Incentive Compensation Plan. The maximumnumber of sharesunder the 2015 Planshall not exceed 2,40,38,883 equityshares(this
+includes 1,12,23,576 equityshares which are held bythe trust towards the 2011 Plan as at March 31, 2016). These instruments will generallyvest over a period of4 years. The plannumbers
+mentioned above are further adjusted with the September 2018 bonus issue.
+The equity settled and cash settled RSUs and stock options would vest generally over a period of 4 years and shall be exercisable within the period as approved by the Nomination and
+RemunerationCommittee(NARC).TheexercisepriceoftheRSUswillbeequaltotheparvalueofthesharesandtheexercisepriceofthestockoptionswouldbethemarketpriceasonthedate
+of grant.
+Controlled trust holds 10,916,829 and 1,21,72,119 shares as at March 31, 2024 and March 31, 2023, respectively, under the 2015 Plan. Out of these shares, 2,00,000 equityshares each have
+been earmarked for welfare activities of the employees as at March 31, 2024 and March 31, 2023.
+23

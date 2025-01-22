@@ -1,0 +1,60 @@
+(In ₹ crore)
+Particulars Three months ended March 31, Year ended March 31,
+2024 2023 2024 2023
+Employee benefit expenses
+Salaries including bonus 19,527 19,526 79,315 75,239
+Contribution to provident and other funds 529 547 2,213 2,143
+Share based payments to employees (Refer to Note 2.11) 225 133 652 519
+Staff welfare 112 105 440 458
+20,393 20,311 82,620 78,359
+Cost of software packages and others
+For own use 555 496 2,145 1,937
+Third party items bought for service delivery to clients 3,132 2,390 11,370 8,965
+3,687 2,886 13,515 10,902
+Other expenses
+Repairs and maintenance 316 331 1,278 1,208
+Power and fuel 49 46 199 176
+Brand and marketing 285 265 1,007 905
+Rates and taxes 84 78 326 299
+Consumables 47 41 170 158
+Insurance 53 43 210 174
+Provision for post-sales client support and others (129) (80) 75 120
+Commission to non-whole time directors 5 4 16 15
+Impairment loss recognized / (reversed) under expected credit loss model (98) 86 121 283
+Contributions towards Corporate Social Responsibility 182 151 533 471
+Others 191 181 781 583
+985 1,146 4,716 4,392
+2.19 Leases
+Accounting Policy
+The Group as a lessee
+TheGroup’sleaseassetclassesconsistofleasesforland,buildingsandcomputers.TheGroupassesseswhetheracontractcontainsalease,atinceptionofa
+contract. A contract is, or contains, a lease if the contract conveys the right to control the use of an identified asset for a period of time in exchange for
+consideration.Toassesswhetheracontractconveystherighttocontroltheuseofanidentifiedasset,thegroupassesseswhether:(1)thecontractinvolvesthe
+useofanidentifiedasset(2) theGroup hassubstantiallyalloftheeconomic benefitsfromuseoftheasset throughthe periodofthelease and(3) theGroup
+has the right to direct the use of the asset.
+Atthedateofcommencementofthelease,theGrouprecognizesaright-of-useasset(“ROU”)andacorrespondingleaseliabilityforallleasearrangementsin
+whichitisalessee,exceptforleaseswithatermoftwelvemonthsorless(short-termleases)andlowvalueleases.Fortheseshort-termandlowvalueleases,
+the Group recognizes the lease payments as an operating expense on a straight-line basis over the term of the lease.
+Asalessee,theGroupdeterminestheleasetermasthenon-cancellableperiodofaleaseadjustedwithanyoptiontoextendorterminatethelease,iftheuse
+ofsuchoptionisreasonablycertain. TheGroup makesanassessmentontheexpected leasetermona lease-by-leasebasisandtherebyassesseswhether itis
+reasonablycertainthatanyoptionstoextendorterminatethecontractwillbeexercised.Inevaluatingtheleaseterm,theGroupconsidersfactorssuchasany
+significantleaseholdimprovementsundertakenovertheleaseterm,costsrelatingtotheterminationoftheleaseandtheimportanceoftheunderlyingassetto
+Group’s operations taking into account the location of the underlying asset and the availability of suitable alternatives. The lease term in future periods is
+reassessed to ensure that the lease term reflects the current economic circumstances.
+Certain lease arrangements includes the options to extend or terminate the lease before the end of the lease term. ROU assets and lease liabilities includes
+these options when it is reasonably certain that they will be exercised.
+The right-of-use assets are initially recognized at cost, which comprises the initial amount of the lease liability adjusted for any lease payments made at or
+prior to the commencement date ofthe lease plus anyinitial direct costs lessanylease incentives. Theyare subsequentlymeasured atcost lessaccumulated
+depreciation and impairment losses.
+Right-of-use assets are depreciated from the commencement date on a straight-line basis over the shorter of the lease term and useful life of the underlying
+asset.
+Right-of-useassetsareevaluatedforrecoverabilitywhenevereventsorchangesincircumstancesindicatethattheircarryingamountsmaynotberecoverable.
+For the purpose of impairment testing, the recoverable amount (i.e. the higher of the fair value less cost to sell and the value-in-use) is determined on an
+individual asset basis unless the asset does not generate cash flows that are largely independent of those from other assets. In such cases, the recoverable
+amount is determined for the Cash Generating Unit (CGU) to which the asset belongs.
+The lease liability is initially measured at amortized cost at the present value of the future lease payments. The lease payments are discounted using the
+interest rate implicit in the lease or, if not readily determinable, using the incremental borrowing rates in the country of domicile of these leases. Lease
+liabilities are remeasured with a corresponding adjustment to the related right-of-use asset ifthe Group changes itsassessment ifwhether itwill exercise an
+extension or a termination option.
+Lease liability and ROU asset have been separately presented in the Balance Sheet and lease payments have been classified as financing cash flows.
+32

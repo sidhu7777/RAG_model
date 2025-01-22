@@ -1,0 +1,47 @@
+X20AO
+2.24 FUNCTION WISE CLASSIFICATION OF CONDENSED CONSOLIDATED STATEMENT OF PROFIT AND LOSS
+(In ₹ crore)
+Particulars Note No. Three months ended March 31, Year ended March 31,
+2024 2023 2024 2023
+Revenue from operations 2.16 37,923 37,441 153,670 146,767
+Cost of Sales 26,748 26,011 107,413 102,353
+Gross profit 11,175 11,430 46,257 44,414
+Operating expenses
+Selling and marketing expenses 1,735 1,659 6,973 6,249
+General and administration expenses 1,819 1,894 7,537 7,260
+Total operating expenses 3,554 3,553 14,510 13,509
+Operating profit 7,621 7,877 31,747 30,905
+Other income, net 2.17 2,729 671 4,711 2,701
+Finance cost 110 82 470 284
+Profit before tax 10,240 8,466 35,988 33,322
+Tax expense:
+Current tax 2.15 1,173 2,260 8,390 9,287
+Deferred tax 2.15 1,092 72 1,350 (73)
+Profit for the period 7,975 6,134 26,248 24,108
+Other comprehensive income
+Items that will not be reclassified subsequently to profit or loss
+Remeasurement of the net defined benefit liability/asset, net 26 25 120 8
+Equity instruments through other comprehensive income, net (12) (15) 19 (7)
+14 10 139 1
+Items that will be reclassified subsequently to profit or loss
+Fair value changes on derivatives designated as cash flow hedge, net 28 36 11 (7)
+Exchange differences on translation of foreign operations (231) 61 226 776
+Fair value changes on investments, net 37 42 144 (256)
+(166) 139 381 513
+Total other comprehensive income / (loss), net of tax (152) 149 520 514
+Total comprehensive income for the period 7,823 6,283 26,768 24,622
+Profit attributable to:
+Owners of the Company 7,969 6,128 26,233 24,095
+Non-controlling interests 6 6 15 13
+7,975 6,134 26,248 24,108
+Total comprehensive income attributable to:
+Owners of the Company 7,821 6,276 26,754 24,598
+Non-controlling interests 2 7 14 24
+7,823 6,283 26,768 24,622
+for and on behalf of the Board of Directors of Infosys Limited
+D. Sundaram Salil Parekh Bobby Parikh
+Lead Independent Director Chief Executive Officer Director
+and Managing Director
+Bengaluru Jayesh Sanghrajka A.G.S. Manikantha
+April 18, 2024 Chief Financial Officer Company Secretary
+39

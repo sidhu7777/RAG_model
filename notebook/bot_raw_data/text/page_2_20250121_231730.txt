@@ -1,0 +1,66 @@
+INFOSYS LIMITED AND SUBSIDIARIES
+(In ₹ crore )
+Condensed Consolidated Balance Sheets as at Note No. March 31, 2024 March 31, 2023
+ASSETS
+Non-current assets
+Property, plant and equipment 2.2 12,370 13,346
+Right-of-use assets 2.19 6,552 6,882
+Capital work-in-progress 293 288
+Goodwill 2.3 7,303 7,248
+Other intangible assets 1,397 1,749
+Financial assets
+Investments 2.4 11,708 12,569
+Loans 2.5 34 39
+Other financial assets 2.6 3,105 2,798
+Deferred tax assets (net) 454 1,245
+Income tax assets (net) 3,045 6,453
+Other non-current assets 2.9 2,121 2,318
+Total non-current assets 48,382 54,935
+Current assets
+Financial assets
+Investments 2.4 12,915 6,909
+Trade receivables 2.7 30,193 25,424
+Cash and cash equivalents 2.8 14,786 12,173
+Loans 2.5 248 289
+Other financial assets 2.6 12,085 11,604
+Income tax assets (net) 6,397 6
+Other current assets 2.9 12,808 14,476
+Total current assets 89,432 70,881
+Total assets 137,814 125,816
+EQUITY AND LIABILITIES
+Equity
+Equity share capital 2.11 2,071 2,069
+Other equity 86,045 73,338
+Total equity attributable to equity holders of the Company 88,116 75,407
+Non-controlling interests 345 388
+Total equity 88,461 75,795
+Liabilities
+Non-current liabilities
+Financial Liabilities
+Lease liabilities 2.19 6,400 7,057
+Other financial liabilities 2.12 2,130 2,058
+Deferred tax liabilities (net) 1,794 1,220
+Other non-current liabilities 2.13 235 500
+Total non-current liabilities 10,559 10,835
+Current liabilities
+Financial Liabilities
+Lease liabilities 2.19 1,959 1,242
+Trade payables 3,956 3,865
+Other financial liabilities 2.12 16,959 18,558
+Other current liabilities 2.13 10,539 10,830
+Provisions 2.14 1,796 1,307
+Income tax liabilities (net) 3,585 3,384
+Total current liabilities 38,794 39,186
+Total equity and liabilities 137,814 125,816
+The accompanying notes form an integral part of the interim condensed consolidated financial statements
+As per our report of even date attached
+for Deloitte Haskins & Sells LLP for and on behalf of the Board of Directors of Infosys Limited
+Chartered Accountants
+Firm’s Registration No :
+117366W/ W-100018
+Sanjiv V. Pilgaonkar D. Sundaram Salil Parekh Bobby Parikh
+Partner Lead Independent Director Chief Executive Officer Director
+Membership No. 039826 and Managing Director
+Bengaluru Jayesh Sanghrajka A.G.S. Manikantha
+April 18, 2024 Chief Financial Officer Company Secretary
+1

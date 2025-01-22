@@ -1,0 +1,49 @@
+1.5 Critical accounting estimates and judgments
+a. Revenue recognition
+The Group’s contracts with customers include promises to transfer multiple products and services to a customer. Revenues from customer contracts are
+considered for recognition and measurement when the contract has been approved, in writing, by the parties to the contract, the parties to contract are
+committed to perform their respective obligations under the contract, and the contract is legally enforceable. The Group assesses the services promised in a
+contractandidentifiesdistinctperformanceobligationsinthecontract.Identificationofdistinctperformanceobligationstodeterminethedeliverablesandthe
+abilityofthe customer to benefit independentlyfromsuch deliverables, and allocationof transactionprice to these distinct performance obligationsinvolves
+significant judgment.
+Fixed price maintenance revenue is recognized ratably on a straight-line basis when services are performed through an indefinite number of repetitive acts
+over a specified period. Revenue from fixed price maintenance contract is recognized ratably using a percentage of completion method when the pattern of
+benefits from the services rendered to the customer and the Group’s costs to fulfil the contract is not even through the period of the contract because the
+services are generallydiscrete in nature and not repetitive. The use of method to recognize the maintenance revenues requires judgment and is based on the
+promises in the contract and nature of the deliverables.
+The Group usesthe percentage-of-completion method inaccountingfor otherfixed-price contracts.Useofthe percentage-of-completionmethod requiresthe
+Grouptodeterminetheactualeffortsorcostsexpendedtodateasaproportionoftheestimatedtotaleffortsorcoststobeincurred.Effortsorcostsexpended
+havebeenusedtomeasureprogresstowardscompletionasthereisadirectrelationshipbetweeninputandproductivity.Theestimationoftotaleffortsorcosts
+involves significant judgment and is assessed throughout the period of the contract to reflect any changes based on the latest available information.
+Contracts with customers includes subcontractor services or third-party vendor equipment or software in certain integrated services arrangements. In these
+typesofarrangements,revenuefromsalesofthird-partyvendorproductsorservicesisrecordednetofcostswhentheGroupisactingasanagentbetweenthe
+customerandthevendor,andgrosswhentheGroupistheprincipalforthetransaction.Indoingso,theGroupfirstevaluateswhetheritobtainscontrolofthe
+specified goods or services before they are transferred to the customer. The Group considers whether it is primarily responsible for fulfilling the promise to
+providethespecifiedgoodsorservices,inventoryrisk,pricingdiscretionandotherfactorstodeterminewhetheritcontrolsthespecifiedgoodsorservicesand
+therefore, is acting as a principal or an agent.
+Provisionsforestimatedlosses,ifany,onincompletecontractsarerecordedintheperiodinwhichsuchlossesbecomeprobablebasedontheestimatedefforts
+or costs to complete the contract.
+b. Income taxes
+The Group's two major tax jurisdictions are India and the United States, though the Company also files tax returns in other overseas jurisdictions.
+Significant judgments are involved in determining the provision for income taxes, including amount expected to be paid / recovered for uncertain tax
+positions.
+Inassessingtherealizabilityofdeferredincometaxassets,theManagementconsiderswhethersomeportionorallofthedeferredincometaxassetswillnotbe
+realized. The ultimate realization of deferred income tax assets is dependent upon the generation of future taxable income during the periods in which the
+temporary differences become deductible. Management considers the scheduled reversals of deferred income tax liabilities, projected future taxable income
+and tax planning strategies in making this assessment. Based on the level of historical taxable income and projections for future taxable income over the
+periods in which the deferred income tax assets are deductible, the Management believes that the Group will realize the benefits of those deductible
+differences. The amount of the deferred income tax assets considered realizable, however, could be reduced in the near term if estimates of future taxable
+income during the carry forward period are reduced (Refer to Notes 2.15).
+c. Business combinations and intangible assets
+Business combinations are accounted for using Ind AS 103, Business Combinations. Ind AS 103 requires the identifiable intangible assets and contingent
+consideration to be fair valued in order to ascertain the fair value of identifiable assets, liabilities and contingent liabilities of the acquiree. These valuations
+are conducted by external valuation experts. Estimates are required to be made in determining the value of contingent consideration, value of option
+arrangements and intangible assets. These measurements are based on information available at the acquisition date and are based on expectations and
+assumptions that have been deemed reasonable by the Management (Refer to Note 2.1).
+d. Property, plant and equipment
+Property,plantandequipmentrepresentasignificantproportionoftheassetbaseoftheGroup.Thechargeinrespectofperiodicdepreciationisderivedafter
+determininganestimateofanasset’sexpectedusefullifeandtheexpectedresidualvalueattheendofitslife.TheusefullivesandresidualvaluesofGroup's
+assetsaredeterminedbytheManagementatthetimetheassetisacquiredandreviewedperiodically,includingateachfinancialyearend.Thelivesarebased
+onhistoricalexperiencewithsimilarassetsaswellasanticipationoffutureevents,whichmayimpacttheirlife,suchaschangesintechnology(RefertoNote
+2.2).
+8
