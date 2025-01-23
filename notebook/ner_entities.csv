@@ -1,4 +1,5 @@
 Entity,Type
+10 _ 20250123 _ 092259,MONEY
 Impairment Goodwill Goodwill,PERSON
 annual,DATE
 F,ORG
@@ -81,6 +82,7 @@ Transaction costs Group,ORG
 Interim Condensed Consolidated Statement Statement Profit,ORG
 "year ended March 31 , 2023",DATE
 10,CARDINAL
+12 _ 20250123 _ 092259,MONEY
 "January 11 , 2024",DATE
 Info ys Limited,ORG
 100 %,PERCENT
@@ -606,7 +608,7 @@ G F f,PRODUCT
 12,CARDINAL
 Income Tax Act,LAW
 13,CARDINAL
-15,CARDINAL
+15 _ 20250123 _ 092259,MONEY
 2,CARDINAL
 3,CARDINAL
 GOODWILL INTANGIBLE,ORG
@@ -657,7 +659,7 @@ Consolidated Statement Profit Loss,ORG
 n p r e n l r e v e r e n h e C n l e e e n f P r f n L f h e r e h b e e n c h n g e n h e e e u e e e r n,ORG
 prior years,DATE
 14,CARDINAL
-16 _ 20250123 _ 005040,MONEY
+16 _ 20250123 _ 092259,MONEY
 2,CARDINAL
 4,CARDINAL
 ₹,FAC
@@ -956,7 +958,7 @@ Group,ORG
 13,CARDINAL
 India,GPE
 17,CARDINAL
-19 _ 20250123 _ 005040,MONEY
+19 _ 20250123 _ 092259,MONEY
 2,CARDINAL
 AO,ORG
 10,CARDINAL
@@ -2377,7 +2379,7 @@ un,ORG
 un,ORG
 Balance Sheet,PERSON
 29,CARDINAL
-31,CARDINAL
+31 _ 20250123 _ 092259,MONEY
 2,CARDINAL
 AO,ORG
 17,CARDINAL
@@ -2606,7 +2608,7 @@ Group,ORG
 ROU,PERSON
 Balance Sheet,ORG
 32,CARDINAL
-34 _ 20250123 _,QUANTITY
+34 _ 20250123 _ 092259,MONEY
 Leases Group,ORG
 "three months ended March 31 , 2024 :",DATE
 ₹,FAC
@@ -3179,7 +3181,6 @@ cC,ORG
 10 %,PERCENT
 "three months year ended March 31 , 2024 March 31 , 2023",DATE
 38,CARDINAL
-3,CARDINAL
 ₹,ORG
 Condensed Consolidated Statement Profit Loss Note,ORG
 Three months ended March 31,DATE
@@ -3358,7 +3359,7 @@ Bengaluru Jay,PERSON
 Mani,PERSON
 "April 18 , 2024",DATE
 2 Page,PERSON
-40,CARDINAL
+40 _ 20250123 _ 092259,MONEY
 20,CARDINAL
 24,CARDINAL
 ₹,FAC
@@ -3479,7 +3480,7 @@ Managing,PERSON
 Mani,PERSON
 "April 18 , 2024",DATE
 39,CARDINAL
-4 _ 20250123 _ 005040,MONEY
+4 _ 20250123 _ 092259,MONEY
 Condensed Consolidated Statement Changes Equity,ORG
 ₹,FAC
 Particulars EQUITY Reserves & Surplus,ORG
@@ -3613,6 +3614,7 @@ year ended March 31,DATE
 388 75,DATE
 795,CARDINAL
 3,DATE
+5 _ 20250123 _ 092259,MONEY
 Condensed Consolidated Statement Changes Equity,ORG
 ₹,FAC
 Particulars EQUITY Reserves & Surplus,ORG
@@ -3746,7 +3748,7 @@ Bengaluru Jay,PERSON
 Mani,PERSON
 "April 18 , 2024",DATE
 4,CARDINAL
-6 _ 20250123 _,QUANTITY
+6 _ 20250123 _ 092259,QUANTITY
 Condensed Consolidated Statement Cash Flows Accounting,ORG
 n v e n g n f n n c n g c v e f h e G r u p r e e g r e g e .,ORG
 G r u p c n e r l l h g h l l q u n v e e n,ORG
@@ -3913,6 +3915,7 @@ Bengaluru Jay,PERSON
 Mani,PERSON
 "April 18 , 2024",DATE
 6,CARDINAL
+8 _ 20250123 _ 092259,MONEY
 Interim Condensed Consolidated Financial Statements 1,ORG
 1,CARDINAL
 Info ys Limited,ORG
@@ -3963,7 +3966,7 @@ n l b l e,ORG
 1 .,CARDINAL
 5,CARDINAL
 7,CARDINAL
-9 _ 20250123 _ 005040,DATE
+9 _ 20250123 _ 092259,EVENT
 1,CARDINAL
 5,CARDINAL
 Group,ORG

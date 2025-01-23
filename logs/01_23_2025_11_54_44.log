@@ -1,0 +1,12 @@
+[ 2025-01-23 11:54:44,266 ] 21 root - INFO - Created directories: data\raw\text, data\raw\table
+[ 2025-01-23 11:54:44,266 ] 66 root - INFO - Starting data extraction process...
+[ 2025-01-23 11:55:03,990 ] 38 root - INFO - Extracted text saved to: data\raw\text\extracted_text.txt
+[ 2025-01-23 11:55:13,958 ] 57 root - INFO - Table saved to: data\raw\table\table_page_18_table_1.csv
+[ 2025-01-23 11:55:23,752 ] 57 root - INFO - Table saved to: data\raw\table\table_page_30_table_1.csv
+[ 2025-01-23 11:55:26,832 ] 57 root - INFO - Table saved to: data\raw\table\table_page_33_table_1.csv
+[ 2025-01-23 11:55:27,976 ] 57 root - INFO - Table saved to: data\raw\table\table_page_34_table_1.csv
+[ 2025-01-23 11:55:27,979 ] 57 root - INFO - Table saved to: data\raw\table\table_page_34_table_2.csv
+[ 2025-01-23 11:55:27,982 ] 57 root - INFO - Table saved to: data\raw\table\table_page_34_table_3.csv
+[ 2025-01-23 11:55:27,986 ] 57 root - INFO - Table saved to: data\raw\table\table_page_34_table_4.csv
+[ 2025-01-23 11:55:27,990 ] 57 root - INFO - Table saved to: data\raw\table\table_page_34_table_5.csv
+[ 2025-01-23 11:55:30,797 ] 69 root - INFO - Data extraction completed successfully.
