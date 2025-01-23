@@ -1,0 +1,5 @@
+[ 2025-01-23 19:07:39,957 ] 100 data_preprocessing - INFO - Data preprocessing pipeline started.
+[ 2025-01-23 19:07:39,958 ] 31 data_preprocessing - INFO - Starting text preprocessing...
+[ 2025-01-23 19:07:40,024 ] 46 data_preprocessing - INFO - Combined text saved to data/processed\text_final_output.txt
+[ 2025-01-23 19:07:40,025 ] 67 data_preprocessing - ERROR - Error in text preprocessing: module 'wordninja' has no attribute 'split'
+[ 2025-01-23 19:07:40,026 ] 105 data_preprocessing - ERROR - Pipeline error: __init__() missing 1 required positional argument: 'error_detail'

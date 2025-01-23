@@ -1,0 +1,14 @@
+[ 2025-01-23 19:11:33,633 ] 102 data_preprocessing - INFO - Data preprocessing pipeline started.
+[ 2025-01-23 19:11:33,635 ] 33 data_preprocessing - INFO - Starting text preprocessing...
+[ 2025-01-23 19:11:33,652 ] 48 data_preprocessing - INFO - Combined text saved to data/processed\text_final_output.txt
+[ 2025-01-23 19:11:37,094 ] 66 data_preprocessing - INFO - Cleaned text chunks saved to data/processed\cleaned_text_chunks.json
+[ 2025-01-23 19:11:37,101 ] 75 data_preprocessing - INFO - Starting table preprocessing...
+[ 2025-01-23 19:11:37,146 ] 91 data_preprocessing - INFO - Processed and saved table: data/processed/flattened_table\table_page_18_table_1.csv
+[ 2025-01-23 19:11:37,178 ] 91 data_preprocessing - INFO - Processed and saved table: data/processed/flattened_table\table_page_30_table_1.csv
+[ 2025-01-23 19:11:37,203 ] 91 data_preprocessing - INFO - Processed and saved table: data/processed/flattened_table\table_page_33_table_1.csv
+[ 2025-01-23 19:11:37,230 ] 91 data_preprocessing - INFO - Processed and saved table: data/processed/flattened_table\table_page_34_table_1.csv
+[ 2025-01-23 19:11:37,254 ] 91 data_preprocessing - INFO - Processed and saved table: data/processed/flattened_table\table_page_34_table_2.csv
+[ 2025-01-23 19:11:37,282 ] 91 data_preprocessing - INFO - Processed and saved table: data/processed/flattened_table\table_page_34_table_3.csv
+[ 2025-01-23 19:11:37,309 ] 91 data_preprocessing - INFO - Processed and saved table: data/processed/flattened_table\table_page_34_table_4.csv
+[ 2025-01-23 19:11:37,333 ] 91 data_preprocessing - INFO - Processed and saved table: data/processed/flattened_table\table_page_34_table_5.csv
+[ 2025-01-23 19:11:37,333 ] 105 data_preprocessing - INFO - Data preprocessing pipeline completed.

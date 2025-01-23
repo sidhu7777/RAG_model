@@ -1,0 +1,1945 @@
+INFOSYS LIMITED AND SUBSIDIARIES
+Condensed Consolidated Financial Statements under
+Indian Accounting Standards (Ind AS)
+for the three months and year ended March 31, 2024
+Index Page No.
+Condensed Consolidated Balance Sheet ………………………………………………………………………………………………1 ……………………..
+Condensed Consolidated Statement of Profit and Loss ………………………………………………………………………………2……………………………………..
+Condensed Consolidated Statement of Changes in Equity ……………………………………………………………………………3………………………………………..
+Condensed Consolidated Statement of Cash Flows …………………………………………………………………………………5…………………………………..
+Overview and Notes to the Interim Condensed Consolidated Financial Statements
+1. Overview
+1.1 Company overview ……………………………………………………………………………………………………………7………..
+1.2 Basis of preparation of financial statements …………………………………………………………………………………7…………………………………..
+1.3 Basis of consolidation …………………………………………………………………………………………………………7…………..
+1.4 Use of estimates and judgments ………………………………………………………………………………………………7……………………..
+1.5 Critical accounting estimates and judgments…………………………………………………………………………………8…………………………………..
+2. Notes to the Interim Condensed Consolidated Financial Statements
+2.1 Business Combinations ………………………………………………………………………………………………………1…0 …………………………………..
+2.2 Property, plant and equipment ………………………………………………………………………………………………1…2…………………..
+2.3 Goodwill and other intangible assets…………………………………………………………………………………………1…4 ………………………..
+2.4 Investments ……………………………………………………………………………………………………………………15………………………..
+2.5 Loans …………………………………………………………………………………………………………………………1…6 ………………..
+2.6 Other financial assets …………………………………………………………………………………………………………16…………………………………..
+2.7 Trade receivables ……………………………………………………………………………………………………………1…6……………………………..
+2.8 Cash and cash equivalents ……………………………………………………………………………………………………17………………………………………..
+2.9 Other assets ……………………………………………………………………………………………………………………17………………………..
+2.10 Financial instruments ………………………………………………………………………………………………………1…8…………………………………..
+2.11 Equity ………………………………………………………………………………………………………………………2…2…………………..
+2.12 Other financial liabilities ……………………………………………………………………………………………………25………………………………………………..
+2.13 Other liabilities ………………………………………………………………………………………………………………25……………………………..
+2.14 Provisions ……………………………………………………………………………………………………………………26………………………..
+2.15 Income taxes …………………………………………………………………………………………………………………27…………………………..
+2.16 Revenue from operations ……………………………………………………………………………………………………28………………………………………..
+2.17 Other income, net ……………………………………………………………………………………………………………30………………………………..
+2.18 Expenses ……………………………………………………………………………………………………………………3…1……………………..
+2.19 Leases ………………………………………………………………………………………………………………………3…2…………………..
+2.20 Basic and diluted shares used in computing earnings per equity share ……………………………………………………3…4……………………………………………………………………………………..
+2.21 Contingent liabilities and commitments ……………………………………………………………………………… 34
+2.22 Related party transactions ……………………………………………………………………………………………………36………………………………………..
+2.23 Segment reporting ……………………………………………………………………………………………………………37………………………………..
+2.24 Function wise classification of Condensed Consolidated Statement of Profit and Loss ……………………………………39………………………………………………………………………………………………………..INFOSYS LIMITED AND SUBSIDIARIES
+(In ₹ crore )
+Condensed Consolidated Balance Sheets as at Note No. March 31, 2024 March 31, 2023
+ASSETS
+Non-current assets
+Property, plant and equipment 2.2 12,370 13,346
+Right-of-use assets 2.19 6,552 6,882
+Capital work-in-progress 293 288
+Goodwill 2.3 7,303 7,248
+Other intangible assets 1,397 1,749
+Financial assets
+Investments 2.4 11,708 12,569
+Loans 2.5 34 39
+Other financial assets 2.6 3,105 2,798
+Deferred tax assets (net) 454 1,245
+Income tax assets (net) 3,045 6,453
+Other non-current assets 2.9 2,121 2,318
+Total non-current assets 48,382 54,935
+Current assets
+Financial assets
+Investments 2.4 12,915 6,909
+Trade receivables 2.7 30,193 25,424
+Cash and cash equivalents 2.8 14,786 12,173
+Loans 2.5 248 289
+Other financial assets 2.6 12,085 11,604
+Income tax assets (net) 6,397 6
+Other current assets 2.9 12,808 14,476
+Total current assets 89,432 70,881
+Total assets 137,814 125,816
+EQUITY AND LIABILITIES
+Equity
+Equity share capital 2.11 2,071 2,069
+Other equity 86,045 73,338
+Total equity attributable to equity holders of the Company 88,116 75,407
+Non-controlling interests 345 388
+Total equity 88,461 75,795
+Liabilities
+Non-current liabilities
+Financial Liabilities
+Lease liabilities 2.19 6,400 7,057
+Other financial liabilities 2.12 2,130 2,058
+Deferred tax liabilities (net) 1,794 1,220
+Other non-current liabilities 2.13 235 500
+Total non-current liabilities 10,559 10,835
+Current liabilities
+Financial Liabilities
+Lease liabilities 2.19 1,959 1,242
+Trade payables 3,956 3,865
+Other financial liabilities 2.12 16,959 18,558
+Other current liabilities 2.13 10,539 10,830
+Provisions 2.14 1,796 1,307
+Income tax liabilities (net) 3,585 3,384
+Total current liabilities 38,794 39,186
+Total equity and liabilities 137,814 125,816
+The accompanying notes form an integral part of the interim condensed consolidated financial statements
+As per our report of even date attached
+for Deloitte Haskins & Sells LLP for and on behalf of the Board of Directors of Infosys Limited
+Chartered Accountants
+Firm’s Registration No :
+117366W/ W-100018
+Sanjiv V. Pilgaonkar D. Sundaram Salil Parekh Bobby Parikh
+Partner Lead Independent Director Chief Executive Officer Director
+Membership No. 039826 and Managing Director
+Bengaluru Jayesh Sanghrajka A.G.S. Manikantha
+April 18, 2024 Chief Financial Officer Company Secretary
+1INFOSYS LIMITED AND SUBSIDIARIES
+(In ₹ crore, except equity share and per equity share data)
+Condensed Consolidated Statement of Profit and Loss for the Note No. Three months ended March 31, Year ended March 31,
+2024 2023 2024 2023
+Revenue from operations 2.16 37,923 37,441 153,670 146,767
+Other income, net 2.17 2,729 671 4,711 2,701
+Total income 40,652 38,112 158,381 149,468
+Expenses
+Employee benefit expenses 2.18 20,393 20,311 82,620 78,359
+Cost of technical sub-contractors 2,967 3,116 12,232 14,062
+Travel expenses 471 426 1,759 1,525
+Cost of software packages and others 2.18 3,687 2,886 13,515 10,902
+Communication expenses 147 171 677 713
+Consultancy and professional charges 489 387 1,726 1,684
+Depreciation and amortization expenses 1,163 1,121 4,678 4,225
+Finance cost 110 82 470 284
+Other expenses 2.18 985 1,146 4,716 4,392
+Total expenses 30,412 29,646 122,393 116,146
+Profit before tax 10,240 8,466 35,988 33,322
+Tax expense:
+Current tax 2.15 1,173 2,260 8,390 9,287
+Deferred tax 2.15 1,092 72 1,350 (73)
+Profit for the period 7,975 6,134 26,248 24,108
+Other comprehensive income
+Items that will not be reclassified subsequently to profit or loss
+Remeasurement of the net defined benefit liability/asset, net 26 25 120 8
+Equity instruments through other comprehensive income, net (12) (15) 19 (7)
+14 10 139 1
+Items that will be reclassified subsequently to profit or loss
+Fair value changes on derivatives designated as cash flow hedge, net 28 36 11 (7)
+Exchange differences on translation of foreign operations (231) 61 226 776
+Fair value changes on investments, net 37 42 144 (256)
+(166) 139 381 513
+Total other comprehensive income /(loss), net of tax (152) 149 520 514
+Total comprehensive income for the period 7,823 6,283 26,768 24,622
+Profit attributable to:
+Owners of the Company 7,969 6,128 26,233 24,095
+Non-controlling interests 6 6 15 13
+7,975 6,134 26,248 24,108
+Total comprehensive income attributable to:
+Owners of the Company 7,821 6,276 26,754 24,598
+Non-controlling interests 2 7 14 24
+7,823 6,283 26,768 24,622
+Earnings per equity share
+Equity shares of par value ₹5/- each
+Basic (in ₹ per share) 19.25 14.79 63.39 57.63
+Diluted (in ₹ per share) 19.22 14.77 63.29 57.54
+Weighted average equity shares used in computing earnings per equity share
+Basic (in shares) 2.20 4,139,432,133 4,144,013,195 4,138,568,090 4,180,897,857
+Diluted (in shares) 2.20 4,145,052,370 4,149,555,426 4,144,680,425 4,187,731,070
+The accompanying notes form an integral part of the interim condensed consolidated financial statements
+As per our report of even date attached
+for Deloitte Haskins & Sells LLP for and on behalf of the Board of Directors of Infosys Limited
+Chartered Accountants
+Firm’s Registration No :
+117366W/ W-100018
+Sanjiv V. Pilgaonkar D. Sundaram Salil Parekh Bobby Parikh
+Partner Lead Independent Director Chief Executive Officer Director
+Membership No. 039826 and Managing Director
+Bengaluru Jayesh Sanghrajka A.G.S. Manikantha
+April 18, 2024 Chief Financial Officer Company Secretary
+2INFOSYS LIMITED AND SUBSIDIARIES
+Condensed Consolidated Statement of Changes in Equity
+(In ₹ crore)
+Particulars OTHER EQUITY
+Reserves & Surplus Other comprehensive income
+Capital Capital Securities Retained General Share Special Other Equity Exchange Effective Other items of Total equity
+Equity reserve redemption Premium earnings reserve Options Economic reserves (3) instruments differences on portion of other attributable to Non-
+Share reserve Outstanding Zone Re- through other translating the Cash Flow comprehensive equity holders controlling Total equity
+capital (1) Account investment comprehensive financial Hedges income / (loss) of the interest
+reserve (2) income statements of a Company
+foreign operation
+Balance as at April 1, 2022 2,098 54 139 200 61,313 1,061 606 8,339 16 254 1,560 2 (292) 75,350 386 75,736
+Impact on adoption of amendment to Ind AS 37# — — — — (19) — — — — — — — — (19) — (19)
+2,098 54 139 200 61,294 1,061 606 8,339 16 254 1,560 2 (292) 75,331 386 75,717
+Changes in equity for the year ended March 31, 2023
+Profit for the period — — — — 24,095 — — — — — — — — 24,095 13 24,108
+Remeasurement of the net defined benefit liability/asset, net* — — — — — — — — — — — — 8 8 — 8
+Equity instruments through other comprehensive income, net* — — — — — — — — — (7) — — — (7) — (7)
+Fair value changes on derivatives designated as cash flow hedge, net* — — — — — — — — — — — (7) — (7) — (7)
+Exchange differences on translation of foreign operations — — — — — — — — — — 765 — — 765 11 776
+Fair value changes on investments, net* — — — — — — — — — — — — (256) (256) — (256)
+Total Comprehensive income for the period — — — — 24,095 — — — — (7) 765 (7) (248) 24,598 24 24,622
+Shares issued on exercise of employee stock options (Refer to Note
+1 — — 34 — — — — — — — — — 35 — 35
+2.11)
+Employee stock compensation expense (Refer to Note 2.11) — — — — — — 514 — — — — — — 514 — 514
+Transferred on account of options not exercised — — — — — 2 (2) — — — — — — — — —
+Buyback of equity shares (Refer to Note 2.11)** (30) — — (340) (11,096) — — — — — — — — (11,466) — (11,466)
+Transaction costs relating to buyback* — — — (19) (5) — — — — — — — — (24) — (24)
+Amount transferred to capital redemption reserve upon buyback — — 30 — (21) (9) — — — — — — — — — —
+Transferred to Special Economic Zone Re-investment reserve — — — — (3,139) — — 3,139 — — — — — — — —
+Transfer to legal reserve — — — — (3) — — — 3 — — — — — — —
+Transferred on account of exercise of stock options (Refer to note
+— — — 291 — — (291) — — — — — — — — —
+2.11)
+Income tax benefit arising on exercise of stock options — — — — — — 51 — — — — — — 51 — 51
+Dividends (1) — — — — (13,632) — — — — — — — — (13,632) — (13,632)
+Dividends paid to non controlling interest of subsidiary — — — — — — — — — — — — — — (22) (22)
+Transferred from Special Economic Zone Re-investment reserve on
+— — — — 1,464 — — (1,464) — — — — — — — —
+utilization
+Balance as at March 31, 2023 2,069 54 169 166 58,957 1,054 878 10,014 19 247 2,325 (5) (540) 75,407 388 75,795
+3Condensed Consolidated Statement of Changes in Equity (contd.)
+(In ₹ crore)
+Particulars OTHER EQUITY
+Reserves & Surplus Other comprehensive income
+Capital Capital Securities Retained General Share Special Other Equity Exchange Effective Other items of Total equity
+Equity reserve redemption Premium earnings reserve Options Economic reserves (3) instruments differences on portion of other attributable to Non-
+Share reserve Outstanding Zone Re- through other translating the Cash Flow comprehensive equity holders controlling Total equity
+capital (1) Account investment comprehensive financial Hedges income / (loss) of the interest
+reserve (2) income statements of a Company
+foreign operation
+Balance as at April 1, 2023 2,069 54 169 166 58,957 1,054 878 10,014 19 247 2,325 (5) (540) 75,407 388 75,795
+Changes in equity for the year ended March 31, 2024
+Profit for the period — — — — 26,233 — — — — — — — — 26,233 15 26,248
+Remeasurement of the net defined benefit liability/asset, net* — — — — — — — — — — — — 120 120 — 120
+Equity instruments through other comprehensive income, net* — — — — — — — — — 19 — — — 19 — 19
+Fair value changes on derivatives designated as cash flow hedge, net* — — — — — — — — — — — 11 — 11 — 11
+Exchange differences on translation of foreign operations — — — — — — — — — — 227 — — 227 (1) 226
+Fair value changes on investments, net* — — — — — — — — — — — — 144 144 — 144
+Total Comprehensive income for the period — — — — 26,233 — — — — 19 227 11 264 26,754 14 26,768
+Shares issued on exercise of employee stock options (Refer to Note
+2 — — 3 — — — — — — — — — 5 — 5
+2.11)
+Employee stock compensation expense (Refer to Note 2.11) — — — — — — 639 — — — — — — 639 — 639
+Transferred on account of exercise of stock options (Refer to note
+— — — 447 — — (447) — — — — — — — — —
+2.11)
+Transferred on account of options not exercised — — — — — 160 (160) — — — — — — — — —
+Income tax benefit arising on exercise of stock options — — — — — — 3 — — — — — — 3 — 3
+Transfer to legal reserve — — — — (3) — — — 3 — — — — — — —
+Dividends (1) — — — — (14,692) — — — — — — — — (14,692) — (14,692)
+Dividends paid to non controlling interest of subsidiary — — — — — — — — — — — — — — (39) (39)
+Buyback of shares pertaining to non controlling interest of subsidiary — — — — — — — — — — — — — — (18) (18)
+Transferred to Special Economic Zone Re-investment reserve — — — — (2,957) — — 2,957 — — — — — — — —
+Transferred from Special Economic Zone Re-investment reserve on
+— — — — 867 — — (867) — — — — — — — —
+utilization
+Balance as at March 31, 2024 2,071 54 169 616 68,405 1,214 913 12,104 22 266 2,552 6 (276) 88,116 345 88,461
+* Net of tax
+** Including tax on buyback of ₹2,166 crore for the year ended March 31, 2023.
+# Impact on account of adoption of amendment to Ind AS 37 Provisions, Contingent Liabilities and Contingents Assets
+(1)Net of treasury shares
+(2)TheSpecialEconomicZoneRe-investmentReservehasbeencreatedoutoftheprofitofeligibleSEZunitsintermsoftheprovisionsofSec10AA(1)(ii)ofIncomeTaxAct,1961.ThereserveshouldbeutilizedbytheGroupforacquiringnewplantandmachineryforthepurposeofitsbusinessinthetermsofthe
+Sec 10AA(2) of the Income Tax Act, 1961.
+(3)Under the Swiss Code of Obligation, few subsidiaries of Infosys Consulting are required to appropriate a certain percentage of the annual profit to legal reserve which may be used only to cover losses or for measures designed to sustain the Company through difficult times, to prevent unemployment or to
+mitigate its consequences.
+The accompanying notes form an integral part of the interim condensed consolidated financial statements.
+As per our report of even date attached
+for Deloitte Haskins & Sells LLP for and on behalf of the Board of Directors of Infosys Limited
+Chartered Accountants
+Firm’s Registration No :
+117366W/ W-100018
+Sanjiv V. Pilgaonkar D. Sundaram Salil Parekh Bobby Parikh
+Partner Lead Independent Director Chief Executive Officer Director
+Membership No. 039826 and Managing Director
+Bengaluru Jayesh Sanghrajka A.G.S. Manikantha
+April 18, 2024 Chief Financial Officer Company Secretary
+4INFOSYS LIMITED AND SUBSIDIARIES
+Condensed Consolidated Statement of Cash Flows
+Accounting policy
+Cash flows are reported using the indirect method, whereby profit for the period is adjusted for the effects of transactions of a non-cash nature, any
+deferrals or accrualsofpastor future operatingcashreceiptsor paymentsand itemofincome or expensesassociated withinvestingor financingcash
+flows.Thecashflowsfromoperating,investingandfinancingactivitiesoftheGrouparesegregated.TheGroupconsidersallhighlyliquidinvestments
+that are readily convertible to known amounts of cash to be cash equivalents.
+(In ₹ crore)
+Particulars Note No. Year ended March 31,
+2024 2023
+Cash flow from operating activities
+Profit for the period 26,248 24,108
+Adjustments to reconcile net profit to net cash provided by operating
+activities:
+Income tax expense 2.15 9,740 9,214
+Depreciation and amortization 4,678 4,225
+Interest and dividend income (2,067) (1,817)
+Finance cost 470 284
+Impairment loss recognized / (reversed) under expected credit loss model 121 283
+Exchange differences on translation of assets and liabilities, net 76 161
+Stock compensation expense 652 519
+Interest on income tax refund (1,934) —
+Provision for post sale client support 75 120
+Other adjustments 1,464 508
+Changes in assets and liabilities
+Trade receivables and unbilled revenue (2,667) (7,076)
+Loans, other financial assets and other assets (1,172) (3,108)
+Trade payables 91 (279)
+Other financial liabilities, other liabilities and provisions (1,334) 4,119
+Cash generated from operations 34,441 31,261
+Income taxes paid (9,231) (8,794)
+Net cash generated by operating activities 25,210 22,467
+Cash flows from investing activities
+Expenditure on property, plant and equipment and intangibles (2,201) (2,579)
+Deposits placed with corporation (847) (996)
+Redemption of deposits placed with Corporation 710 762
+Interest and dividend received 1,768 1,525
+Payment towards acquisition of business, net of cash acquired 2.1 — (910)
+Payment of contingent consideration pertaining to acquisition of business (101) (60)
+Escrow and other deposits pertaining to Buyback — (483)
+Redemption of escrow and other deposits pertaining to Buyback — 483
+Other receipts 128 71
+Payments to acquire Investments
+Liquid mutual fund units (66,191) (70,631)
+Target maturity fund units — (400)
+Certificates of deposit (8,509) (10,348)
+Commercial Papers (10,387) (3,003)
+Non-convertible debentures (1,526) (249)
+Tax free bonds and government bonds — (27)
+Government securities — (1,569)
+Other Investments (14) (20)
+Proceeds on sale of Investments
+Tax free bonds and government bonds 150 221
+Liquid mutual funds units 64,767 71,851
+Certificates of deposit 9,205 10,404
+Commercial Papers 6,479 2,298
+Non-convertible debentures 1,230 470
+Government securities 304 1,882
+Equity and preference securities 26 99
+Net cash generated / (used in) from investing activities (5,009) (1,209)
+5Cash flows from financing activities
+Payment of lease liabilities (2,024) (1,231)
+Payment of dividends (14,692) (13,631)
+Payment of dividend to non-controlling interest of subsidiary (39) (22)
+Payment towards buyback of shares pertaining to non controlling interest of subsidiary (18) —
+Shares issued on exercise of employee stock options 5 35
+Other receipts - 132
+Other payments (736) (479)
+Buyback of equity shares including transaction cost and tax on buyback - (11,499)
+Net cash used in financing activities (17,504) (26,695)
+Net increase / (decrease) in cash and cash equivalents 2,697 (5,437)
+Effect of exchange rate changes on cash and cash equivalents (84) 138
+Cash and cash equivalents at the beginning of the period 2.8 12,173 17,472
+Cash and cash equivalents at the end of the period 2.8 14,786 12,173
+Supplementary information:
+Restricted cash balance 2.8 348 362
+The accompanying notes form an integral part of the interim condensed consolidated financial statements
+As per our report of even date attached
+for Deloitte Haskins & Sells LLP for and on behalf of the Board of Directors of Infosys Limited
+Chartered Accountants
+Firm’s Registration No :
+117366W/ W-100018
+Sanjiv V. Pilgaonkar D. Sundaram Salil Parekh Bobby Parikh
+Partner Lead Independent Director Chief Executive Officer Director
+Membership No. 039826 and Managing Director
+Bengaluru Jayesh Sanghrajka A.G.S. Manikantha
+April 18, 2024 Chief Financial Officer Company Secretary
+6INFOSYS LIMITED AND SUBSIDIARIES
+Overview and notes to the Interim Condensed Consolidated Financial Statements
+1. Overview
+1.1 Company overview
+Infosys Limited ('the Company' or Infosys) provides consulting, technology, outsourcing and next-generation digital services, to enable clients to execute
+strategiesfortheirdigitaltransformation.Infosysstrategicobjectiveistobuildasustainableorganizationthatremainsrelevanttotheagendaofclients,while
+creatinggrowthopportunitiesforemployeesandgeneratingprofitablereturnsforinvestors.Infosysstrategyistobeanavigatorforourclientsastheyideate,
+plan and execute on their journey to a digital future.
+Infosys together with its subsidiaries and controlled trusts is hereinafter referred to as "the Group".
+The Company is a public limited company incorporated and domiciled in India and has its registered office at Electronics city, Hosur Road, Bengaluru
+560100, Karnataka, India. The Companyhas its primarylistings on the BSE Ltd. and National Stock Exchange of India Limited. The Company’s American
+Depositary Shares (ADS) representing equity shares are listed on the New York Stock Exchange (NYSE).
+The Group's interim condensed consolidated financial statements are approved for issue by the Company's Board of Directors on April 18, 2024.
+1.2 Basis of preparation of financial statements
+These interim condensed consolidated financial statements are prepared in compliance with Indian Accounting Standard (Ind AS) 34 Interim Financial
+Reporting , under the historical cost conventionon accrual basis except for certainfinancial instrumentswhich are measured atfair values, the provisions of
+the Companies Act, 2013 ('the Act') and guidelines issued by the Securities and Exchange Board of India (SEBI). Accordingly, these interim condensed
+consolidatedfinancialstatementsdonotincludealltheinformationrequired foracompletesetoffinancialstatements.Theseinterimcondensedconsolidated
+financial statementsshould be read inconjunctionwiththe consolidated financial statementsand related notesincluded inthe Company’sAnnual Report for
+the year ended March 31, 2023. The Ind AS are prescribed under Section 133 of the Act read with Rule 3 of the Companies (Indian AccountingStandards)
+Rules, 2015 and relevant amendment rules issued thereafter.
+Accountingpolicieshavebeenconsistentlyappliedexceptwhereanewlyissuedaccountingstandardisinitiallyadoptedorarevisiontoanexistingaccounting
+standard requires a change inthe accountingpolicyhitherto inuse. The material accountingpolicyinformationused inpreparation ofthe audited condensed
+consolidated interim financial statements have been discussed in the respective notes.
+Asthequarterandyear-to-datefiguresaretakenfromthesourceandroundedtothenearestdigits,thequarterfiguresinthisstatementaddeduptothefigures
+reported for the previous quarters might not always add up to the year-to-date figures reported in this statement.
+1.3 Basis of consolidation
+Infosys consolidates entities which it owns or controls. The interim condensed consolidated financial statements comprise the financial statements of the
+Company,itscontrolledtrustsanditssubsidiaries.Controlexistswhentheparenthaspowerovertheentity,isexposed,orhasrightstovariablereturnsfrom
+itsinvolvementwiththeentityandhastheabilitytoaffectthosereturnsbyusingitspowerovertheentity.Powerisdemonstrated throughexistingrightsthat
+givetheabilitytodirectrelevantactivities,thosewhichsignificantlyaffecttheentity'sreturns.Subsidiariesareconsolidatedfromthedatecontrolcommences
+until the date control ceases.
+ThefinancialstatementsoftheGroupcompaniesareconsolidatedonaline-by-linebasisandintra-groupbalancesandtransactionsincludingunrealizedgain/
+loss fromsuch transactions are eliminated upon consolidation. These financial statementsare prepared byapplyinguniformaccountingpolicies inuse atthe
+Group. Non-controlling interests which represent part of the net profit or loss and net assets of subsidiaries that are not, directly or indirectly, owned or
+controlled by the Company, are excluded.
+1.4 Use of estimates and judgments
+ThepreparationoftheinterimcondensedconsolidatedfinancialstatementsinconformitywithIndASrequirestheManagementtomakeestimates,judgments
+andassumptions. Theseestimates,judgmentsandassumptionsaffecttheapplicationofaccountingpoliciesandthereportedamountsofassetsandliabilities,
+thedisclosuresofcontingentassetsandliabilitiesatthedateoftheinterimcondensedconsolidatedfinancialstatementsandreportedamountsofrevenuesand
+expensesduringtheperiod. Theapplicationofaccountingpoliciesthatrequirecriticalaccountingestimatesinvolvingcomplexandsubjectivejudgmentsand
+the use of assumptions in these financial statements have been disclosed in Note no. 1.5. Accounting estimates could change from period to period. Actual
+resultscoulddifferfromthoseestimates. AppropriatechangesinestimatesaremadeasManagementbecomesawareofchangesincircumstancessurrounding
+theestimates. Changesinestimatesandjudgementsarereflectedintheinterimcondensedconsolidatedfinancialstatementsintheperiodinwhichchangesare
+made and, if material, their effects are disclosed in the notes to the interim condensed consolidated financial statements.
+71.5 Critical accounting estimates and judgments
+a. Revenue recognition
+The Group’s contracts with customers include promises to transfer multiple products and services to a customer. Revenues from customer contracts are
+considered for recognition and measurement when the contract has been approved, in writing, by the parties to the contract, the parties to contract are
+committed to perform their respective obligations under the contract, and the contract is legally enforceable. The Group assesses the services promised in a
+contractandidentifiesdistinctperformanceobligationsinthecontract.Identificationofdistinctperformanceobligationstodeterminethedeliverablesandthe
+abilityofthe customer to benefit independentlyfromsuch deliverables, and allocationof transactionprice to these distinct performance obligationsinvolves
+significant judgment.
+Fixed price maintenance revenue is recognized ratably on a straight-line basis when services are performed through an indefinite number of repetitive acts
+over a specified period. Revenue from fixed price maintenance contract is recognized ratably using a percentage of completion method when the pattern of
+benefits from the services rendered to the customer and the Group’s costs to fulfil the contract is not even through the period of the contract because the
+services are generallydiscrete in nature and not repetitive. The use of method to recognize the maintenance revenues requires judgment and is based on the
+promises in the contract and nature of the deliverables.
+The Group usesthe percentage-of-completion method inaccountingfor otherfixed-price contracts.Useofthe percentage-of-completionmethod requiresthe
+Grouptodeterminetheactualeffortsorcostsexpendedtodateasaproportionoftheestimatedtotaleffortsorcoststobeincurred.Effortsorcostsexpended
+havebeenusedtomeasureprogresstowardscompletionasthereisadirectrelationshipbetweeninputandproductivity.Theestimationoftotaleffortsorcosts
+involves significant judgment and is assessed throughout the period of the contract to reflect any changes based on the latest available information.
+Contracts with customers includes subcontractor services or third-party vendor equipment or software in certain integrated services arrangements. In these
+typesofarrangements,revenuefromsalesofthird-partyvendorproductsorservicesisrecordednetofcostswhentheGroupisactingasanagentbetweenthe
+customerandthevendor,andgrosswhentheGroupistheprincipalforthetransaction.Indoingso,theGroupfirstevaluateswhetheritobtainscontrolofthe
+specified goods or services before they are transferred to the customer. The Group considers whether it is primarily responsible for fulfilling the promise to
+providethespecifiedgoodsorservices,inventoryrisk,pricingdiscretionandotherfactorstodeterminewhetheritcontrolsthespecifiedgoodsorservicesand
+therefore, is acting as a principal or an agent.
+Provisionsforestimatedlosses,ifany,onincompletecontractsarerecordedintheperiodinwhichsuchlossesbecomeprobablebasedontheestimatedefforts
+or costs to complete the contract.
+b. Income taxes
+The Group's two major tax jurisdictions are India and the United States, though the Company also files tax returns in other overseas jurisdictions.
+Significant judgments are involved in determining the provision for income taxes, including amount expected to be paid / recovered for uncertain tax
+positions.
+Inassessingtherealizabilityofdeferredincometaxassets,theManagementconsiderswhethersomeportionorallofthedeferredincometaxassetswillnotbe
+realized. The ultimate realization of deferred income tax assets is dependent upon the generation of future taxable income during the periods in which the
+temporary differences become deductible. Management considers the scheduled reversals of deferred income tax liabilities, projected future taxable income
+and tax planning strategies in making this assessment. Based on the level of historical taxable income and projections for future taxable income over the
+periods in which the deferred income tax assets are deductible, the Management believes that the Group will realize the benefits of those deductible
+differences. The amount of the deferred income tax assets considered realizable, however, could be reduced in the near term if estimates of future taxable
+income during the carry forward period are reduced (Refer to Notes 2.15).
+c. Business combinations and intangible assets
+Business combinations are accounted for using Ind AS 103, Business Combinations. Ind AS 103 requires the identifiable intangible assets and contingent
+consideration to be fair valued in order to ascertain the fair value of identifiable assets, liabilities and contingent liabilities of the acquiree. These valuations
+are conducted by external valuation experts. Estimates are required to be made in determining the value of contingent consideration, value of option
+arrangements and intangible assets. These measurements are based on information available at the acquisition date and are based on expectations and
+assumptions that have been deemed reasonable by the Management (Refer to Note 2.1).
+d. Property, plant and equipment
+Property,plantandequipmentrepresentasignificantproportionoftheassetbaseoftheGroup.Thechargeinrespectofperiodicdepreciationisderivedafter
+determininganestimateofanasset’sexpectedusefullifeandtheexpectedresidualvalueattheendofitslife.TheusefullivesandresidualvaluesofGroup's
+assetsaredeterminedbytheManagementatthetimetheassetisacquiredandreviewedperiodically,includingateachfinancialyearend.Thelivesarebased
+onhistoricalexperiencewithsimilarassetsaswellasanticipationoffutureevents,whichmayimpacttheirlife,suchaschangesintechnology(RefertoNote
+2.2).
+8e. Impairment of Goodwill
+Goodwillistestedforimpairmentonanannualbasisandwheneverthereisanindicationthattherecoverableamountofacashgeneratingunit(CGUs)isless
+thanitscarryingamount.Fortheimpairmenttest,goodwillisallocatedtotheCGUorgroupsofCGUswhichbenefitfromthesynergiesoftheacquisitionand
+which represent the lowest level at which goodwill is monitored for internal management purposes.
+TherecoverableamountofCGUsisdeterminedbasedonhigherofvalue-in-useandfairvaluelesscostto sell.Keyassumptionsinthecashflowprojections
+areprepared basedoncurrenteconomicconditionsandcomprisesestimatedlongtermgrowthrates,weightedaveragecostofcapitalandestimatedoperating
+margins (Refer to Note 2.3.1).
+92. Notes to the Interim Condensed Consolidated Financial Statements
+2.1 BUSINESS COMBINATIONS
+Accounting policy
+Business combinations have been accounted for using the acquisition method under the provisions of Ind AS 103, Business Combinations.
+Thepurchasepriceinanacquisitionismeasuredatthefair valueoftheassetstransferred,equityinstrumentsissued andliabilities incurredor assumedatthedate
+of acquisition, which is the date on which control is transferred to the Group. The purchase price also includes the fair value of any contingent consideration.
+Identifiable assets acquired and liabilities and contingent liabilities assumed in a business combination are measured initially at their fair value on the date of
+acquisition.Contingentconsiderationisremeasuredatfairvalueateachreportingdateandchangesinthefairvalueofthecontingentconsiderationarerecognized
+in the Consolidated Statement of Profit and Loss.
+The interest of non-controlling shareholders is initially measured either at fair value or at the non-controlling interests’ proportionate share of the acquiree’s
+identifiable net assets. The choice of measurement basis is made on an acquisition-by-acquisition basis. Subsequent to acquisition, the carrying amount of non-
+controlling interests is the amount of those interests at initial recognition plus the non-controlling interests’ share of subsequent changes in equity of subsidiaries.
+Business combinations between entities under common control is accounted for at carrying value of the assets acquired and liabilities assumed in the Group's
+consolidated financial statements.
+The payments related to options issued by the Group over the non-controlling interests in its subsidiaries are accounted as financial liabilities and initially
+recognizedattheestimatedpresentvalueofgrossobligations.Suchoptionsaresubsequentlymeasuredatfairvalueinordertoreflecttheamountpayableunderthe
+option at the date at which it becomes exercisable. In the event that the option expires unexercised, the liability is derecognized.
+Acquisitions during the year ended March 31, 2023
+During the year ended March 31, 2023 the Group, completed two business combinations to complement its digital offerings by acquiring 100% voting interests in:
+1) oddity GmbH, oddity group services GmbH, oddity space GmbH, oddity jungle GmbH, oddity code GmbH and oddity waves GmbH (collectively known as
+oddity), a Germany-based digital marketing, experience, and commerce agencies on April 20, 2022.
+2) BASE life science A/S, a consulting and technology firm in the life Science industry in Europe on September 1, 2022.
+These acquisitions are expected to strengthen the Group’s creative, branding and experience design capabilities and augment the Group’s life sciences expertise,
+scales its digital transformation capabilities with cloud based industry solutions and expand its presence across Europe.
+The purchase price is allocated to assets acquired and liabilities assumed based upon determination of fair values at the dates of acquisition as follows:
+(In ₹ crore)
+Component Acquiree's Fair value Purchase price allocated
+carrying amount adjustments
+Net Assets(1) 1 03 - 1 03
+Intangible assets :
+Customer contracts and relationships - 2 74 2 74
+Vendor relationships - 3 0 3 0
+Brand - 2 4 2 4
+Deferred tax liabilities on intangible assets - ( 80) ( 80)
+Total 1 03 2 48 351
+Goodwill 6 30
+Total purchase price 981
+(1)Includes cash and cash equivalents acquired of ₹ 26 crore.
+Theexcessofthepurchaseconsiderationpaidoverthefairvalueofassetsacquiredhasbeenattributedtogoodwill.Theprimaryitemsthatgeneratedthisgoodwill
+are the value of the acquired assembled workforce and estimated synergies, neither of which qualify as an intangible asset.
+Goodwill is not tax-deductible. Goodwill pertaining to these business combinations is allocated to operating segments as more fully described in Note 2.3.1.
+The purchase consideration of ₹981 crore includes cash of ₹936 crore and contingent consideration with an estimated fair value of ₹45 crore as on the date of
+acquisition.
+At the acquisition date, the key inputs used in determination of the fair value of contingent consideration are the probabilities assigned towards achievement of
+financial targets and discount rate of 12.5%. As of March 31, 2024 the contingent consideration was fully paid.
+Additionally, these acquisitions have shareholder and employee retention bonus payable to the employees of the acquiree over three years, subject to their
+continuous employment with the Group along with achievement of financial targets for the respective years. Performance and Retention Bonus is recognized in
+employee benefit expenses in the Interim Condensed Consolidated Statement of Statement of Profit or Loss over the period of service.
+Fair value of trade receivables acquired, is ₹111 crore as of acquisition date and as of March 31, 2024 the amounts are fully collected.
+Transaction costs that the Group incurs in connectionwith a business combinationsuch asfinder’s fees, legal fees, due diligence fees, and other professional and
+consulting fees are expensed as incurred. The transaction costs of ₹7 crore related to the acquisition have been included under administrative expenses in the
+Interim Condensed Consolidated Statement of Statement of Profit or Loss for the year ended March 31, 2023.
+10Proposed acquisitions
+On January 11, 2024, Infosys Limited entered into a definitive agreement to acquire 100% of the equity share capital in InSemi Technology Services Private
+Limited, a semiconductor design services company headquartered in India, for a consideration including earn-outs, and management incentives and retention
+bonuses totaling up to ₹280 crore (approximately $34 million), subject to customary closing adjustments.
+On April 18, 2024, Infosys Germany GmBH wholly owned step down subsidiary of Infosys Limited entered into a definitive agreement to acquire 100% of the
+equity share capital in in-tech Holding GmbH, leading provider of Engineering R&D services headquartered in Germany, for a consideration including earn-outs
+amounting up to EUR 450 million (approximately ₹4,045 crore), subject to customary closing adjustments.
+112.2 PROPERTY, PLANT AND EQUIPMENT
+Accounting policy
+Property,plantandequipmentarestatedatcost,lessaccumulateddepreciationandimpairment,ifany.Costsdirectlyattributabletoacquisitionarecapitalizeduntiltheproperty,plantandequipment
+are ready for use, as intended by the Management. The charge in respect of periodic depreciation is derived at after determining an estimate of an asset’s expected useful life and the expected
+residual value atthe end ofitslife. The Group depreciates property, plantand equipment over their estimated usefullives usingthe straight-line method. The estimated usefullives ofassets are as
+follows:
+Buildings (1) 22-25 years
+Plant and machinery (1)(2) 5 years
+Office equipment 5 years
+Computer equipment (1) 3-5 years
+Furniture and fixtures (1) 5 years
+Vehicles(1) 5 years
+Leasehold improvements Lower of useful life of the asset or lease term
+(1)Basedontechnicalevaluation,theManagementbelievesthattheusefullivesasgivenabovebestrepresenttheperiodoverwhichtheManagementexpectstousetheseassets.Hence,theuseful
+lives for these assets is different from the useful lives as prescribed under Part C of Schedule II of the Companies Act 2013
+(2) Includes Solar plant with a useful life of 25 years
+Depreciationmethods,usefullivesandresidualvaluesarereviewedperiodically,includingateachfinancialyearend.Theusefullivesarebasedonhistoricalexperiencewithsimilarassetsaswellas
+anticipation of future events, which may impact their life, such as changes in technology.
+Advancespaidtowardstheacquisitionofproperty,plantandequipmentoutstandingateachBalanceSheetdateisclassifiedascapitaladvancesunderothernon-currentassetsandthecostofassets
+notreadytousebeforesuchdatearedisclosedunder‘Capitalwork-in-progress’.Subsequentexpendituresrelatingtoproperty,plantandequipmentiscapitalizedonlywhenitisprobablethatfuture
+economic benefits associated with these will flow to the Group and the cost of the item can be measured reliably. The cost and related accumulated depreciation are eliminated from the financial
+statements upon sale or retirement of the asset.
+Impairment
+Property, plant and equipment are evaluated for recoverability whenever events or changes in circumstances indicate that their carrying amounts may not be recoverable. For the purpose of
+impairment testing, the recoverable amount (i.e. the higher of the fair value less cost to sell and the value-in-use) is determined on an individual asset basis unless the asset does not generate cash
+flows that are largely independent of those from other assets. In such cases, the recoverable amount is determined for the Cash Generating Unit (CGU) to which the asset belongs.
+Ifsuchassetsare considered to be impaired, the impairment to be recognized intheConsolidated StatementofProfitand Lossismeasuredbytheamountbywhichthecarryingvalueoftheassets
+exceedstheestimatedrecoverableamountoftheasset.AnimpairmentlossisreversedintheConsolidatedStatementofProfitandLossiftherehasbeenachangeintheestimatesusedtodetermine
+the recoverable amount. The carrying amount of the asset is increased to its revised recoverable amount, provided that this amount does not exceed the carrying amount that would have been
+determined (net of any accumulated depreciation) had no impairment loss been recognized for the asset in prior years.
+The changes in the carrying value of property, plant and equipment for the three months ended March 31, 2024 are as follows:
+(In ₹ crore)
+Particulars Land - Buildings Plant and Office Computer Furniture and Leasehold Vehicles Total
+Freehold (1) machinery Equipment equipment fixtures Improvements
+Gross carrying value as at January 1, 2024 1,432 11,498 3,305 1,510 8,497 2,308 1,456 45 30,051
+Additions — 287 140 33 345 54 35 — 894
+Deletions** — — (16) (14) (224) (34) (37) — (325)
+Translation difference — (15) (1) (1) (7) (2) (7) — (33)
+Gross carrying value as at March 31, 2024 1,432 11,770 3,428 1,528 8,611 2,326 1,447 45 30,587
+Accumulated depreciation as at January 1, 2024 — (4,814) (2,584) (1,253) (6,267) (1,807) (1,131) (42) (17,898)
+Depreciation — (111) (63) (32) (336) (58) (46) — (646)
+Accumulated depreciation on deletions** — — 16 14 219 26 34 — 309
+Translation difference — 4 1 2 4 2 5 — 18
+Accumulated depreciation as at March 31, 2024 — (4,921) (2,630) (1,269) (6,380) (1,837) (1,138) (42) (18,217)
+Carrying value as at January 1, 2024 1,432 6,684 721 257 2,230 501 325 3 12,153
+Carrying value as at March 31, 2024 1,432 6,849 798 259 2,231 489 309 3 12,370
+The changes in the carrying value of property, plant and equipment for the three months ended March 31, 2023 were as follows:
+(In ₹ crore)
+Particulars Land - Buildings Plant and Office Computer Furniture and Leasehold Vehicles Total
+Freehold (1) machinery Equipment equipment fixtures Improvements
+Gross carrying value as at January 1, 2023 1,431 11,530 3,368 1,466 8,895 2,450 1,353 44 30,537
+Additions 2 29 109 55 494 162 103 1 955
+Deletions* (2) — (175) (40) (877) (311) (13) — (1,418)
+Translation difference — 3 — 1 7 2 2 — 15
+Gross carrying value as at March 31, 2023 1,431 11,562 3,302 1,482 8,519 2,303 1,445 45 30,089
+Accumulated depreciation as at January 1, 2023 — (4,425) (2,547) (1,206) (6,339) (1,922) (992) (39) (17,470)
+Depreciation — (109) (65) (31) (354) (62) (48) (1) (670)
+Accumulated depreciation on deletions* — — 175 40 871 310 9 — 1,405
+Translation difference — (1) — (1) (4) (1) (1) — (8)
+Accumulated depreciation as at March 31, 2023 — (4,535) (2,437) (1,198) (5,826) (1,675) (1,032) (40) (16,743)
+Carrying value as at January 1, 2023 1,431 7,105 821 260 2,556 528 361 5 13,067
+Carrying value as at March 31, 2023 1,431 7,027 865 284 2,693 628 413 5 13,346
+12The changes in the carrying value of property, plant and equipment for the year ended March 31, 2024 are as follows:
+(In ₹ crore)
+Particulars Land - Buildings Plant and Office Computer Furniture and Leasehold Vehicles Total
+Freehold (1) machinery Equipment equipment fixtures Improvements
+Gross carrying value as at April 1, 2023 1,431 11,562 3,302 1,482 8,519 2,303 1,445 45 30,089
+Additions 1 300 193 106 931 121 108 1 1,761
+Deletions** — (55) (64) (60) (846) (99) (102) (1) (1,227)
+Translation difference — (37) (3) — 7 1 (4) — (36)
+Gross carrying value as at March 31, 2024 1,432 11,770 3,428 1,528 8,611 2,326 1,447 45 30,587
+Accumulated depreciation as at April 1, 2023 — (4,535) (2,437) (1,198) (5,826) (1,675) (1,032) (40) (16,743)
+Depreciation — (450) (259) (130) (1,387) (250) (206) (3) (2,685)
+Accumulated depreciation on deletions** — 55 64 59 836 89 97 1 1,201
+Translation difference — 9 2 — (3) (1) 3 — 10
+Accumulated depreciation as at March 31, 2024 — (4,921) (2,630) (1,269) (6,380) (1,837) (1,138) (42) (18,217)
+Carrying value as at April 1, 2023 1,431 7,027 865 284 2,693 628 413 5 13,346
+Carrying value as at March 31, 2024 1,432 6,849 798 259 2,231 489 309 3 12,370
+**DuringthethreemonthsandyearendedMarch31,2024,certainassetswhichwerenotinusehavinggrossbookvalueof₹181crore(net bookvalue: Nil)and ₹775crore (netbookvalue:Nil),
+respectively were retired.
+The changes in the carrying value of property, plant and equipment for the year ended March 31, 2023 are as follows:
+(In ₹ crore)
+Particulars Land - Buildings Plant and Office Computer Furniture and Leasehold Vehicles Total
+Freehold (1) machinery Equipment equipment fixtures Improvements
+Gross carrying value as at April 1, 2022 1,431 11,224 3,210 1,427 8,527 2,278 1,234 44 29,375
+Additions - Business Combination (Refer to Note 2.1) — — — 5 6 1 2 — 14
+Additions 2 337 273 122 1,510 364 220 2 2,830
+Deletions* (2) — (182) (76) (1,563) (348) (25) (1) (2,197)
+Translation difference — 1 1 4 39 8 14 — 67
+Gross carrying value as at March 31, 2023 1,431 11,562 3,302 1,482 8,519 2,303 1,445 45 30,089
+Accumulated depreciation as at April 1, 2022 — (4,100) (2,344) (1,150) (6,034) (1,779) (856) (37) (16,300)
+Depreciation — (434) (273) (121) (1,322) (236) (187) (4) (2,577)
+Accumulated depreciation on deletions* — — 181 76 1,556 347 21 1 2,182
+Translation difference — (1) (1) (3) (26) (7) (10) — (48)
+Accumulated depreciation as at March 31, 2023 — (4,535) (2,437) (1,198) (5,826) (1,675) (1,032) (40) (16,743)
+Carrying value as at April 1, 2022 1,431 7,124 866 277 2,493 499 378 7 13,075
+Carrying value as at March 31, 2023 1,431 7,027 865 284 2,693 628 413 5 13,346
+*Duringthe three monthsand year ended March31, 2023, certain assetswhich were old and not inuse havinggross bookvalue of₹1,414 crore (net bookvalue: Nil) and ₹1,918 crore (net book
+value: Nil), respectively were retired.
+(1) Buildings include ₹250/- being the value of five shares of ₹50/- each in Mittal Towers Premises Co-operative Society Limited.
+The aggregate depreciation has been included under depreciation and amortization expense in the interim condensed Consolidated Statement of Profit and Loss.
+Repairs and maintenance costs are recognized in the Consolidated Statement of Profit and Loss when incurred.
+ConsequenttotheCompanies(CorporateSocialResponsibilityPolicy)AmendmentRules,2021(“theRules”),theCompanywasrequiredtotransferitsCSRcapitalassetsinstalledpriortoJanuary
+2021.TowardsthistheCompanyhadincorporatedasubsidiary‘InfosysGreenForum’ (IGF)underSection8oftheCompaniesAct,2013.DuringtheyearendedMarch31,2022theCompanyhad
+completedthetransferofassetsuponobtainingtherequiredapprovalsfromregulatoryauthorities,asapplicable.DuringMarch31,2024,theapplicationfiledbyIGFforregistrationu/s.12ABofthe
+Income Tax Act was rejected and registration cancelled. IGF is in the process of challenging the rejection order.
+132.3 GOODWILL AND OTHER INTANGIBLE ASSETS
+2.3.1 Goodwill
+Accounting policy
+GoodwillrepresentsthepurchaseconsiderationinexcessoftheGroup'sinterestinthenetfairvalueofidentifiableassets,liabilitiesandcontingentliabilitiesoftheacquiredentity.Whenthenetfair
+value of the identifiable assets, liabilities and contingent liabilities acquired exceeds purchase consideration, the fair value of net assets acquired is reassessed and the bargain purchase gain is
+recognized in capital reserve. Goodwill is measured at cost less accumulated impairment losses.
+Impairment
+Goodwill is tested for impairment on an annual basis and whenever there is an indication that the recoverable amount of a cash generating unit (CGU) is less than its carrying amount. For the
+impairment test, goodwill is allocated to the CGU or groups of CGUs which benefit fromthe synergies of the acquisition and which represents the lowestlevel atwhich goodwill is monitored for
+internal management purposes. A CGU is the smallest identifiable group of assets that generates cash inflows that are largely independent of the cash inflows from other assets or group of assets.
+Impairment occurs when the carrying amount of a CGU including the goodwill, exceeds the estimated recoverable amount of the CGU. The recoverable amount of a CGU is the higher of its fair
+value less cost to sell and its value-in-use. Value-in-use is the present value of future cash flows expected to be derived fromthe CGU. Key assumptions in the cash flowprojections are prepared
+based on current economic conditions and includes estimated long term growth rates, weighted average cost of capital and estimated operating margins.
+Following is a summary of changes in the carrying amount of goodwill:
+(In ₹ crore)
+Particulars As at
+March 31, 2024 March 31, 2023
+Carrying value at the beginning 7,248 6,195
+Goodwill on acquisitions (Refer to note 2.1) — 630
+Translation differences 55 423
+Carrying value at the end 7,303 7,248
+For the purpose of impairment testing, goodwill acquired in a business combination is allocated to the CGU or groups of CGUs, which benefit from the synergies of the acquisition.
+2.3.2 Intangible Assets
+Accounting policy
+Intangibleassetsarestatedatcostlessaccumulatedamortizationandimpairment.Intangibleassetsareamortizedovertheirrespectiveindividualestimatedusefullivesonastraight-linebasis,from
+the date that theyare available for use. The estimated usefullife ofan identifiable intangible asset is based on a number offactors includingthe effectsof obsolescence, demand, competition, and
+othereconomicfactors(suchasthestabilityoftheindustry,andknowntechnologicaladvances)andthelevelofmaintenanceexpendituresrequiredtoobtaintheexpectedfuturecashflowsfromthe
+asset. Amortization methods and useful lives are reviewed periodically including at each financial year end.
+Research costs are expensed as incurred. Software product development costs are expensed as incurred unless technical and commercial feasibilityof the project is demonstrated, future economic
+benefitsare probable, the Group has anintentionand abilityto complete and use or sellthe software and the costscanbe measured reliably. The costswhichcan be capitalized include the costof
+material, direct labor, overhead costs that are directly attributable to prepare the asset for its intended use.
+Impairment
+Intangibleassetsareevaluatedforrecoverabilitywhenevereventsorchangesincircumstancesindicatethattheircarryingamountsmaynotberecoverable.Forthepurposeofimpairmenttesting,the
+recoverable amount (i.e. the higher of the fair value less cost to sell and the value-in-use) is determined on an individual asset basis unless the asset does not generate cash flows that are largely
+independent of those from other assets. In such cases, the recoverable amount is determined for the CGU to which the asset belongs.
+Ifsuchassetsare considered to be impaired, the impairment to be recognized intheConsolidated StatementofProfitand Lossismeasuredbytheamountbywhichthecarryingvalueoftheassets
+exceedstheestimatedrecoverableamountoftheasset.AnimpairmentlossisreversedintheConsolidatedStatementofProfitandLossiftherehasbeenachangeintheestimatesusedtodetermine
+the recoverable amount. The carrying amount of the asset is increased to its revised recoverable amount, provided that this amount does not exceed the carrying amount that would have been
+determined (net of any accumulated amortization) had no impairment loss been recognized for the asset in prior years.
+142.4 INVESTMENTS
+(In ₹ crore)
+Particulars As at
+March 31, 2024 March 31, 2023
+Non-current Investments
+Unquoted
+Investments carried at fair value through other comprehensive income
+Preference securities 91 193
+Equity securities 2 3
+93 196
+Investments carried at fair value through profit or loss
+Target maturity fund units 431 402
+Others (1) 198 169
+629 571
+Quoted
+Investments carried at amortized cost
+Government bonds 28 28
+Tax free bonds 1,731 1,742
+1,759 1,770
+Investments carried at fair value through other comprehensive income
+Non convertible debentures 2,217 2,713
+Equity securities 113 —
+Government securities 6,897 7,319
+9,227 10,032
+Total non-current investments 11,708 12,569
+Current Investments
+Unquoted
+Investments carried at fair value through profit or loss
+Liquid mutual fund units 2,615 975
+2,615 975
+Investments carried at fair value through other comprehensive income
+Commercial Papers 4,830 742
+Certificates of deposit 3,043 3,574
+7,873 4,316
+Quoted
+Investments carried at amortized cost
+Tax free bonds — 150
+— 150
+Investments carried at fair value through other comprehensive income
+Non convertible debentures 1,962 1,155
+Government securities 465 313
+2,427 1,468
+Total current investments 12,915 6,909
+Total investments 24,623 19,478
+Aggregate amount of quoted investments 13,413 13,420
+Market value of quoted investments (including interest accrued), current 2,428 1,637
+Market value of quoted investments (including interest accrued), non current 11,201 12,042
+Aggregate amount of unquoted investments 11,210 6,058
+Investments carried at amortized cost 1,759 1,920
+Investments carried at fair value through other comprehensive income 19,620 16,012
+Investments carried at fair value through profit or loss 3,244 1,546
+(1) Uncalled capital commitments outstanding as at March 31, 2024 and March 31, 2023 was ₹79 crore and ₹92 crore, respectively.
+Refer to Note 2.10 for Accounting policies on Financial Instruments.
+Method of fair valuation:
+(In ₹ crore)
+Class of investment Method Fair value as at
+March 31, 2024 March 31, 2023
+Liquid mutual fund units - carried at fair value through profit or loss Quoted price 2,615 975
+Target maturity fund units - carried at fair value through profit or loss Quoted price 431 402
+Tax free bonds and government bonds - carried at amortized cost Quoted price and market observable inputs 1,973 2,148
+Non-convertible debentures - carried at fair value through other
+Quoted price and market observable inputs 4,179 3,868
+comprehensive income
+Government securities - carried at fair value through other
+Quoted price and market observable inputs 7,362 7,632
+comprehensive income
+Commercial Papers - carried at fair value through other comprehensive
+Market observable inputs 4,830 742
+income
+Certificates of deposit - carried at fair value through other
+Market observable inputs 3,043 3,574
+comprehensive income
+Quoted Equity securities - carried at fair value through other
+Quoted price 113 —
+comprehensive income
+Unquoted equity and preference securities - carried at fair value Discounted cash flows method, Market multiples method, 93 196
+through other comprehensive income Option pricing model
+Others - carried at fair value through profit or loss Discounted cash flows method, Market multiples method, 198 169
+Option pricing model
+Total 24,837 19,706
+Note: Certain quoted investments are classified as Level 2 in the absence of active market for such investments.
+152.5 LOANS
+(In ₹ crore)
+Particulars As at
+March 31, 2024 March 31, 2023
+Non Current
+Loans considered good - Unsecured
+Other loans
+Loans to employees 34 39
+34 39
+Loans credit impaired - Unsecured
+Other loans
+Loans to employees 2 2
+Less: Allowance for credit impairment (2) (2)
+— —
+Total non-current loans 34 39
+Current
+Loans considered good - Unsecured
+Other loans
+Loans to employees 248 289
+Total current loans 248 289
+Total loans 282 328
+2.6 OTHER FINANCIAL ASSETS
+(In ₹ crore)
+Particulars As at
+March 31, 2024 March 31, 2023
+Non Current
+Security deposits (1) 259 287
+Unbilled revenues (1)# 1,677 1,185
+Net investment in sublease of right-of-use asset (1) 3 305
+Restricted deposits (1)* 47 96
+Others (1) 1,119 925
+Total non-current other financial assets 3,105 2,798
+Current
+Security deposits (1) 75 42
+Restricted deposits (1)* 2,535 2,348
+Unbilled revenues (1)# 7,923 8,317
+Interest accrued but not due (1) 537 488
+Foreign currency forward and options contracts (2) (3) 84 101
+Net investment in sublease of right of-use-asset (1) 6 53
+Others (1)** 925 255
+Total current other financial assets 12,085 11,604
+Total other financial assets 15,190 14,402
+(1) Financial assets carried at amortized cost 15,106 14,301
+(2) Financial assets carried at fair value through other comprehensive income 23 32
+(3) Financial assets carried at fair value through profit or loss 61 69
+* Restricted deposits represent deposits with financial institutions to settle employee related obligations as and when they arise during the normal course of business.
+# Classified as financial asset as right to consideration is unconditional and is due only after a passage of time.
+** Primarily includes net investment in lease
+2.7 TRADE RECEIVABLES
+(In ₹ crore)
+Particulars As at
+March 31, 2024 March 31, 2023
+Current
+Trade Receivable considered good - Unsecured 30,713 25,965
+Less: Allowance for expected credit loss 520 541
+Trade Receivable considered good - Unsecured 30,193 25,424
+Trade Receivable - credit impaired - Unsecured 196 142
+Less: Allowance for credit impairment 196 142
+Trade Receivable - credit impaired - Unsecured — —
+Total trade receivables 30,193 25,424
+162.8 CASH AND CASH EQUIVALENTS
+(In ₹ crore)
+Particulars As at
+March 31, 2024 March 31, 2023
+Balances with banks
+In current and deposit accounts 14,786 10,026
+Cash on hand — —
+Others
+Deposits with financial institutions — 2,147
+Total cash and cash equivalents 14,786 12,173
+Balances with banks in unpaid dividend accounts 37 37
+Deposit with more than 12 months maturity 57 833
+CashandcashequivalentsasatMarch31,2024andMarch31,2023 includerestrictedcashandbankbalancesof₹348croreand₹362crorerespectively.The
+restrictions are primarily on account of bank balances held by irrevocable trusts controlled by the company.
+The deposits maintained by the Group with banks and financial institutions comprise of time deposits, which can be withdrawn by the Group at any point
+without prior notice or penalty on the principal.
+2.9 OTHER ASSETS
+(In ₹ crore)
+Particulars As at
+March 31, 2024 March 31, 2023
+Non-current
+Capital advances 155 159
+Advances other than capital advances
+Others
+Withholding taxes and others 673 684
+Unbilled revenues # 103 264
+Defined benefit plan assets 31 36
+Prepaid expenses 343 332
+Deferred Contract Cost
+Cost of obtaining a contract * 129 191
+Cost of fulfillment 687 652
+Other receivables — —
+Total non-current other assets 2,121 2,318
+Current
+Advances other than capital advances
+Payment to vendors for supply of goods 356 202
+Others
+Unbilled revenues # 4,845 6,972
+Withholding taxes and others 3,540 3,268
+Prepaid expenses 3,329 2,745
+Deferred Contract Cost
+Cost of obtaining a contract * 200 853
+Cost of fulfillment 358 175
+Other receivables 180 261
+Total current other assets 12,808 14,476
+Total other assets 14,929 16,794
+# Classified as non financial asset as the contractual right to consideration is dependent on completion of contractual milestones.
+*Includes technologyassets takenover bythe Group froma customer asa part oftransformationprojectwhichisnot consideredasdistinctgoodsorservices
+and the control related to the assets is not transferred to the Group in accordance with Ind AS 115 - Revenue fromcontract with customers. Accordingly, the
+samehasbeenconsideredasareductiontothetotalcontractvalueandaccountedasDeferredcontractcost.TheGrouphasenteredintofinancingarrangements
+withathirdpartyfortheseassets.AsatMarch31,2024andMarch31,2023,thefinancialliabilitypertainingtosucharrangementsamountsto₹372croreand
+₹731 crore, respectively. For the year ended March 31, 2023 ₹118 crore was settled directly by the third party to the customer on behalf of the Group and
+accordingly considered as non-cash transaction (Refer to note 2.13)
+Withholding taxes and others primarily consist of input tax credits and Cenvat/VAT recoverable from Government of India.
+172X10AO .10 FINANCIAL INSTRUMENTS
+Accounting policy
+2.10.1 Initial recognition
+The Group recognizes financial assets and financial liabilities when it becomes a party to the contractual provisions of the instrument. All financial assets and liabilities are
+recognized atfair value oninitial recognition, except for trade receivables whichare initiallymeasuredattransactionprice. Transactioncoststhatare directlyattributable tothe
+acquisition or issue of financial assets and financial liabilities, which are not at fair value through profit or loss, are added to the fair value on initial recognition. Regular way
+purchase and sale of financial assets are accounted for at trade date.
+2.10.2 Subsequent measurement
+a. Non-derivative financial instruments
+(i) Financial assets carried at amortized cost
+Afinancialassetissubsequentlymeasuredatamortizedcostifitisheldwithinabusinessmodelwhoseobjectiveistoholdtheassetinordertocollectcontractualcashflowsand
+the contractual terms of the financial asset give rise on specified dates to cash flows that are solely payments of principal and interest on the principal amount outstanding.
+(ii) Financial assets carried at fair value through other comprehensive income (FVOCI)
+Afinancialassetissubsequentlymeasured atfairvaluethroughothercomprehensiveincomeifitisheldwithinabusinessmodelwhoseobjectiveisachievedbybothcollecting
+contractual cashflowsand selling financial assets and the contractual terms ofthe financial asset give rise onspecified dates to cashflows that are solelypayments ofprincipal
+and interest on the principal amount outstanding. The Group has made an irrevocable election for its investments which are classified as equity instruments to present the
+subsequent changes in fair value in other comprehensive income based on its business model.
+(iii) Financial assets carried at fair value through profit or loss (FVTPL)
+A financial asset which is not classified in any of the above categories is subsequently fair valued through profit or loss.
+(iv) Financial liabilities
+Financial liabilities are subsequently carried at amortized cost using the effective interest method, except for contingent consideration and financial liability under option
+arrangements recognized in a business combination which is subsequently measured at fair value through profit or loss.
+b. Derivative financial instruments
+The Group holds derivative financial instruments such as foreign exchange forward and option contracts to mitigate the risk of changes in exchange rates on foreign currency
+exposures. The counterparty for such contracts is generally a bank.
+(i) Financial assets or financial liabilities, carried at fair value through profit or loss.
+This category includes derivative financial assets or liabilities which are not designated as hedges.
+Although the Group believes that these derivatives constitute hedges from an economic perspective, they may not qualify for hedge accounting under Ind AS 109, Financial
+Instruments.Anyderivativethatiseithernotdesignatedashedge,orissodesignatedbutisineffectiveasperIndAS109,iscategorizedasafinancialassetorfinancialliability,
+at fair value through profit or loss.
+DerivativesnotdesignatedashedgesarerecognizedinitiallyatfairvalueandattributabletransactioncostsarerecognizedinnetprofitintheConsolidatedStatementofProfitand
+Losswhenincurred.Subsequenttoinitialrecognition,thesederivativesaremeasuredatfairvaluethroughprofitorlossandtheresultingexchangegainsorlossesareincludedin
+otherincome.Assets/liabilitiesinthiscategoryarepresentedascurrentassets/currentliabilitiesiftheyareeitherheldfortradingorareexpectedtoberealizedwithin12months
+after the Balance Sheet date.
+(ii) Cash flow hedge
+The Group designates certainforeignexchange forward and optionscontractsascashflowhedgesto mitigate the riskofforeignexchangeexposure onhighlyprobableforecast
+cash transactions.
+Whenaderivativeisdesignatedasacashflowhedginginstrument,theeffectiveportionofchangesinthefairvalueofthederivativeisrecognizedinothercomprehensiveincome
+and accumulated in the cash flow hedging reserve. Any ineffective portion of changes in the fair value of the derivative is recognized immediately in the net profit in the
+ConsolidatedStatementofProfitandLoss.Ifthehedginginstrumentnolongermeetsthecriteriaforhedgeaccounting,thenhedgeaccountingisdiscontinuedprospectively.Ifthe
+hedginginstrumentexpires or issold, terminated or exercised, the cumulative gain or loss onthe hedginginstrument recognized in cashflowhedgingreserve tillthe period the
+hedge was effective remains in cash flow hedging reserve until the forecasted transaction occurs. The cumulative gain or loss previously recognized in the cash flow hedging
+reserveistransferredtothenetprofitintheConsolidatedStatementofProfitandLossupontheoccurrenceoftherelatedforecastedtransaction.Iftheforecastedtransactionisno
+longer expected to occur, then the amount accumulated in cash flow hedging reserve is reclassified to net profit in the Consolidated Statement of Profit and Loss.
+2.10.3 Derecognition of financial instruments
+TheGroupderecognizesafinancialassetwhenthecontractualrightstothecashflowsfromthefinancialassetexpireorittransfersthefinancialassetandthetransferqualifiesfor
+derecognition under Ind AS 109. A financial liability (or a part of a financial liability) is derecognized from the Group's Balance Sheet when the obligation specified in the
+contract is discharged or cancelled or expires.
+182.10.4 Fair value of financial instruments
+In determining the fair value of its financial instruments, the Group uses a variety of methods and assumptions that are based on market conditions and risks existing at each
+reportingdate.Themethodsusedtodeterminefairvalueincludediscountedcashflowanalysis,optionpricingmodel,marketmultiples,availablequotedmarketpricesanddealer
+quotes. All methods of assessing fair value result in general approximation of value, and such value may never actually be realized.
+Refer to table 'Financial instruments by category' below for the disclosure on carrying value and fair value of financial assets and liabilities. For financial assets and liabilities
+maturing within one year from the Balance Sheet date and which are not carried at fair value, the carrying amounts approximates fair value due to the short maturity of these
+instruments.
+2.10.5 Impairment
+The Group recognizes loss allowances using the expected credit loss (ECL) model for the financial assets and unbilled revenue which are not fair valued throughprofit or loss.
+LossallowancefortradereceivablesandunbilledrevenueswithnosignificantfinancingcomponentismeasuredatanamountequaltolifetimeECL.Forallotherfinancialassets,
+ECLsaremeasuredatanamountequaltothe12-monthECL,unlesstherehasbeenasignificantincreaseincreditriskfrominitialrecognitioninwhichcasethosearemeasuredat
+lifetime ECL.
+The Group determines the allowance for credit losses based on historical loss experience adjusted to reflect current and estimated future economic conditions. The Group
+considers current and anticipated future economic conditions relating to industries the Group deals with and the countries where it operates.
+TheamountofECL(orreversal)thatisrequiredtoadjustthelossallowanceatthereportingdatetotheamountthatisrequiredtoberecordedisrecognizedasanimpairmentloss
+or gain in Consolidated Statement of Profit and Loss.
+Financial instruments by category
+The carrying value and fair value of financial instruments by categories as at March 31, 2024 are as follows:
+(In ₹ crore)
+Particulars Amortized cost Financial assets/ liabilities at Financial assets/liabilities at fair value Total carrying value Total fair value
+fair value through profit or loss through OCI
+Designated Mandatory Equity instruments Mandatory
+upon initial designated upon
+recognition initial recognition
+Assets:
+Cash and cash equivalents (Refer to Note 2.8) 14,786 — — — — 14,786 14,786
+Investments (Refer to Note 2.4)
+Equity and preference securities — — — 206 — 206 206
+Tax free bonds and government bonds 1,759 — — — — 1,759 1,973 (1)
+Liquid mutual fund units — — 2,615 — — 2,615 2,615
+Target maturity fund units — — 431 — — 431 431
+Non convertible debentures — — — — 4,179 4,179 4,179
+Government securities — — — — 7,362 7,362 7,362
+Commercial papers — — — — 4,830 4,830 4,830
+Certificates of deposit — — — — 3,043 3,043 3,043
+Other investments — — 198 — — 198 198
+Trade receivables (Refer to Note 2.7) 30,193 — — — — 30,193 30,193
+Loans (Refer to Note 2.5) 282 — — — — 282 282
+Other financials assets (Refer to Note 2.6)(3) 15,106 — 61 — 23 15,190 15,106 (2)
+Total 62,126 — 3,305 206 19,437 85,074 85,204
+Liabilities:
+Trade payables 3,956 — — — — 3,956 3,956
+Lease liabilities (Refer to Note 2.19) 8,359 — — — — 8,359 8,359
+Financial Liability under option arrangements — — 597 — — 597 597
+(Refer to Note 2.12)
+Other financial liabilities (Refer to Note 2.12) 15,750 — 30 — 1 15,781 15,781
+Total 28,065 — 627 — 1 28,693 28,693
+(1) On account of fair value changes including interest accrued
+(2) Excludes interest accrued on tax free bonds and government bonds carried at amortized cost of ₹84 crore
+(3) Excludes unbilled revenue on contracts where the right to consideration is dependent on completion of contractual milestones
+19The carrying value and fair value of financial instruments by categories as at March 31, 2023 were as follows:
+(In ₹ crore)
+Particulars Amortized Financial assets/ liabilities at Financial assets/liabilities at fair Total carrying Total fair value
+cost fair value through profit or value through OCI value
+loss
+Designated Mandatory Equity instruments Mandatory
+upon initial designated upon
+recognition initial recognition
+Assets:
+Cash and cash equivalents (Refer to Note 2.8) 12,173 — — — — 12,173 12,173
+Investments (Refer to Note 2.4)
+Equity and preference securities — — — 196 — 196 196
+Tax free bonds and government bonds 1,920 — — — — 1,920 2,148 (1)
+Liquid mutual fund units — — 975 — — 975 975
+Target maturity fund units — — 402 — — 402 402
+Non convertible debentures — — — — 3,868 3,868 3,868
+Government securities — — — — 7,632 7,632 7,632
+Commercial papers — — — — 742 742 742
+Certificates of deposit — — — — 3,574 3,574 3,574
+Other investments — — 169 — — 169 169
+Trade receivables (Refer to Note 2.7) 25,424 — — — — 25,424 25,424
+Loans (Refer to Note 2.5) 328 — — — — 328 328
+Other financials assets (Refer to Note 2.6)(3) 14,301 — 69 — 32 14,402 14,318 (2)
+Total 54,146 — 1,615 196 15,848 71,805 71,949
+Liabilities:
+Trade payables 3,865 — — — — 3,865 3,865
+Lease liabilities (Refer to Note 2.19) 8,299 — — — — 8,299 8,299
+Financial Liability under option arrangements — — 600 — — 600 600
+(Refer to Note 2.12)
+Other financial liabilities (Refer to Note 2.12) 17,359 — 161 — 14 17,534 17,534
+Total 29,523 — 761 — 14 30,298 30,298
+(1) On account of fair value changes including interest accrued
+(2) Excludes interest accrued on tax free bonds and government bonds carried at amortized cost of ₹84 crore
+(3) Excludes unbilled revenue on contracts where the right to consideration is dependent on completion of contractual milestones
+Fortradereceivables,tradepayables,otherassetsandpayablesmaturingwithinoneyearfromtheBalanceSheetdate,thecarryingamountsapproximatethefairvalueduetothe
+short maturity of these instruments.
+Fair value hierarchy
+Level 1 - Quoted prices (unadjusted) in active markets for identical assets or liabilities.
+Level 2 - Inputs other than quoted prices included within Level 1 that are observable for the asset or liability, either directly (i.e. as prices) or indirectly (i.e. derived from prices).
+Level 3 - Inputs for the assets or liabilities that are not based on observable market data (unobservable inputs).
+The fair value hierarchy of assets and liabilities measured at fair value on a recurring basis as at March 31, 2024 is as follows:
+(In ₹ crore)
+Particulars As at March 31, Fair value measurement at end of the reporting period
+2024 using
+Level 1 Level 2 Level 3
+Assets
+Investments (Refer to note 2.4)
+Investments in liquid mutual funds 2,615 2,615 — —
+Investments in target maturity fund units 431 431 — —
+Investments in tax free bonds 1,944 1,944 — —
+Investments in government bonds 29 29 — —
+Investments in non convertible debentures 4,179 3,922 257 —
+Investment in government securities 7,362 7,289 73 —
+Investments in equity securities 115 — — 115
+Investments in preference securities 91 — — 91
+Investments in commercial papers 4,830 — 4,830 —
+Investments in certificates of deposit 3,043 — 3,043 —
+Other investments 198 — — 198
+Others
+Derivative financial instruments - gain on outstanding foreign exchange forward and option 84 84
+— —
+contracts (Refer to Note 2.6)
+Liabilities
+Derivative financial instruments - loss on outstanding foreign exchange forward and option 31 31
+— —
+contracts (Refer to Note 2.12)
+Financial liability under option arrangements (Refer to Note 2.12)(1) 597 — — 597
+(1) Discount rate ranges from 9% to 15%
+20During the year ended March 31, 2024, government securities , non convertible debentures and tax free bonds of ₹2,143 crore was transferred from Level 2 to Level 1 of fair
+value hierarchy, since these were valued based on quoted price. Further, government securities of ₹ 73 crore were transferred from Level 1 to Level 2 of fair value hierarchy,
+since these were valued based on market observable inputs.
+The fair value hierarchy of assets and liabilities measured at fair value on a recurring basis as at March 31, 2023 was as follows:
+(In ₹ crore)
+Particulars As at Fair value measurement at end of the reporting period
+March 31, 2023 using
+Level 1 Level 2 Level 3
+Assets
+Investments (Refer to note 2.4)
+Investments in liquid mutual funds 975 975 — —
+Investments in target maturity fund units 402 402 — —
+Investments in tax free bonds 2,120 1,331 789 —
+Investments in government bonds 28 28 — —
+Investments in non convertible debentures 3,868 1,793 2,075 —
+Investment in government securities 7,632 7,549 83 —
+Investments in equity securities 3 — — 3
+Investments in preference securities 193 — — 193
+Investments in commercial papers 742 — 742 —
+Investments in certificates of deposit 3,574 — 3,574 —
+Other investments 169 — — 169
+Others
+Derivative financial instruments - gain on outstanding foreign exchange forward and option 101 — 101 —
+contracts (Refer to Note 2.6)
+Liabilities
+Derivative financial instruments - loss on outstanding foreign exchange forward and option 78 — 78 —
+contracts (Refer to Note 2.12)
+Financial liability under option arrangements (Refer to Note 2.12)(1) 600 — — 600
+Liability towards contingent consideration (Refer to Note 2.12)(1) 97 — — 97
+(1) Discount rate ranges from 10% to 15%
+DuringtheyearendedMarch31,2023,governmentsecuritiesandtaxfreebondsof₹383crorewastransferredfromLevel2toLevel1offairvaluehierarchy,sincethesewere
+valuedbasedonquotedprice.Further,non-convertibledebenturesof₹1,611croreweretransferredfromLevel1toLevel2offairvaluehierarchy,sincethesewerevaluedbased
+on market observable inputs.
+A one percentage point change in the unobservable inputs used in fair valuation of Level 3 assets and liabilities does not have a significant impact in its value.
+Majority of investments of the Group are fair valued based on Level 1 or Level 2 inputs. These investments primarily include investment in liquid mutual fund units, target
+maturity fund units, tax free bonds, certificates of deposit, commercial papers, treasury bills, government securities, non-convertible debentures, quoted bonds issued by
+government and quasi-government organizations. The Group invests after considering counterparty risks based on multiple criteria including Tier I capital, Capital Adequacy
+Ratio, Credit Rating, Profitability, NPA levels and Deposit base of banks and financial institutions. These risks are monitored regularly as per Group's risk management program.
+212X11AO .11 EQUITY
+Accounting policy
+Ordinary Shares
+Ordinarysharesareclassifiedasequitysharecapital.Incrementalcostsdirectlyattributabletotheissuanceofnewordinaryshares,shareoptionsandbuybackarerecognizedasadeductionfrom
+equity, net of any tax effects.
+Treasury Shares
+When any entity within the Group purchases the company's ordinary shares, the consideration paid including any directly attributable incremental cost is presented as a deduction from total
+equity,untiltheyarecancelled,soldorreissued.Whentreasurysharesaresoldorreissuedsubsequently,theamountreceivedisrecognizedasanincreaseinequity,andtheresultingsurplusor
+deficit on the transaction is transferred to / from securities premium.
+Description of reserves
+Capital Redemption Reserve
+Inaccordancewithsection69oftheIndianCompaniesAct,2013,theCompanycreatescapitalredemptionreserveequaltothenominalvalueofthesharesboughtbackasanappropriationfrom
+general reserve / retained earnings.
+Retained earnings
+Retained earnings represent the amount of accumulated earnings of the Group.
+Securities premium
+The amountreceived inexcess ofthe par value ofequityshareshas beenclassified assecurities premium. Amounts have been utilized for bonus issue and share buybackfromshare premium
+account.
+Share options outstanding account
+The share options outstanding account is used to record the fair value of equity-settled share based payment transactions with employees. The amounts recorded in share options outstanding
+account are transferred to securities premium upon exercise of stock options and transferred to general reserve on account of stock options not exercised by employees.
+Special Economic Zone Re-investment reserve
+The Special Economic Zone Re-investment reserve has been created out of the profit of the eligible SEZ unit in terms of the provisions of Sec 10AA (1)(ii) of Income Tax Act, 1961. The
+reserve should be utilized by the Company for acquiring new plant and machinery for the purpose of its business in terms of the provisions of the Sec 10AA (2) of the Income Tax Act, 1961.
+Other components of equity
+Other componentsofequityinclude currencytranslation, remeasurement ofnet defined benefit liability/asset, equityinstrumentsfair valued throughother comprehensive income, changeson
+fair valuation of investments and changes in fair value of derivatives designated as cash flow hedges, net of taxes.
+Currency translation reserve
+The exchange differences arising from the translation of financial statements of foreign subsidiaries with functional currency other than Indian rupees is recognized in other comprehensive
+income and is presented within equity.
+Cash flow hedge reserve
+When a derivative is designated as a cash flow hedging instrument, the effective portion of changes in the fair value of the derivative is recognized in other comprehensive income and
+accumulatedinthecashflowhedgingreserve.ThecumulativegainorlosspreviouslyrecognizedinthecashflowhedgingreserveistransferredtotheinterimcondensedConsolidatedStatement
+of Profit and Loss upon the occurrence of the related forecasted transaction.
+EQUITY SHARE CAPITAL
+(In ₹ crore, except as otherwise stated)
+Particulars As at
+March 31, 2024 March 31, 2023
+Authorized
+Equity shares, ₹5/- par value
+4,80,00,00,000 (4,80,00,00,000) equity shares 2,400 2,400
+Issued, Subscribed and Paid-Up
+Equity shares, ₹5/- par value(1) 2,071 2,069
+4,13,99,50,635 (4,13,63,87,925) equity shares fully paid-up(2)
+2,071 2,069
+Note: Forfeited shares amounted to ₹1,500 (₹1,500)
+(1) Refer to Note 2.20 for details of basic and diluted shares
+(2) Net of treasury shares 1,09,16,829 (1,21,72,119)
+TheCompanyhasonlyoneclassofsharesreferredtoasequityshareshavingaparvalueof₹5/-.Eachholderofequitysharesisentitledtoonevotepershare.Theequitysharesrepresentedby
+American Depositary Shares (ADS) carry similar rights to voting and dividends as the other equity shares. Each ADS represents one underlying equity share.
+IntheeventofliquidationoftheCompany,theholdersofequityshareswillbeentitledtoreceiveanyoftheremainingassetsoftheCompanyinproportiontothenumberofequitysharesheld
+by the shareholders, after distribution of all preferential amounts. However, no such preferential amounts exist currently, other than the amounts held by irrevocable controlled trusts. For
+irrevocable controlled trusts, the corpus would be settled in favor of the beneficiaries.
+There are no voting, dividend or liquidation rights to the holders of options issued under the company's share option plans
+For details of shares reserved for issue under the employee stock option plan of the Company refer to the note below.
+22The reconciliation of the number of shares outstanding and the amount of share capital as at March 31, 2024 and March 31, 2023 are as follows:
+(In ₹ crore, except as stated otherwise)
+Particulars As at March 31, 2024 As at March 31, 2023
+Number of shares Amount Number of shares Amount
+As at the beginning of the period 413,63,87,925 2,069 419,30,12,929 2,098
+Add: Shares issued on exercise of employee stock options 35,62,710 2 38,01,344 1
+Less: Shares bought back — — 6,04,26,348 30
+As at the end of the period 413,99,50,635 2,071 413,63,87,925 2,069
+Capital allocation policy
+Effectivefromfinancialyear2025,theCompanyexpectstocontinuethepolicyofreturningapproximately85%ofthefreecashflowcumulativelyovera5-yearperiodthroughacombinationof
+semi-annual dividends and/or share buyback/ special dividends subject to applicable laws and requisite approvals, if any. Under this policy, the Companyexpects to progressively increase its
+annual dividend per share (excluding special dividend if any).
+FreecashflowisdefinedasnetcashprovidedbyoperatingactivitieslesscapitalexpenditureaspertheconsolidatedstatementofcashflowspreparedunderIFRS.Dividendandbuybackinclude
+applicable taxes
+Buyback completed in February 2023
+In line with the capital allocation policy, the Board, at its meeting held on October 13, 2022, approved the buyback of equity shares, from the open market route through the Indian stock
+exchanges,amountingto₹9,300crore(MaximumBuybackSize,excludingbuybacktax)atapricenotexceeding₹1,850pershare(MaximumBuybackPrice),subjecttoshareholders'approval
+by way of Postal Ballot.
+The shareholders approved the proposal of buyback of Equity Shares recommended by its Board of Directors by way of e-voting on the postal ballot, the results of which were declared on
+December3,2022.ThebuybackwasofferedtoallequityshareholdersoftheCompany(otherthanthePromoters,thePromoterGroupandPersonsinControloftheCompany)undertheopen
+market route through the stock exchange. The buyback of equity shares through the stock exchange commenced on December 7, 2022 and was completed on February 13, 2023. During this
+buybackperiodtheCompanyhadpurchasedandextinguishedatotalof60,426,348equitysharesfromthestockexchangeatavolumeweightedaveragebuybackpriceof₹1,539.06/-perequity
+share comprising 1.44% of the pre buyback paid-up equity share capital of the Company. The buyback resulted in a cash outflow of ₹9,300 crore (excluding transaction costs and tax on
+buyback). The Company funded the buyback from its free reserves including Securities Premium as explained in Section 68 of the Companies Act, 2013.
+Inaccordancewithsection69oftheCompaniesAct,2013,asatMarch31,2023,theCompanyhascreated‘CapitalRedemptionReserve’of₹30croreequaltothenominalvalueoftheshares
+bought back as an appropriation from general reserve and retained earnings.
+The Company’s objective when managing capital is to safeguard itsabilityto continue asa goingconcern and to maintainan optimal capital structure so asto maximize shareholder value. In
+ordertomaintainorachieveanoptimalcapitalstructure,theCompanymayadjusttheamountofdividendpayment,returncapitaltoshareholders,issuenewsharesorbuybackissuedshares.As
+of March 31, 2024, the Company has only one class of equity shares and has no debt. Consequent to the above capital structure there are no externally imposed capital requirements.
+Dividend
+The final dividend on sharesis recorded as a liabilityonthe date of approval bythe shareholders and interimdividendsare recorded as a liabilityonthe date of declarationbythe Company's
+Board of Directors. Income tax consequences of dividends on financial instruments classified as equity will be recognized according to where the entity originally recognized those past
+transactions or events that generated distributable profits.
+The Company declares and pays dividends in Indian rupees. Companies are required to pay/distribute dividend after deducting applicable taxes. The remittance of dividends outside India is
+governed by Indian law on foreign exchange and is also subject to withholding tax at applicable rates.
+The amount of per share dividend recognized as distribution to equity shareholders is as follows:
+(in ₹)
+Particulars Three months ended March 31, Year ended March 31,
+2024 2023 2024 2023
+Final dividend for fiscal 2022 — — — 16.00
+Interim dividend for fiscal 2023 — — — 16.50
+Final dividend for fiscal 2023 — — 17.50 —
+Interim dividend for fiscal 2024 — — 18.00 —
+During the year ended March 31, 2024, on account of the final dividend for fiscal 2023 and interim dividend for fiscal 2024, the Company has incurred a net cash outflow of ₹14,692 crore
+(excluding dividend paid on treasury shares)
+TheBoardofDirectorsintheirmeetingheldonApril18,2024recommendedafinaldividendof₹20/-perequityshareforthefinancialyearendedMarch31,2024andaspecialdividendof₹8/-
+per equity share. The payment is subject to the approval of shareholders in the AGM of the Company to be held on June 26, 2024 and if approved, would result in a net cash outflow of
+approximately ₹11,592 crore (excluding dividend paid on treasury shares).
+Employee Stock Option Plan (ESOP):
+Accounting policy
+TheGrouprecognizescompensationexpenserelatingtoshare-basedpaymentsinnetprofitbasedonestimatedfairvaluesoftheawardsonthegrantdate.Theestimatedfairvalueofawardsis
+recognized as an expense in the statement of profit and loss on a straight-line basis over the requisite service period for each separately vesting portion of the award as if the award was in-
+substance, multiple awards with a corresponding increase to share options outstanding account.
+Infosys Expanded Stock Ownership Program 2019 (the 2019 Plan) :
+OnJune22,2019pursuanttoapprovalbytheshareholdersintheAnnualGeneralMeeting,theBoardhasbeenauthorizedtointroduce,offer,issueandprovideshare-basedincentivestoeligible
+employees of the Companyand its subsidiaries under the 2019 Plan. The maximumnumber of shares under the 2019 Plan shall not exceed 5,00,00,000 equityshares. To implement the 2019
+Plan, up to 4,50,00,000 equityshares maybe issued bywayofsecondaryacquisitionofshares byInfosysExpanded StockOwnership Trust. The Restricted Stock Units(RSUs) granted under
+the 2019 Planshallvestbasedontheachievementofdefined annualperformance parametersasdeterminedbytheadministrator (Nominationand RemunerationCommittee). Theperformance
+parameters will be based on a combination of relative Total Shareholder Return (TSR) against selected industry peers and certain broader market domestic and global indices and operating
+performancemetricsoftheCompanyasdecidedbyadministrator.Eachoftheaboveperformanceparameterswillbedistinctforthepurposesofcalculationofquantityofsharestovestbasedon
+performance. These instruments will generally vest between a minimum of 1 to maximum of 3 years from the grant date.
+2015 Stock Incentive Compensation Plan (the 2015 Plan) :
+OnMarch31,2016,pursuanttotheapprovalbytheshareholdersthroughpostalballot,theBoardwasauthorizedtointroduce,offer,issueandallotshare-basedincentivestoeligibleemployees
+of the Companyand its subsidiaries under the 2015 Stock Incentive Compensation Plan. The maximumnumber of sharesunder the 2015 Planshall not exceed 2,40,38,883 equityshares(this
+includes 1,12,23,576 equityshares which are held bythe trust towards the 2011 Plan as at March 31, 2016). These instruments will generallyvest over a period of4 years. The plannumbers
+mentioned above are further adjusted with the September 2018 bonus issue.
+The equity settled and cash settled RSUs and stock options would vest generally over a period of 4 years and shall be exercisable within the period as approved by the Nomination and
+RemunerationCommittee(NARC).TheexercisepriceoftheRSUswillbeequaltotheparvalueofthesharesandtheexercisepriceofthestockoptionswouldbethemarketpriceasonthedate
+of grant.
+Controlled trust holds 10,916,829 and 1,21,72,119 shares as at March 31, 2024 and March 31, 2023, respectively, under the 2015 Plan. Out of these shares, 2,00,000 equityshares each have
+been earmarked for welfare activities of the employees as at March 31, 2024 and March 31, 2023.
+23The following is the summary of grants made during the three months and year ended March 31, 2024 and March 31, 2023:
+Particulars 2019 Plan 2015 Plan
+Three months ended Three months ended Year ended
+Year ended March 31,
+March 31, March 31, March 31,
+2024 2023 2024 2023 2024 2023 2024 2023
+Equity Settled RSUs
+Key Management Personnel (KMP) 26,900 33,750 141,171 210,643 77,094 80,154 498,730 367,479
+Employees other than KMP 3,582,471 3,329,240 4,046,731 3,704,014 3,442,700 1,736,925 4,640,640 1,784,975
+3,609,371 3,362,990 4,187,902 3,914,657 3,519,794 1,817,079 5,139,370 2,152,454
+Cash settled RSU
+Key Management Personnel (KMP) - - - - - - - -
+Employees other than KMP - - - - 169,040 92,400 176,990 92,400
+- - - - 169,040 92,400 176,990 92,400
+Total Grants 3,609,371 3,362,990 4,187,902 3,914,657 3,688,834 1,909,479 5,316,360 2,244,854
+Notes on grants to KMP:
+CEO & MD
+Under the 2015 Plan:
+TheBoard,onApril13,2023,basedontherecommendationsoftheNominationandRemunerationCommitteeapprovedthefollowinggrantsforfiscal2024.Inaccordancewithsuchapproval
+the following grants were made effective May 2, 2023.
+- 2,72,026 performance-based RSUs (Annual performance equity grant) of fair value of ₹34.75 crore. These RSUs will vest in line with the employment agreement based on achievement of
+certain performance targets.
+-15,656performance-basedgrantofRSUs(AnnualperformanceequityESGgrant)offairvalueof₹2crore.TheseRSUswillvestinlinewiththeemploymentagreementbasedonachievement
+of certain environment, social and governance milestones as determined by the Board.
+-39,140performance-basedgrantofRSUs(AnnualperformanceEquityTSRgrant)offairvalueof₹5crore.TheseRSUswillvestinlinewiththeemploymentagreementbasedonCompany’s
+performance on cumulative relative TSR over the years and as determined by the Board.
+Further,inaccordancewiththeemployeeagreementwhichhasbeenapprovedbytheshareholders,theCEOiseligibletoreceiveanannualgrantofRSUsoffairvalue₹3crorewhichwillvest
+overtimeinthreeequalannualinstallmentsuponthecompletionofeachyearofservicefromtherespectivegrantdate.Accordingly,annualtime-basedgrantof18,104RSUswasmadeeffective
+February 1, 2024 for fiscal 2024.
+ThoughtheannualtimebasedgrantsandannualperformanceequityTSRgrantfortheremainingemploymenttermendingonMarch31,2027havenotbeengrantedasofMarch31,2024,since
+the service commencement date precedes the grant date, the companyhas recorded employment stock compensation expense in accordance with Ind AS 102, Share based payment. The grant
+date for this purpose in accordance with Ind AS 102, Share based payment is July 1, 2022.
+Under the 2019 Plan:
+The Board, on April 13, 2023, based on the recommendations of the Nomination and Remuneration Committee, approved performance-based grant ofRSUs amountingto ₹10 crore for fiscal
+2024 under the 2019 Plan. These RSUs will vest based on achievement of certain performance targets. Accordingly, 78,281 performance based RSU’s were granted effective May 2, 2023.
+Other KMP
+Under the 2015 Plan:
+DuringtheyearendedMarch31,2024,basedon recommendationsofNominationandRemunerationCommittee,theBoardapproved1,47,030timebasedRSUsand6,774performancebased
+RSUs to other KMP under the 2015 plan. Time based RSUs will vest over three to four years and performance based RSUs will vest over three years based on certain performance targets.
+Under the 2019 Plan:
+DuringtheyearendedMarch31,2024,basedon recommendationsofNominationandRemunerationCommittee,theBoardapprovedperformancebasedgrantsof62,890RSUstootherKMPs
+under the 2019 plan. These RSUs will vest over three years based on achievement of certain performance targets.
+The break-up of employee stock compensation expense is as follows:
+(in ₹ crore)
+Three months ended Year ended
+Particulars
+March 31, March 31,
+2024 2023 2024 2023
+Granted to:
+KMP 17 8 68 49
+Employees other than KMP 208 125 584 470
+Total (1) 225 133 652 519
+(1) Cash-settled stock compensation expense included in the above 4 2 13 5
+The fair value of the awards are estimated using the Black-Scholes Model for time and non-market performance based options and Monte Carlo simulation model is used for TSR based options.
+Theinputstothemodelincludethesharepriceatdateofgrant,exerciseprice,expectedvolatility,expecteddividends,expectedtermandtheriskfreerateofinterest.Expectedvolatilityduring
+theexpectedtermoftheoptionsisbasedonhistoricalvolatilityoftheobservedmarketpricesoftheCompany'spubliclytradedequitysharesduringaperiodequivalenttotheexpectedtermof
+the options. Expected volatility of the comparative company have been modelled based on historical movements in the market prices of their publicly traded equity shares during a period
+equivalent to the expected term of the options. Correlation coefficient is calculated between each peer entity and the indices as a whole or between each entity in the peer group.
+The fair value of each equity settled award is estimated on the date of grant using the following assumptions:
+Particulars For options granted in
+Fiscal 2024- Fiscal 2024- Fiscal 2023- Fiscal 2023-
+Equity Shares- ADS-RSU Equity Shares-RSU ADS-RSU
+RSU
+Weighted average share price (₹) / ($ ADS) 1,588 19.19 1,525 18.08
+Exercise price (₹) / ($ ADS) 5.00 0.07 5.00 0.07
+Expected volatility (%) 23-31 25-33 23-32 27-34
+Expected life of the option (years) 1-4 1-4 1-4 1-4
+Expected dividends (%) 2-3 2-3 2-3 2-3
+Risk-free interest rate (%) 7 4-5 5-7 2-5
+Weighted average fair value as on grant date (₹) / ($ ADS) 1,317 16.27 1,210 13.69
+The expected life of the RSU/ESOP is estimated based on the vesting term and contractual term of the RSU/ESOP, as well as expected exercise behavior of the employee who receives the
+RSU/ESOP.
+242X12AO .12 OTHER FINANCIAL LIABILITIES
+(In ₹ crore)
+Particulars As at
+March 31, 2024 March 31, 2023
+Non-current
+Others
+Accrued compensation to employees (1) 7 5
+Accrued expenses (1) 1,779 1,628
+Compensated absences 89 83
+Financial liability under option arrangements (2) # 98 —
+Other Payables (1)(4) 157 342
+Total non-current other financial liabilities 2,130 2,058
+Current
+Unpaid dividends (1) 37 37
+Others
+Accrued compensation to employees (1) 4,454 4,174
+Accrued expenses (1) 8,224 7,802
+Payable for acquisition of business - Contingent consideration (2) — 97
+Payable by controlled trusts (1) 211 211
+Compensated absences 2,622 2,399
+Financial liability under option arrangements (2) # 499 600
+Foreign currency forward and options contracts (2) (3) 31 78
+Capital creditors (1) 310 674
+Other payables (1)(4) 571 2,486
+Total current other financial liabilities 16,959 18,558
+Total other financial liabilities 19,089 20,616
+(1) Financial liability carried at amortized cost 15,750 17,359
+(2) Financial liability carried at fair value through profit or loss 627 761
+(3) Financial liability carried at fair value through other comprehensive income 1 14
+Financial liability under option arrangements on an undiscounted basis 690 676
+Contingent consideration on undiscounted basis — 101
+(4)Deferredcontractcostinnote2.9includestechnologyassetstakenoverbytheGroupfromacustomerasapartoftransformationprojectwhichisnotconsidered
+as distinct goods or services and the control related to the assets is not transferred to the Group in accordance with Ind AS 115 - Revenue from contract with
+customers. Accordingly, the same has been considered as a reduction to the total contract value and accounted as Deferred contract cost. The Group has entered
+into financing arrangements with a third party for these assets. As at March 31, 2024 and March 31, 2023, the financial liability pertaining to such arrangements
+amountsto₹372croreand₹731crore,respectively.Fortheyearended March31,2023₹118crorewassettleddirectlybythethirdpartytothecustomeronbehalf
+of the Group and accordingly considered as non-cash transaction.
+# Represents liability related to options issued by the Group over the non-controlling interests in its subsidiaries
+Accrued expenses primarily relate to cost of technical sub-contractors, telecommunication charges, legal and professional charges, brand building expenses,
+overseas travel expenses, office maintenance and cost of third party software and hardware.
+2.13 OTHER LIABILITIES
+(In ₹ crore)
+Particulars As at
+March 31, 2024 March 31, 2023
+Non-current
+Others
+Accrued defined benefit liability 159 445
+Others 76 55
+Total non-current other liabilities 235 500
+Current
+Unearned revenue 7,341 7,163
+Others
+Withholding taxes and others 3,185 3,632
+Accrued defined benefit liability 5 4
+Others 8 31
+Total current other liabilities 10,539 10,830
+Total other liabilities 10,774 11,330
+252.14 PROVISIONS
+Accounting policy
+Aprovisionisrecognized if,asaresultofapastevent,theGrouphasapresentlegalorconstructiveobligationthatisreasonablyestimable,anditisprobablethat
+anoutflowofeconomic benefitswillbe required to settle the obligation. Provisions are determined bydiscountingthe expectedfuture cashflowsata pre-taxrate
+that reflects current market assessments of the time value of money and the risks specific to the liability.
+a. Post sales client support
+The Group provides itsclientswitha fixed-period post salessupport onits fixed-price, fixed-timeframe contracts. Costs associated with suchsupport servicesare
+accrued at the time related revenues are recorded and included in Consolidated Statement of Profit and Loss. The Group estimates such costs based on historical
+experience and estimates are reviewed on a periodic basis for any material changes in assumptions and likelihood of occurrence.
+b. Onerous contracts
+Provisions for onerous contracts are recognized when the expected benefits to be derived by the Group from a contract are lower than the unavoidable costs of
+meeting the future obligations under the contract. Provisions for estimated losses, if any, on incomplete contracts are recorded in the period in which such losses
+becomeprobablebasedontheestimatedeffortsorcoststocompletethecontract.Theprovisionismeasuredatthepresentvalueoftheloweroftheexpectedcostof
+terminating the contract and the expected net cost of continuing with the contract. Before a provision is established the Group recognizes any impairment loss on the
+assets associated with that contract.
+Provision for post-sales client support and other provisions:
+(In ₹ crore)
+Particulars As at
+March 31, 2024 March 31, 2023
+Current
+Others
+Post-sales client support and other provisions 1,796 1,307
+Total provisions 1,796 1,307
+Provisionforpostsalesclientsupport andother provisionsmajorlyrepresentscostsassociatedwithprovidingsalessupportserviceswhichare accruedatthetime
+of recognition of revenues and are expected to be utilized over a period of 1 year.
+Provision for post sales client support and other provisions is included in cost of sales in the condensed consolidated statement of profit and loss.
+262X13AOX13AOX13AO .15 INCOME TAXES
+Accounting policy
+Incometaxexpensecomprisescurrentanddeferredincometax.IncometaxexpenseisrecognizedinnetprofitintheConsolidatedStatementofProfitandLossexceptto
+theextentthatitrelatestoitemsrecognizeddirectlyinequity,inwhichcaseitisrecognizedinequityorothercomprehensiveincome.Currentincometaxforcurrentand
+prior periods is recognized at the amount expected to be paid to or recovered from the tax authorities, using the tax rates and tax laws that have been enacted or
+substantively enacted by the Balance Sheet date. Deferred income tax assets and liabilities are recognized for all temporary differences arising between the tax bases of
+assetsandliabilitiesandtheircarryingamountsinthefinancialstatementsexceptwhenthedeferredincometaxarisesfromtheinitialrecognitionofgoodwilloranassetor
+liability in a transaction that is not a business combination and affects neither accounting nor taxable profit or loss at the time of the transaction. Deferred tax assets are
+reviewed at each reporting date and are reduced to the extent that it is no longer probable that the related tax benefit will be realized.
+Deferred income tax assets and liabilities are measured using tax rates and tax laws that have been enacted or substantively enacted by the Balance Sheet date and are
+expectedtoapplytotaxableincomeintheyearsinwhichthosetemporarydifferencesareexpectedtoberecoveredorsettled.Theeffectofchangesintaxratesondeferred
+income tax assets and liabilities is recognized as income or expense in the period that includes the enactment or the substantive enactment date. A deferred income tax
+asset is recognized to the extent that it is probable that future taxable profit will be available against which the deductible temporary differences and tax losses can be
+utilized. Deferred income taxes are not provided on the undistributed earnings of subsidiaries and branches where it is expected that the earnings of the subsidiary or
+branch will not be distributed in the foreseeable future.
+The Group offsets current tax assets and current tax liabilities; deferred tax assets and deferred tax liabilities, where it has a legally enforceable right to set off the
+recognizedamountsandwhereitintendseithertosettleonanetbasis,orto realizethe assetand settlethe liabilitysimultaneously. Taxbenefitsofdeductionsearnedon
+exercise of employee share options in excess of compensation charged to income are credited to equity.
+Income tax expense in the Consolidated Statement of Profit and Loss comprises:
+(In ₹ crore)
+Particulars Three months ended March 31, Year ended March 31,
+2024 2023 2024 2023
+Current taxes 1,173 2,260 8,390 9,287
+Deferred taxes 1,092 72 1,350 (73)
+Income tax expense 2,265 2,332 9,740 9,214
+Income tax expense for the three months ended March 31, 2024 and March 31, 2023 includes reversal (net of provisions) of ₹871 crore and ₹71 crore, respectively.
+Income tax expense for the year ended March 31, 2024 and March 31, 2023 includes reversal (net of provisions) of ₹937 crore and ₹106 crore, respectively. These
+reversals pertaining to prior periods are primarilyon account of adjudication of certain disputed matters, upon filing of tax return and completion of assessments, across
+various jurisdictions.
+During the quarter ending March 31, 2024, the Companyreceived orders under sections 250 and 254 of the Income Tax Act, 1961, fromthe Income Tax Authorities in
+India for the assessment years, 2007-08 to 2015-16, 2017-18 and 2018-19. These orders confirmed the Company's position with respect to tax treatment of certain
+contentious matters. As a result interest income (pre-tax) of ₹1,933 crore was recognised and provision for income tax aggregating ₹525 crore was reversed with a
+correspondingcredittotheStatementofProfitandLoss.Also,uponresolutionofthedisputes,anamountaggregatingto₹1,628 crorehasbeenreduced fromcontingent
+liabilities.
+Deferred income tax for three months and year ended March 31, 2024 and March 31, 2023 substantially relates to origination and reversal of temporary differences.
+The Company’s Advanced Pricing Arrangement (APA) with the Internal Revenue Service (IRS) for US branch income tax expired in March 2021. The Company has
+applied for renewal of APA and currently the US taxable income is based on the Company’s best estimate determined based on the expected value method.
+272X14AO .16 REVENUE FROM OPERATIONS
+Accounting policy
+TheGroupderivesrevenuesprimarilyfromIT servicescomprisingsoftware developmentand relatedservices, cloudand infrastructureservices, maintenance,consultingandpackage
+implementation, licensing of software products and platforms across the Group’s core and digital offerings (together called as “software related services”) and business process
+management services. Contracts with customers are either on a time-and-material, unit of work, fixed-price or on a fixed-timeframe basis.
+Revenuesfromcustomercontractsareconsideredforrecognitionandmeasurementwhenthecontracthasbeenapprovedinwritingbytheparties,tothecontract,thepartiestocontract
+arecommittedtoperformtheirrespectiveobligationsunderthecontract,andthecontractislegallyenforceable.Revenueisrecognizedupontransferofcontrolofpromisedproductsor
+services(“performance obligations”) to customersinanamountthat reflectsthe considerationthe Group hasreceived or expectsto receive inexchange for these products orservices
+(“transaction price”). When there is uncertainty as to collectability, revenue recognition is postponed until such uncertainty is resolved.
+The Group assesses the services promised in a contract and identifies distinct performance obligations in the contract. The Group allocates the transaction price to each distinct
+performanceobligationbasedontherelativestandalonesellingprice.Thepricethatisregularlychargedforanitemwhensoldseparatelyisthe bestevidence ofitsstandaloneselling
+price. In the absence of such evidence, the primary method used to estimate standalone selling price is the expected cost plus a margin, under which the Group estimates the cost of
+satisfying the performance obligation and then adds an appropriate margin based on similar services.
+The Group’s contracts may include variable consideration including rebates, volume discounts and penalties. The Group includes variable consideration as part of transaction price
+whenthereisabasistoreasonablyestimatetheamountofthevariableconsiderationandwhenitisprobablethatasignificantreversalofcumulativerevenuerecognizedwillnotoccur
+when the uncertainty associated with the variable consideration is resolved.
+Revenueontime-and-materialandunitofworkbasedcontracts,arerecognizedastherelatedservicesareperformed.Fixedpricemaintenancerevenueisrecognizedratablyeitherona
+straight-line basis when services are performed through an indefinite number of repetitive acts over a specified period or ratably using a percentage of completion method when the
+patternofbenefitsfromthe servicesrendered to the customer and the Group’s coststo fulfil the contract is not even throughthe period of contract because the services are generally
+discrete in nature and not repetitive. Revenue from other fixed-price, fixed-timeframe contracts, where the performance obligations are satisfied over time is recognized using the
+percentage-of-completion method. Efforts or costs expended are used to determine progress towards completion as there is a direct relationship between input and productivity.
+Progresstowardscompletionismeasured asthe ratio ofcostsor effortsincurred to date (representingworkperformed) to the estimated total costsor efforts. Estimates oftransaction
+price and total costs or efforts are continuously monitored over the term of the contracts and are recognized in net profit in the period when these estimates change or when the estimates
+are revised. Revenues and the estimated total costs or efforts are subject to revision as the contract progresses. Provisions for estimated losses, if any, on incomplete contracts are
+recorded in the period in which such losses become probable based on the estimated efforts or costs to complete the contract.
+The billing schedules agreed with customers include periodic performance based billing and / or milestone based progress billings. Revenues in excess of billing are classified as
+unbilled revenue while billing in excess of revenues are classified as contract liabilities (which we refer to as unearned revenues).
+In arrangements for software development and related services and maintenance services, by applying the revenue recognition criteria for each distinct performance obligation, the
+arrangements with customers generally meet the criteria for considering software development and related services as distinct performance obligations. For allocating the transaction
+price, the Group measures the revenue in respect of each performance obligation of a contract at its relative standalone selling price. The price that is regularly charged for an item
+whensoldseparatelyisthebestevidenceofitsstandalonesellingprice.IncaseswheretheGroupisunabletodeterminethestandalonesellingprice,theGroupusestheexpectedcost
+plusmarginapproachinestimatingthe standalone sellingprice. For software development and related services, the performance obligations are satisfied asand whenthe servicesare
+rendered since the customer generally obtains control of the work as it progresses.
+Certain cloud and infrastructure services contracts include multiple elements which may be subject to other specific accounting guidance, such as leasing guidance. These contracts
+are accounted in accordance with such specific accounting guidance. In such arrangements where the Group is able to determine that hardware and services are distinct performance
+obligations, it allocates the consideration to these performance obligations on a relative standalone selling price basis. In the absence of standalone selling price, the Group uses the
+expectedcost-plusmarginapproachinestimatingthestandalonesellingprice.Whensuch arrangementsareconsideredasasingleperformanceobligation,revenueisrecognized over
+the period and measure of progress is determined based on promise in the contract.
+Revenuefromlicenseswherethecustomerobtainsa“righttouse”thelicensesisrecognizedatthetimethelicensearemadeavailabletothecustomer.Revenuefromlicenseswherethe
+customer obtains a “right to access” is recognized over the access period.
+Arrangementstodeliversoftwareproductsgenerallyhavethreeelements:license,implementationandAnnualTechnicalServices(ATS).Whenimplementationservicesareprovidedin
+conjunction with the licensing arrangement and the license and implementation have been identified as two distinct separate performance obligations, the transaction price for such
+contractsareallocatedtoeachperformanceobligationofthecontractbasedontheirrelativestandalonesellingprices.Intheabsenceofstandalonesellingpriceforimplementation,the
+Groupusestheexpectedcostplusmarginapproachinestimatingthestandalonesellingprice.Wherethelicenseisrequiredtobesubstantiallycustomizedaspartoftheimplementation
+servicetheentirearrangementfeeforlicenseandimplementationisconsideredtobeasingleperformanceobligationandtherevenueisrecognizedusingthepercentage-of-completion
+method as the implementation is performed. Revenue from client training, support and other services arising due to the sale of software products is recognized as the performance
+obligations are satisfied. ATS revenue is recognized ratably on a straight line basis over the period in which the services are rendered.
+Contracts with customers includes subcontractor services or third-party vendor equipment or software in certain integrated services arrangements. In these types of arrangements,
+revenue fromsales of third-partyvendor products or servicesis recorded net ofcosts whenthe Group is actingas anagent betweenthe customer and the vendor, and gross whenthe
+Groupistheprincipalforthetransaction.Indoingso,theGroupfirstevaluateswhetheritobtainscontrolofthespecifiedgoodsorservicesbeforetheyaretransferredtothecustomer.
+The Group considers whether it is primarily responsible for fulfilling the promise to provide the specified goods or services, inventory risk, pricing discretion and other factors to
+determine whether it controls the specified goods or services and therefore, is acting as a principal or an agent.
+A contract modification is a change in the scope or price or both of a contract that is approved by the parties to the contract. A contract modification that results in the addition of
+distinct performance obligations are accounted for either as a separate contract if the additional services are priced at the standalone selling price or as a termination of the existing
+contractandcreationofanewcontractiftheyarenotpricedatthestandalonesellingprice.Ifthemodificationdoesnotresultinadistinctperformanceobligation,itisaccountedforas
+part of the existing contract on a cumulative catch-up basis.
+28The incremental costs of obtaining a contract (i.e., costs that would not have been incurred if the contract had not been obtained) are recognized as an asset if the Group expects to
+recover them.
+Certaineligible,nonrecurringcosts(e.g.set-uportransitionortransformationcosts)thatdonotrepresentaseparateperformanceobligationarerecognizedasanassetwhensuchcosts
+(a) relate directly to the contract; (b) generate or enhance resources of the Group that will be used in satisfying the performance obligation in the future; and (c) are expected to be
+recovered.
+Capitalizedcontractcostsrelatingtoupfrontpaymentstocustomersareamortizedtorevenueandothercapitalizedcosts areamortizedtoexpenses overtherespectivecontractlifeon
+a systematic basisconsistentwiththe transfer ofgoodsor servicesto customer to whichthe asset relates. Capitalized costsare monitored regularlyfor impairment. Impairment losses
+are recorded when present value of projected remaining operating cash flows is not sufficient to recover the carrying amount of the capitalized costs.
+The Group presents revenues net of indirect taxes in its Consolidated Statement of Profit and Loss.
+Revenue from operation for the three months and year ended March 31, 2024 and March 31, 2023 are as follows:
+(In ₹ crore)
+Particulars Three months ended March 31, Year ended March 31,
+2024 2023 2024 2023
+Revenue from software services 36,064 35,199 145,285 137,575
+Revenue from products and platforms 1,859 2,242 8,385 9,192
+Total revenue from operations 37,923 37,441 153,670 146,767
+Products & platforms
+TheGroupalsoderivesrevenuesfromthesaleofproductsandplatformsincludingFinacle–corebankingsolution,EdgeSuiteofproducts,Panayaplatform,InfosysEquinox,Infosys
+Helix, Infosys Applied AI, Infosys Cortex, Stater digital platform and Infosys McCamish – insurance platform.
+Disaggregated revenue information
+Revenue disaggregation by business segments has been included in segment information (Refer to Note 2.23). The table below presents disaggregated revenues from contracts with
+customers by geography and contract type. The Group believes that this disaggregation best depicts how the nature, amount, timing and uncertainty of revenues and cash flows are
+affected by industry, market and other economic factors.
+For the three months and year ended March 31, 2024 and March 31, 2023:
+(In ₹ crore)
+Particulars Three months ended March 31, Year ended March 31,
+2024 2023 2024 2023
+Revenues by Geography*
+North America 22,606 22,842 92,411 90,724
+Europe 10,861 10,088 42,267 37,675
+India 833 981 3,881 3,861
+Rest of the world 3,623 3,530 15,111 14,507
+Total 37,923 37,441 153,670 146,767
+*Geographical revenues is based on the domicile of customer.
+Thepercentageofrevenuefromfixed-pricecontractsforthe threemonthsendedMarch 31,2024 andMarch31,2023 is54%and52%, respectively.The percentageofrevenuefrom
+fixed-price contracts for the year ended March 31, 2024 and March 31, 2023 is 53% and 52%, respectively.
+Trade Receivables and Contract Balances
+The timing of revenue recognition, billings and cash collections results in receivables, unbilled revenue, and unearned revenue on the Group’s Consolidated Balance Sheet. Amounts
+are billed as work progresses in accordance with agreed-upon contractual terms, either at periodic intervals (e.g., monthly or quarterly) or upon achievement of contractual milestones.
+TheGroup’sreceivablesarerightstoconsiderationthatareunconditional. Unbilledrevenuescomprisingrevenuesinexcessofbillingsfromtimeandmaterialcontractsandfixedprice
+maintenance contracts are classified as financial asset when the right to consideration is unconditional and is due only after a passage of time.
+Invoicing to the clients for other fixed price contracts is based on milestones as defined inthe contract and therefore the timingof revenue recognition isdifferent fromthe timingof
+invoicing to the customers. Therefore unbilled revenues for other fixed price contracts (contract asset) are classified as non-financial asset because the right to consideration is
+dependent on completion of contractual milestones.
+Invoicing in excess of earnings are classified as unearned revenue.
+Trade receivables and unbilled revenues are presented net of impairment in the consolidated Balance Sheet.
+292X15AO .17 OTHER INCOME, NET
+Accounting policy
+Other income is comprised primarilyof interest income, dividend income, gain/loss oninvestment and exchange gain/loss on forward and optionscontracts
+andontranslationofforeigncurrencyassetsandliabilities.Interestincomeisrecognizedusingtheeffectiveinterestmethod.Dividendincomeisrecognized
+when the right to receive payment is established.
+Foreign currency
+Accounting policy
+Functional currency
+The functional currency of Infosys, Infosys BPM, EdgeVerve, Skava, Infosys Green Forum, Danske IT and controlled trusts is the Indian rupee. The
+functional currencies for foreign subsidiaries are their respective local currencies. These financial statements are presented in Indian rupees (rounded off to
+crore; one crore equals ten million).
+Transactions and translations
+Foreign-currency denominated monetary assets and liabilities are translated into the relevant functional currency at exchange rates in effect at the Balance
+Sheet date. The gains or losses resulting from such translations are recognized in the Condensed Consolidated Statement of Profit and Loss and reported
+within exchange gains/ (losses) on translation of assets and liabilities, net, except when deferred in Other Comprehensive Income as qualifying cash flow
+hedges. Non-monetary assets and non-monetary liabilities denominated in a foreign currency and measured at fair value are translated at the exchange rate
+prevalentatthedatewhenthefairvaluewasdetermined.Non-monetaryassetsandnon-monetaryliabilitiesdenominated inaforeigncurrencyandmeasured
+at historical cost are translated at the exchange rate prevalent at the date of transaction. The related revenue and expense are recognized using the same
+exchange rate.
+Transaction gains or losses realized upon settlement of foreign currency transactions are included in determining net profit for the period in which the
+transactionissettled.Revenue,expenseandcash-flowitemsdenominatedinforeigncurrenciesaretranslatedintotherelevantfunctionalcurrenciesusingthe
+exchange rate in effect on the date of the transaction.
+Thetranslationoffinancialstatementsoftheforeignsubsidiariestothepresentationcurrency isperformedforassetsandliabilitiesusingtheexchangeratein
+effectattheBalanceSheetdateandforrevenue,expenseandcash-flowitemsusingtheaverageexchangeratefortherespectiveperiods.Thegainsorlosses
+resultingfromsuchtranslationareincludedincurrencytranslationreservesunderothercomponentsofequity.Whenasubsidiaryisdisposedoff,infull,the
+relevant amount is transferred to net profit in the Condensed Consolidated Statement of Profit and Loss. However when a change in the parent's ownership
+does not result in loss of control of a subsidiary, such changes are recorded through equity.
+OtherComprehensiveIncome,netoftaxesincludestranslationdifferencesonnon-monetaryfinancialassetsmeasuredatfairvalueatthereportingdate,such
+as equities classified as financial instruments and measured at fair value through other comprehensive income (FVOCI).
+Goodwillandfairvalueadjustmentsarisingontheacquisitionofaforeignentityaretreatedasassetsandliabilitiesoftheforeignentityandtranslatedatthe
+exchange rate in effect at the Balance Sheet date.
+Government grant
+TheGrouprecognizesgovernmentgrantsonlywhenthereisreasonableassurancethattheconditionsattachedtothemshallbecompliedwith,andthegrants
+willbe received. Government grantsrelated to assetsare treated asdeferred income and are recognized innet profit inthe Consolidated Statement ofProfit
+andLossonasystematicandrationalbasisovertheusefullifeoftheasset.Governmentgrantsrelatedtorevenuearerecognizedonasystematicbasisinnet
+profit in the Consolidated Statement of Profit and Loss over the periods necessary to match them with the related costs which they are intended to
+compensate.
+Other income for the three months and year ended March 31, 2024 and March 31, 2023 is as follows:
+(In ₹ crore)
+Particulars Three months ended March 31, Year ended March 31,
+2024 2023 2024 2023
+Interest income on financial assets carried at amortized cost
+Tax free bonds and Government bonds 31 36 131 149
+Deposit with Bank and others 222 161 929 712
+Interest income on financial assets carried at fair value through other
+comprehensive income
+Non-convertible debentures, commercial papers, certificates of deposit
+318 231 1,007 955
+and government securities
+Income on investments carried at fair value through profit or loss
+Dividend income on liquid mutual funds — — — —
+Gain / (loss) on liquid mutual funds and other investments 88 61 285 148
+Income on investments carried at fair value through other comprehensive
+— — — 1
+income
+Interest on income tax refund 1,916 2 1,965 3
+Exchange gains / (losses) on forward and options contracts 190 1 42 100 ( 647)
+Exchange gains / (losses) on translation of other assets and liabilities (123) (91) 87 1,062
+Miscellaneous income, net 87 129 207 318
+Total other income 2,729 671 4,711 2,701
+302.18 EXPENSES
+Accounting policy
+Gratuity and Pensions
+The Group provides for gratuity, a defined benefit retirement plan ('the Gratuity Plan') covering eligible employees majorly of Infosys and its Indian
+subsidiaries. The Gratuity Plan provides a lump-sum payment to vested employees at retirement, death, incapacitation or termination of employment, of an
+amountbased ontherespective employee'ssalaryandthe tenureofemploymentwiththeGroup. TheCompanycontributesGratuityliabilitiesto theInfosys
+LimitedEmployees'GratuityFundTrust(theTrust).IncaseofInfosysBPMandEdgeVerve,contributionsaremadetotheInfosysBPMEmployees'Gratuity
+Fund Trust and EdgeVerve Systems Limited Employees' Gratuity Fund Trust, respectively. Trustees administer contributions made to the Trusts and
+contributions are invested in a scheme with the Life Insurance Corporation of India as permitted by Indian law.
+TheGroupoperatesdefinedbenefitpensionplanincertainoverseasjurisdictions,inaccordancewiththelocallaws.Theseplansaremanagedbythirdparty
+fundmanagers.Theplansprovideforperiodicpayoutsafterretirementand/orforalumpsumpaymentassetoutinrulesofeachfundandincludesdeathand
+disability benefits. The defined benefit plans require contributions which are based on a percentage of salary that varies depending on the age of the
+respective employees.
+Liabilitieswithregardtothesedefinedbenefitplansaredeterminedbyactuarialvaluation,performedbyanexternalactuary,ateachBalanceSheetdateusing
+the projected unit credit method. These defined benefit plans expose the Group to actuarial risks, such as longevity risk, interest rate risk and market risk.
+The Group recognizes the net obligation of a defined benefit plan in its Balance Sheet as an asset or liability. Gainsand lossesthrough re-measurementsof
+the net defined benefit liability / (asset) are recognized in other comprehensive income and are not reclassified to profit or loss in subsequent periods. The
+actual returnofthe portfolio ofplan assets, in excessof the yields computed byapplyingthe discount rate used to measure the defined benefit obligationis
+recognized in other comprehensive income. The effect of any plan amendments is recognized in net profit in the Consolidated Statement of Profit and Loss.
+Provident fund
+Eligible employees of Infosys receive benefits from a provident fund, which is a defined benefit plan. Both the eligible employee and the Company make
+monthlycontributionstotheprovidentfundplanequaltoaspecifiedpercentageofthecoveredemployee'ssalary.TheCompanycontributesaportiontothe
+Infosys Limited Employees' Provident Fund Trust. The trust investsin specific designated instrumentsas permitted byIndianlaw. The remaining portionis
+contributed to the government administered pension fund. The rate at which the annual interest is payable to the beneficiaries by the trust is being
+administeredbytheGovernmentofIndia.TheCompanyhasanobligationtomakegood theshortfall, ifany, betweenthe returnfromtheinvestmentsofthe
+trust and the notified interest rate.
+InrespectofIndiansubsidiaries,eligibleemployeesreceivebenefitsfromaprovidentfund,whichisadefinedcontributionplan.Boththeeligibleemployee
+and the respective companies make monthly contributions to this provident fund plan equal to a specified percentage of the covered employee's salary.
+Amounts collected under the provident fund plan are deposited in a government administered provident fund. The Companies have no further obligation to
+the plan beyond its monthly contributions.
+Superannuation
+CertainemployeesofInfosys, InfosysBPM and EdgeVerve are participants ina defined contributionplan.The Grouphasnofurther obligationsto theplan
+beyond its monthly contributions which are periodically contributed to a trust fund, the corpus of which is invested with the Life Insurance Corporation of
+India.
+Compensated absences
+The Group has a policy on compensated absences which are both accumulating and non-accumulating in nature. The expected cost of accumulating
+compensatedabsencesisdeterminedbyactuarialvaluationperformedbyanexternalactuaryateachBalanceSheetdateusingprojectedunitcreditmethodon
+the additional amount expected to be paid/availed as a result of the unused entitlement that has accumulated at the Balance Sheet date. Expense on non-
+accumulating compensated absences is recognized in the period in which the absences occur.
+31(In ₹ crore)
+Particulars Three months ended March 31, Year ended March 31,
+2024 2023 2024 2023
+Employee benefit expenses
+Salaries including bonus 19,527 19,526 79,315 75,239
+Contribution to provident and other funds 529 547 2,213 2,143
+Share based payments to employees (Refer to Note 2.11) 225 133 652 519
+Staff welfare 112 105 440 458
+20,393 20,311 82,620 78,359
+Cost of software packages and others
+For own use 555 496 2,145 1,937
+Third party items bought for service delivery to clients 3,132 2,390 11,370 8,965
+3,687 2,886 13,515 10,902
+Other expenses
+Repairs and maintenance 316 331 1,278 1,208
+Power and fuel 49 46 199 176
+Brand and marketing 285 265 1,007 905
+Rates and taxes 84 78 326 299
+Consumables 47 41 170 158
+Insurance 53 43 210 174
+Provision for post-sales client support and others (129) (80) 75 120
+Commission to non-whole time directors 5 4 16 15
+Impairment loss recognized / (reversed) under expected credit loss model (98) 86 121 283
+Contributions towards Corporate Social Responsibility 182 151 533 471
+Others 191 181 781 583
+985 1,146 4,716 4,392
+2.19 Leases
+Accounting Policy
+The Group as a lessee
+TheGroup’sleaseassetclassesconsistofleasesforland,buildingsandcomputers.TheGroupassesseswhetheracontractcontainsalease,atinceptionofa
+contract. A contract is, or contains, a lease if the contract conveys the right to control the use of an identified asset for a period of time in exchange for
+consideration.Toassesswhetheracontractconveystherighttocontroltheuseofanidentifiedasset,thegroupassesseswhether:(1)thecontractinvolvesthe
+useofanidentifiedasset(2) theGroup hassubstantiallyalloftheeconomic benefitsfromuseoftheasset throughthe periodofthelease and(3) theGroup
+has the right to direct the use of the asset.
+Atthedateofcommencementofthelease,theGrouprecognizesaright-of-useasset(“ROU”)andacorrespondingleaseliabilityforallleasearrangementsin
+whichitisalessee,exceptforleaseswithatermoftwelvemonthsorless(short-termleases)andlowvalueleases.Fortheseshort-termandlowvalueleases,
+the Group recognizes the lease payments as an operating expense on a straight-line basis over the term of the lease.
+Asalessee,theGroupdeterminestheleasetermasthenon-cancellableperiodofaleaseadjustedwithanyoptiontoextendorterminatethelease,iftheuse
+ofsuchoptionisreasonablycertain. TheGroup makesanassessmentontheexpected leasetermona lease-by-leasebasisandtherebyassesseswhether itis
+reasonablycertainthatanyoptionstoextendorterminatethecontractwillbeexercised.Inevaluatingtheleaseterm,theGroupconsidersfactorssuchasany
+significantleaseholdimprovementsundertakenovertheleaseterm,costsrelatingtotheterminationoftheleaseandtheimportanceoftheunderlyingassetto
+Group’s operations taking into account the location of the underlying asset and the availability of suitable alternatives. The lease term in future periods is
+reassessed to ensure that the lease term reflects the current economic circumstances.
+Certain lease arrangements includes the options to extend or terminate the lease before the end of the lease term. ROU assets and lease liabilities includes
+these options when it is reasonably certain that they will be exercised.
+The right-of-use assets are initially recognized at cost, which comprises the initial amount of the lease liability adjusted for any lease payments made at or
+prior to the commencement date ofthe lease plus anyinitial direct costs lessanylease incentives. Theyare subsequentlymeasured atcost lessaccumulated
+depreciation and impairment losses.
+Right-of-use assets are depreciated from the commencement date on a straight-line basis over the shorter of the lease term and useful life of the underlying
+asset.
+Right-of-useassetsareevaluatedforrecoverabilitywhenevereventsorchangesincircumstancesindicatethattheircarryingamountsmaynotberecoverable.
+For the purpose of impairment testing, the recoverable amount (i.e. the higher of the fair value less cost to sell and the value-in-use) is determined on an
+individual asset basis unless the asset does not generate cash flows that are largely independent of those from other assets. In such cases, the recoverable
+amount is determined for the Cash Generating Unit (CGU) to which the asset belongs.
+The lease liability is initially measured at amortized cost at the present value of the future lease payments. The lease payments are discounted using the
+interest rate implicit in the lease or, if not readily determinable, using the incremental borrowing rates in the country of domicile of these leases. Lease
+liabilities are remeasured with a corresponding adjustment to the related right-of-use asset ifthe Group changes itsassessment ifwhether itwill exercise an
+extension or a termination option.
+Lease liability and ROU asset have been separately presented in the Balance Sheet and lease payments have been classified as financing cash flows.
+32The Group as a lessor
+Leases for which the Group is a lessor is classified as a finance or operating lease. Whenever the terms of the lease transfer substantially all the risks and
+rewards of ownership to the lessee, the contract is classified as a finance lease. All other leases are classified as operating leases.
+WhentheGroupisanintermediatelessor,itaccountsforitsinterestsinthe headlease andthe subleaseseparately. Thesublease isclassified asa financeor
+operating lease by reference to the right-of-use asset arising from the head lease.
+For operating leases, rental income is recognized on a straight line basis over the term of the relevant lease.
+Following are the changes in the carrying value of right-of-use assets for the three months ended March 31, 2024:
+(In ₹ crore)
+Particulars Category of ROU asset
+Land Buildings Vehicles Computers Total
+Balance as of January 1, 2024 607 3,527 18 2,740 6,892
+Additions* — 61 2 376 439
+Deletions — (92) — (215) (307)
+Impairment# — — — — —
+Depreciation (2) (185) (2) (234) (423)
+Translation difference — (13) (1) (35) (49)
+Balance as of March 31, 2024 605 3,298 17 2,632 6,552
+* Net of adjustments on account of modifications
+# included under other expenses. Refer note 2.18
+Following are the changes in the carrying value of right-of-use assets for the three months ended March 31, 2023:
+(In ₹ crore)
+Particulars Category of ROU asset
+Land Buildings Vehicles Computers Total
+Balance as of January 1, 2023 624 3,847 15 1,994 6,480
+Additions* — 228 2 651 881
+Deletions — (33) — (124) (157)
+Depreciation (2) (171) (3) (179) (355)
+Translation difference 1 25 1 6 33
+Balance as of March 31, 2023 623 3,896 15 2,348 6,882
+* Net of adjustments on account of modifications and lease incentives
+Following are the changes in the carrying value of right-of-use assets for the year ended March 31, 2024:
+(In ₹ crore)
+Particulars Category of ROU asset
+Total
+Land Buildings Vehicles Computers
+Balance as of April 1, 2023 623 3,896 15 2,348 6,882
+Additions* — 394 12 1,872 2,278
+Deletions (10) (181) (1) (755) (947)
+Impairment # — (88) — — (88)
+Depreciation (6) (728) (10) (851) (1,595)
+Translation difference (2) 5 1 18 22
+Balance as of March 31, 2024 605 3,298 17 2,632 6,552
+* Net of adjustments on account of modifications and lease incentives
+# included under other expenses. Refer note 2.18
+Following are the changes in the carrying value of right-of-use assets for the year ended March 31, 2023:
+(In ₹ crore)
+Particulars Category of ROU asset
+Total
+Land Buildings Vehicles Computers
+Balance as of April 1, 2022 628 3,711 16 468 4,823
+Additions* — 847 8 2,646 3,501
+Deletions — (45) — (364) (409)
+Depreciation (6) (671) (10) (499) (1,186)
+Translation difference 1 54 1 97 153
+Balance as of March 31, 2023 623 3,896 15 2,348 6,882
+* Net of adjustments on account of modifications and lease incentives
+TheaggregatedepreciationexpenseonROUassetsisincludedunderdepreciationandamortizationexpenseintheinterimcondensedConsolidatedStatement
+of Profit and Loss.
+The following is the break-up of current and non-current lease liabilities as at March 31, 2024 and March 31, 2023:
+(In ₹ crore)
+Particulars As at
+March 31, 2024 March 31, 2023
+Current lease liabilities 1,959 1,242
+Non-current lease liabilities 6,400 7,057
+Total 8,359 8,299
+332X17AO .20 BASIC AND DILUTED SHARES USED IN COMPUTING EARNINGS PER EQUITY SHARE
+Accounting policy
+BasicearningsperequityshareiscomputedbydividingthenetprofitattributabletotheequityholdersoftheGroupbytheweightedaveragenumberofequity
+sharesoutstandingduringtheperiod.DilutedearningsperequityshareiscomputedbydividingthenetprofitattributabletotheequityholdersoftheGroupby
+the weighted average number of equity shares considered for deriving basic earnings per equity share and also the weighted average number of equityshares
+thatcouldhavebeenissueduponconversionofalldilutivepotentialequityshares.Thedilutivepotentialequitysharesareadjustedfortheproceedsreceivable
+had the equity shares been actually issued at fair value (i.e. the average market value of the outstanding equity shares). Dilutive potential equity shares are
+deemedconvertedasatthebeginningoftheperiod,unlessissuedatalaterdate.Dilutivepotentialequitysharesaredetermined independentlyforeachperiod
+presented.
+The number of equity shares and potentiallydilutive equityshares are adjusted retrospectively for all periods presented for anyshare splits and bonus shares
+issues including for changes effected prior to the approval of the financial statements by the Board of Directors.
+2.21 CONTINGENT LIABILITIES AND COMMITMENTS
+Accounting policy
+Contingentliabilityisapossibleobligationarisingfrompasteventsandwhoseexistencewillbeconfirmedonlybytheoccurrenceornon-occurrenceofoneor
+more uncertainfutureeventsnotwhollywithinthe controloftheentityora presentobligation thatarisesfrompasteventsbut isnot recognizedbecause itis
+not probable that an outflow of resources embodying economic benefits will be required to settle the obligation or the amount of the obligation cannot be
+measured with sufficient reliability.
+2.21.1 Contingent liability
+(In ₹ crore)
+As at
+Particulars
+March 31, 2024 March 31, 2023
+Contingent liabilities :
+Claims against the Group, not acknowledged as debts(1) 3,583 4,762
+[Amount paid to statutory authorities ₹8,754 crore (₹6,539 crore)]
+(1) AsatMarch31,2024andMarch31,2023,claimsagainsttheGroupnotacknowledgedasdebtsinrespectofincometaxmattersamountedto₹2,794crore
+and ₹4,062 crore, respectively.
+TheclaimsagainsttheGroupprimarilyrepresentdemandsarisingoncompletionofassessmentproceedingsundertheIncomeTaxAct,1961.Theseclaimsare
+onaccountofissuesofdisallowanceofexpendituretowardssoftwarebeingheldascapitalinnature,paymentsmadetoAssociatedEnterprisesheldasliablefor
+withholding of taxes, among others. These matters are pending before various Income Tax Authorities and the Management including its tax advisors expect
+that its position will likely be upheld on ultimate resolution and will not have a material adverse effect on the Group's financial position and results of
+operations.
+Amount paid to statutory authorities against the tax claims amounted to ₹8,743 crore and ₹6,528 crore as at March 31, 2024 and March 31, 2023, respectively.
+342.21.2 McCamish Cybersecurity incident
+InNovember 2023, InfosysMcCamishSystems(McCamish), a step-downsubsidiaryofInfosys Limited, experienced a cybersecurityincidentresulting inthe
+non-availability of certain applications and systems. McCamish initiated its incident response and engaged cybersecurity and other specialists to assist in its
+investigation of and response to the incident and remediation and restoration of impacted applications and systems. ByDecember 31, 2023, McCamish, with
+external specialists’ assistance, substantially remediated and restored the affected applications and systems.
+Loss of contracted revenues and costs incurred with respect to remediations, restoration, communication efforts, investigative processes and analysis, legal
+services and others amounted to $38 million (approximately ₹316 crore).
+Actions taken by McCamish included investigative analysis conducted by a third-party cybersecurity firm to determine, among other things, whether and the
+extent to which company or customer data was subject to unauthorized access or exfiltration. McCamish also engaged a third-party eDiscovery vendor in
+assessing the extent and nature of such data. McCamish in coordination with its third-party eDiscovery vendor has identified corporate customers and
+individuals whose information was subject to unauthorized access and exfiltration. McCamish’s review process is ongoing. McCamish may incur additional
+costs including indemnities or damages/claims, which are indeterminable at this time.
+OnMarch6,2024,aclassactioncomplaintwasfiledintheU.S.DistrictCourtfortheNorthernDistrictofGeorgiaagainstMcCamish. Thecomplaintarises
+outofthecybersecurityincidentatMcCamishinitiallydisclosedonNovember3,2023. Thecomplaintwaspurportedlyfiledonbehalfofallindividualswithin
+the United States whose personally identifiable information was exposed to unauthorized third parties as a result of the incident.
+2.21.3 Legal Proceedings
+Apart from this, the Group is subject to legal proceedings and claims, which have arisen in the ordinary course of business. The Group’s management
+reasonably expects that such ordinary course legal actions, when ultimately concluded and determined, will not have a material and adverse effect on the
+Group’s results of operations or financial condition.
+2.21.4 Commitments
+(In ₹ crore)
+As at
+Particulars
+March 31, 2024 March 31, 2023
+Estimated amount of contracts remaining to be executed on capital contracts and not provided for (net of
+780 959
+advances and deposits)(1)
+Other commitments* 79 92
+(1) Capital contracts primarily comprises of commitments for infrastructure facilities and computer equipment.
+* Uncalled capital pertaining to investments
+35X18AO
+2.22 RELATED PARTY TRANSACTIONS
+Refer to the Company's Annual Report for the year ended March 31, 2023 for the full names and other details of the Company's subsidiaries and
+controlled trusts.
+Changes in Subsidiaries
+During the year ended March 31, 2024, the following are the changes in the subsidiaries.
+- Infosys Americas Inc., (Infosys Americas) a Wholly-owned subsidiary of Infosys Limited is liquidated effective July 14, 2023.
+- oddity GmbH renamed as WongDoody GmbH
+- (OfonrmSeeprltyem knboerw2n9 a,s2 o0d2d3i,tyo GddmitbyHs p).ace GmbH, oddity waves GmbH, oddity jungle GmbH, oddity group services GmbH and oddity code GmbH
+merged into WongDoody GmbH and oddity code d.o.o which was formerly a subsidiary of oddity code Gmbh has become a subsidiary of
+Wongdoody Gmbh (formerly known as oddity GmbH).
+- On September 1, 2023 Infosys Ltd. acquired 100% of voting interests in Danske IT and Support Services India Private Limited (“Danske IT”).
+Danske IT renamed as Idunn Information Technology Private Limited from April 1, 2024.
+- Infosys BPM Canada Inc, a Wholly-owned subsidiary of Infosys BPM Limited was incorporated on August 11, 2023.
+- Kaleidoscope Prototyping LLC, a Wholly-owned subsidiary of Kaleidoscope Animations is liquidated effective November 1, 2023.
+- oddity Code d.o.o renamed as WongDoody d.o.o
+- On November24,2023StaterParticipationsB.V(Wholly-owned subsidiaryofStaterN.V)mergedwithStaterN.VandStaterBelgiumN.V./S.A
+which was formerly a wholly owned subsidiary of Stater Participations B.V. became a wholly owned subsidiary of Stater N.V.
+- On March 15, 2024, Infosys BPM Canada Inc, a Wholly-owned subsidiary of Infosys BPM Limited was dissolved.
+oddity Limited (Taipei) renamed as WongDoody limited (Taipei) and oddity (Shanghai) Co., Ltd. renamed as WongDoody (Shanghai) Co.
+- Limited.
+Changes in key management personnel
+The following are the changes in the key management personnel:
+Non-whole-time Directors
+- Uri Levine (retired as independent director effective April 19, 2023)
+- Helene Auriol Potier (appointed as independent director effective May 26, 2023)
+- Nitin Paranjpe (appointed as an additional and independent director effective January 1, 2024)
+Executive Officers:
+- Mohit Joshi (resigned as President effective March 11, 2023 and was on leave till June 9, 2023 which was his last date with the company)
+- Nilanjan Roy (resigned as Chief Financial Officer of the Company effective March 31, 2024)
+- Jayesh Sanghrajka (appointed as Chief Financial Officer effective April 1, 2024)
+Transaction with key management personnel:
+The table below describes the compensation to key management personnel which comprise directors and executive officers:
+(In ₹ crore)
+Particulars Three months ended March 31, Year ended March 31,
+2024 2023 2024 2023
+Salaries and other short term employee benefits to whole-time directors
+30 25 113 111
+and executive officers (1)(2)
+Commission and other benefits to non-executive/independent directors 5 4 17 16
+Total 35 29 130 127
+(1)TotalemployeestockcompensationexpenseforthethreemonthsendedMarch31,2024andMarch31,2023includesachargeof ₹17croreand8
+crore, respectively, towardskey management personnel. Forthe yearended March 31, 2024 and March 31, 2023 includes a charge of₹68 crore and
+₹49 crore, respectively, towards key management personnel (Refer to Note 2.11).
+(2) Does not include post-employment benefits and other long-term benefits based on actuarial valuation as these are done for the Company as a whole.
+362X19AOX18AO .23 SEGMENT REPORTING
+Ind AS 108, Operating segments, establishes standards for the way that public business enterprises report information about operating segments and related disclosures
+about products and services, geographic areas, and major customers. The Group's operations predominantly relate to providing end-to-end business solutions to enable
+clientstoenhancebusinessperformance.TheChiefOperatingDecisionMaker(CODM)evaluatestheGroup'sperformanceandallocatesresourcesbasedonananalysisof
+various performance indicators by business segments. Accordingly, information has been presented along business segments. The accounting principles used in the
+preparation of the financial statements are consistently applied to record revenue and expenditure in individual segments, and are as set out in the accounting policies.
+Business segments of the Group are primarily enterprises in Financial Services and Insurance, enterprises in Manufacturing, enterprises in Retail, Consumer Packaged
+Goods and Logistics, enterprises in the Energy, Utilities, Resources and Services, enterprises in Communication, Telecom OEM and Media, enterprises in Hi-Tech,
+enterprises in Life Sciences and Healthcare and all other segments. The Financial services reportable segments has been aggregated to include the Financial Services
+operating segment and Finacle operating segment because of the similarity of the economic characteristics. All other segments represent the operating segments of
+businesses in India, Japan, China, Infosys Public Services & other enterprises in Public Services.
+Revenueandidentifiableoperatingexpensesinrelationtosegmentsarecategorized basedonitemsthatareindividuallyidentifiabletothatsegment.Revenuefor'allother
+segments'representsrevenuegenerated byInfosysPublicservicesandrevenue generatedfromcustomerslocated inIndia, Japanand Chinaand otherenterprises inPublic
+services. Allocated expenses of segments include expenses incurred for rendering services from the Group's offshore software development centers and on-site expenses,
+which are categorized in relation to the associated efforts of the segment. Certain expenses such as depreciation and amortization, which form a significant component of
+total expenses, are not specifically allocable to specific segments as the underlying assets are used interchangeably. The Management believes that it is not practical to
+provide segment disclosures relating to those costs and expenses, and accordingly these expenses are separately disclosed as "unallocated" and adjusted against the total
+income of the Group.
+Assets and liabilities used in the Group's business are not identified to any of the reportable segments, as these are used interchangeably between segments. The
+Managementbelievesthatitiscurrentlynotpracticabletoprovidesegmentdisclosuresrelatingtototalassetsandliabilitiessinceameaningfulsegregationoftheavailable
+data is onerous.
+Business segment revenue information is collated based on individual customers invoiced or in relation to which the revenue is otherwise recognized.
+Disclosure of revenue by geographic locations is given in note 2.16 Revenue from operations.
+Business Segments
+Three months ended March 31, 2024 and March 31, 2023:
+(In ₹ crore)
+Financial Retail (2) Communic Energy, Manufacturing Hi-Tech Life All other Total
+Services (1)* ation (3) Utilities, Sciences (4) segments (5)
+Resources
+Particulars
+and Services
+Revenue from operations 10,010 5,429 4,666 5,068 5,589 3,316 2,762 1,083 37,923
+10,818 5,537 4,411 4,825 5,078 2,989 2,681 1,102 37,441
+Identifiable operating expenses 6,042 2,591 3,033 2,717 3,656 1,995 1,639 652 22,325
+6,161 2,869 2,613 2,614 3,248 1,734 1,514 701 21,454
+Allocated expenses 2,027 974 823 920 852 518 491 209 6,814
+2,057 1,034 840 909 928 505 462 254 6,989
+Segment operating income 1,941 1,864 810 1,431 1,081 803 632 222 8,784
+2,600 1,634 958 1,302 902 750 705 147 8,998
+Unallocable expenses 1,163
+1,121
+Other income, net (Refer to Note 2.17) 2,729
+671
+Finance cost 110
+82
+Profit before tax 10,240
+8,466
+Income tax expense 2,265
+2,332
+Net Profit 7,975
+6,134
+Depreciation and amortization 1,163
+1,121
+Non-cash expenses other than depreciation and amortization —
+—
+37Year ended March 31, 2024 and March 31, 2023:
+(In ₹ crore)
+Financial Retail (2) Communic Energy, Manufacturing Hi-Tech Life All other Total
+Services (1)* ation (3) Utilities, Sciences (4) segments (5)
+Particulars Resources
+and Services
+Revenue from operations 42,158 22,504 17,991 20,035 22,298 12,411 11,515 4,758 153,670
+43,763 21,204 18,086 18,539 19,035 11,867 10,085 4,188 146,767
+Identifiable operating expenses 24,782 11,704 11,071 10,838 14,596 7,232 6,716 2,938 89,877
+24,990 10,892 11,101 9,923 12,493 6,959 5,834 2,801 84,993
+Allocated expenses 8,052 3,918 3,232 3,674 3,505 2,026 1,901 1,060 27,368
+7,930 3,916 3,226 3,461 3,429 1,949 1,685 1,048 26,644
+Segment operating income 9,324 6,882 3,688 5,523 4,197 3,153 2,898 760 36,425
+10,843 6,396 3,759 5,155 3,113 2,959 2,566 339 35,130
+Unallocable expenses 4,678
+4,225
+Other income, net (Refer to Note 2.17) 4,711
+2,701
+Finance cost 470
+284
+Profit before tax 35,988
+33,322
+Income tax expense 9,740
+9,214
+Net Profit 26,248
+24,108
+Depreciation and amortization expense 4,678
+4,225
+Non-cash expenses other than depreciation and amortization —
+—
+(1) Financial Services include enterprises in Financial Services and Insurance
+(2) Retail includes enterprises in Retail, Consumer Packaged Goods and Logistics
+(3) Communication includes enterprises in Communication, Telecom OEM and Media
+(4) Life Sciences includes enterprises in Life sciences and Health care
+(5) Others include operating segments of businesses in India, Japan, China, Infosys Public Services & other enterprises in Public Services
+* Includes impact on account of McCamish cybersecurity incident. Refer note 2.21.3.
+Significant clients
+No client individually accounted for more than 10% of the revenues for the three months and year ended March 31, 2024 and March 31, 2023, respectively.
+38X20AO
+2.24 FUNCTION WISE CLASSIFICATION OF CONDENSED CONSOLIDATED STATEMENT OF PROFIT AND LOSS
+(In ₹ crore)
+Particulars Note No. Three months ended March 31, Year ended March 31,
+2024 2023 2024 2023
+Revenue from operations 2.16 37,923 37,441 153,670 146,767
+Cost of Sales 26,748 26,011 107,413 102,353
+Gross profit 11,175 11,430 46,257 44,414
+Operating expenses
+Selling and marketing expenses 1,735 1,659 6,973 6,249
+General and administration expenses 1,819 1,894 7,537 7,260
+Total operating expenses 3,554 3,553 14,510 13,509
+Operating profit 7,621 7,877 31,747 30,905
+Other income, net 2.17 2,729 671 4,711 2,701
+Finance cost 110 82 470 284
+Profit before tax 10,240 8,466 35,988 33,322
+Tax expense:
+Current tax 2.15 1,173 2,260 8,390 9,287
+Deferred tax 2.15 1,092 72 1,350 (73)
+Profit for the period 7,975 6,134 26,248 24,108
+Other comprehensive income
+Items that will not be reclassified subsequently to profit or loss
+Remeasurement of the net defined benefit liability/asset, net 26 25 120 8
+Equity instruments through other comprehensive income, net (12) (15) 19 (7)
+14 10 139 1
+Items that will be reclassified subsequently to profit or loss
+Fair value changes on derivatives designated as cash flow hedge, net 28 36 11 (7)
+Exchange differences on translation of foreign operations (231) 61 226 776
+Fair value changes on investments, net 37 42 144 (256)
+(166) 139 381 513
+Total other comprehensive income / (loss), net of tax (152) 149 520 514
+Total comprehensive income for the period 7,823 6,283 26,768 24,622
+Profit attributable to:
+Owners of the Company 7,969 6,128 26,233 24,095
+Non-controlling interests 6 6 15 13
+7,975 6,134 26,248 24,108
+Total comprehensive income attributable to:
+Owners of the Company 7,821 6,276 26,754 24,598
+Non-controlling interests 2 7 14 24
+7,823 6,283 26,768 24,622
+for and on behalf of the Board of Directors of Infosys Limited
+D. Sundaram Salil Parekh Bobby Parikh
+Lead Independent Director Chief Executive Officer Director
+and Managing Director
+Bengaluru Jayesh Sanghrajka A.G.S. Manikantha
+April 18, 2024 Chief Financial Officer Company Secretary
+39

@@ -1,8 +1,10 @@
 import os
+import sys
 import pdfplumber
 import pandas as pd
 from src.logger import logging
 from src.exception import CustomException
+
 
 class DataExtraction:
     def __init__(self, file_path):
@@ -12,15 +14,13 @@ class DataExtraction:
         self._create_directories()
 
     def _create_directories(self):
-        """
-        Create the text and table directories if they don't already exist.
-        """
         try:
             os.makedirs(self.text_output_dir, exist_ok=True)
             os.makedirs(self.table_output_dir, exist_ok=True)
             logging.info(f"Created directories: {self.text_output_dir}, {self.table_output_dir}")
         except Exception as e:
             raise CustomException(e, sys)
+
 
     def extract_text(self):
         """
