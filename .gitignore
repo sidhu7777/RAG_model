@@ -10,6 +10,27 @@ gpt2_model/
 *.h5
 *.ckpt
 
-# Ignore FAISS vector database
-vector_db/
+
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+logs/
+
+# Intermediate and generated files
+*.faiss
+*.npy
+vector_db/vector_index.faiss
+vector_db/vector_db.index
+embeddings/
+data/processed/
+
+# Hugging Face cache
+.cache/
+.huggingface/
+
+
 
