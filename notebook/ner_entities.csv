@@ -1,5 +1,6 @@
 Entity,Type
-10 _ 20250123 _ 092259,MONEY
+10,CARDINAL
+104725,DATE
 Impairment Goodwill Goodwill,PERSON
 annual,DATE
 F,ORG
@@ -13,6 +14,7 @@ c p l n e e p e r n,ORG
 1,CARDINAL
 9,CARDINAL
 11,CARDINAL
+104725,DATE
 2,CARDINAL
 2,CARDINAL
 1,CARDINAL
@@ -82,7 +84,8 @@ Transaction costs Group,ORG
 Interim Condensed Consolidated Statement Statement Profit,ORG
 "year ended March 31 , 2023",DATE
 10,CARDINAL
-12 _ 20250123 _ 092259,MONEY
+12,CARDINAL
+104725,DATE
 "January 11 , 2024",DATE
 Info ys Limited,ORG
 100 %,PERCENT
@@ -104,6 +107,7 @@ p p r x e l ₹ 4,ORG
 045,CARDINAL
 11,CARDINAL
 13,CARDINAL
+104725,DATE
 2,CARDINAL
 2,CARDINAL
 PLANT EQUIPMENT Accounting policy Property,ORG
@@ -341,6 +345,7 @@ Improvements Gross,ORG
 346,CARDINAL
 12,DATE
 14,CARDINAL
+104725,DATE
 "year ended March 31 , 2024",DATE
 ₹,FAC
 Particulars Land - Buildings Plant Office Computer Furniture Leasehold Vehicles Total Freehold,ORG
@@ -608,7 +613,8 @@ G F f,PRODUCT
 12,CARDINAL
 Income Tax Act,LAW
 13,CARDINAL
-15 _ 20250123 _ 092259,MONEY
+15,CARDINAL
+104725,DATE
 2,CARDINAL
 3,CARDINAL
 GOODWILL INTANGIBLE,ORG
@@ -659,7 +665,8 @@ Consolidated Statement Profit Loss,ORG
 n p r e n l r e v e r e n h e C n l e e e n f P r f n L f h e r e h b e e n c h n g e n h e e e u e e e r n,ORG
 prior years,DATE
 14,CARDINAL
-16 _ 20250123 _ 092259,MONEY
+16,CARDINAL
+104725,DATE
 2,CARDINAL
 4,CARDINAL
 ₹,FAC
@@ -783,6 +790,7 @@ Quoted Equity,ORG
 Level 2,PERSON
 15,CARDINAL
 17,CARDINAL
+104725,DATE
 2,CARDINAL
 5,CARDINAL
 ₹,FAC
@@ -868,6 +876,7 @@ Trade Receivable,ORG
 424,CARDINAL
 16,DATE
 18,CARDINAL
+104725,DATE
 2,CARDINAL
 8,CARDINAL
 ₹,FAC
@@ -958,7 +967,8 @@ Group,ORG
 13,CARDINAL
 India,GPE
 17,CARDINAL
-19 _ 20250123 _ 092259,MONEY
+19,CARDINAL
+104725,DATE
 2,CARDINAL
 AO,ORG
 10,CARDINAL
@@ -1002,6 +1012,8 @@ Group de,ORG
 109,CARDINAL
 Group,ORG
 18,CARDINAL
+1,CARDINAL
+104725,DATE
 Condensed Consolidated Financial Statements Indian Accounting Standards,ORG
 "three months year ended March 31 , 2024",DATE
 Condensed Consolidated Balance Sheet,ORG
@@ -1067,6 +1079,7 @@ Goodwill,ORG
 24,CARDINAL
 Condensed Consolidated Statement Profit Loss,ORG
 20,CARDINAL
+104725,DATE
 2,CARDINAL
 10,CARDINAL
 4,CARDINAL
@@ -1199,6 +1212,7 @@ Financial Liability,ORG
 un,ORG
 19,CARDINAL
 21,CARDINAL
+104725,DATE
 "March 31 , 2023",DATE
 ₹,FAC
 Particulars Amortized Financial,ORG
@@ -1363,6 +1377,7 @@ Liabilities Derivative,ORG
 15 %,PERCENT
 20,CARDINAL
 22,CARDINAL
+104725,DATE
 "year ended March 31 , 2024",DATE
 ₹ 2,FAC
 143,CARDINAL
@@ -1437,6 +1452,7 @@ Credit Rating,ORG
 Group,ORG
 21,CARDINAL
 23,CARDINAL
+104725,DATE
 2,CARDINAL
 AO,ORG
 11,CARDINAL
@@ -1521,6 +1537,7 @@ n l e r e c e v e n f h e r e,ORG
 n n g e f h e C p n n p r p r n h e n u b e r f e q u h r e h e l,ORG
 22,CARDINAL
 24,CARDINAL
+104725,DATE
 "March 31 , 2024 March 31 , 2023",DATE
 ₹,ORG
 "March 31 , 2024 March 31 ,",DATE
@@ -1698,6 +1715,7 @@ q u l h e p r v l u e f h e h r e n h e e x e r c e p r c e f h e c k p n w u l 
 "March 31 , 2024 March 31 , 2023",DATE
 23,CARDINAL
 25,CARDINAL
+104725,DATE
 "three months year ended March 31 , 2024 March 31 , 2023 :",DATE
 "Three months ended Three months ended Year ended Year ended March 31 , March 31 , March 31 , March 31 , 2024 2023",DATE
 RS Us Key Management Personnel,ORG
@@ -1913,6 +1931,7 @@ RS,ORG
 RS,ORG
 24,CARDINAL
 26,CARDINAL
+104725,DATE
 2,CARDINAL
 AO,ORG
 12,CARDINAL
@@ -2024,6 +2043,7 @@ Particulars,PERSON
 330,CARDINAL
 25,CARDINAL
 27,CARDINAL
+104725,DATE
 2,CARDINAL
 14,CARDINAL
 PROVISIONS Accounting,ORG
@@ -2049,6 +2069,7 @@ Particulars,PERSON
 1 year,DATE
 26,CARDINAL
 28,CARDINAL
+104725,DATE
 2,CARDINAL
 13,CARDINAL
 13,CARDINAL
@@ -2108,6 +2129,7 @@ APA,ORG
 US,GPE
 27,CARDINAL
 29,CARDINAL
+104725,DATE
 2,CARDINAL
 AO,ORG
 16,CARDINAL
@@ -2155,6 +2177,7 @@ h e p e c f e g r e r v,ORG
 u l n n c p e r f r n,ORG
 28,CARDINAL
 2,CARDINAL
+104725,DATE
 ₹,FAC
 Condensed Consolidated Balance Sheets Note,ORG
 "March 31 , 2024 March 31 , 2023",DATE
@@ -2296,6 +2319,7 @@ Mani,PERSON
 "April 18 , 2024",DATE
 1,CARDINAL
 30,CARDINAL
+104725,DATE
 Group,ORG
 n n r e,ORG
 n n r r n f r n c,ORG
@@ -2379,7 +2403,8 @@ un,ORG
 un,ORG
 Balance Sheet,PERSON
 29,CARDINAL
-31 _ 20250123 _ 092259,MONEY
+31,CARDINAL
+104725,DATE
 2,CARDINAL
 AO,ORG
 17,CARDINAL
@@ -2457,6 +2482,7 @@ Non - c n v e r b l,ORG
 701,CARDINAL
 30,DATE
 32,CARDINAL
+104725,DATE
 2,CARDINAL
 18,CARDINAL
 EXPENSES Accounting,ORG
@@ -2503,6 +2529,7 @@ Balance Sheet,PERSON
 Balance Sheet,ORG
 31,CARDINAL
 33,CARDINAL
+104725,DATE
 ₹,FAC
 Particulars,PERSON
 Three months ended March 31,DATE
@@ -2608,7 +2635,8 @@ Group,ORG
 ROU,PERSON
 Balance Sheet,ORG
 32,CARDINAL
-34 _ 20250123 _ 092259,MONEY
+34,CARDINAL
+104725,DATE
 Leases Group,ORG
 "three months ended March 31 , 2024 :",DATE
 ₹,FAC
@@ -2742,6 +2770,7 @@ Particulars,PERSON
 359 8,DATE
 299 33,DATE
 35,CARDINAL
+104725,DATE
 2,CARDINAL
 AO,ORG
 20,CARDINAL
@@ -2788,6 +2817,7 @@ Group,ORG
 "March 31 , 2024 March 31 , 2023",DATE
 34,CARDINAL
 36,CARDINAL
+104725,DATE
 2,CARDINAL
 21,CARDINAL
 2,CARDINAL
@@ -2837,6 +2867,7 @@ Particulars,PERSON
 1,CARDINAL
 35,CARDINAL
 37,CARDINAL
+104725,DATE
 18,CARDINAL
 22,CARDINAL
 RELATED PARTY TRANSACTIONS Refer Company's,ORG
@@ -2936,6 +2967,7 @@ k c p e n n e x p e n e f r h e h r e e n h e n e r c h,ORG
 post - e p l e n,ORG
 36,CARDINAL
 38,CARDINAL
+104725,DATE
 2,CARDINAL
 18,CARDINAL
 AO,ORG
@@ -3071,6 +3103,7 @@ Un,ORG
 121,CARDINAL
 37,CARDINAL
 39,CARDINAL
+104725,DATE
 "Year ended March 31 , 2024 March 31 , 2023 :",DATE
 ₹,FAC
 Financial Retail,ORG
@@ -3181,6 +3214,8 @@ cC,ORG
 10 %,PERCENT
 "three months year ended March 31 , 2024 March 31 , 2023",DATE
 38,CARDINAL
+3,CARDINAL
+104725,DATE
 ₹,ORG
 Condensed Consolidated Statement Profit Loss Note,ORG
 Three months ended March 31,DATE
@@ -3359,7 +3394,8 @@ Bengaluru Jay,PERSON
 Mani,PERSON
 "April 18 , 2024",DATE
 2 Page,PERSON
-40 _ 20250123 _ 092259,MONEY
+40,CARDINAL
+104725,DATE
 20,CARDINAL
 24,CARDINAL
 ₹,FAC
@@ -3480,7 +3516,8 @@ Managing,PERSON
 Mani,PERSON
 "April 18 , 2024",DATE
 39,CARDINAL
-4 _ 20250123 _ 092259,MONEY
+4,CARDINAL
+104725,DATE
 Condensed Consolidated Statement Changes Equity,ORG
 ₹,FAC
 Particulars EQUITY Reserves & Surplus,ORG
@@ -3614,7 +3651,8 @@ year ended March 31,DATE
 388 75,DATE
 795,CARDINAL
 3,DATE
-5 _ 20250123 _ 092259,MONEY
+5,CARDINAL
+104725,DATE
 Condensed Consolidated Statement Changes Equity,ORG
 ₹,FAC
 Particulars EQUITY Reserves & Surplus,ORG
@@ -3748,7 +3786,8 @@ Bengaluru Jay,PERSON
 Mani,PERSON
 "April 18 , 2024",DATE
 4,CARDINAL
-6 _ 20250123 _ 092259,QUANTITY
+6,CARDINAL
+104725,DATE
 Condensed Consolidated Statement Cash Flows Accounting,ORG
 n v e n g n f n n c n g c v e f h e G r u p r e e g r e g e .,ORG
 G r u p c n e r l l h g h l l q u n v e e n,ORG
@@ -3868,6 +3907,7 @@ Commercial Papers,WORK_OF_ART
 1,CARDINAL
 209,CARDINAL
 5,CARDINAL
+104725,DATE
 2,CARDINAL
 024,CARDINAL
 1,CARDINAL
@@ -3915,7 +3955,8 @@ Bengaluru Jay,PERSON
 Mani,PERSON
 "April 18 , 2024",DATE
 6,CARDINAL
-8 _ 20250123 _ 092259,MONEY
+8,CARDINAL
+104725,DATE
 Interim Condensed Consolidated Financial Statements 1,ORG
 1,CARDINAL
 Info ys Limited,ORG
@@ -3966,7 +4007,7 @@ n l b l e,ORG
 1 .,CARDINAL
 5,CARDINAL
 7,CARDINAL
-9 _ 20250123 _ 092259,EVENT
+9 _ 20250124 _ 104725,DATE
 1,CARDINAL
 5,CARDINAL
 Group,ORG

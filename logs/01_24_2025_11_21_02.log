@@ -1,0 +1,14 @@
+[ 2025-01-24 11:21:02,913 ] 54 faiss.loader - INFO - Loading faiss with AVX2 support.
+[ 2025-01-24 11:21:02,914 ] 58 faiss.loader - INFO - Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+[ 2025-01-24 11:21:02,914 ] 64 faiss.loader - INFO - Loading faiss.
+[ 2025-01-24 11:21:03,183 ] 66 faiss.loader - INFO - Successfully loaded faiss.
+[ 2025-01-24 11:21:03,200 ] 13 root - INFO - Loading embedding model: all-MiniLM-L6-v2
+[ 2025-01-24 11:21:03,200 ] 66 sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[ 2025-01-24 11:21:08,618 ] 105 sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+[ 2025-01-24 11:21:08,620 ] 24 root - INFO - Loading cleaned text chunks from C:\Users\91832\Desktop\RAG_Model_development\data\processed\cleaned_text_chunks.json
+[ 2025-01-24 11:21:08,769 ] 47 root - INFO - Generating embeddings for 15 text chunks.
+[ 2025-01-24 11:21:09,069 ] 33 root - INFO - Loading flattened tables from C:\Users\91832\Desktop\RAG_Model_development\data\processed\flattened_table
+[ 2025-01-24 11:21:09,317 ] 56 root - INFO - Generating embeddings for 8 flattened tables.
+[ 2025-01-24 11:21:11,654 ] 72 root - INFO - Storing embeddings in the vector database.
+[ 2025-01-24 11:21:11,662 ] 84 root - INFO - Embeddings stored successfully.

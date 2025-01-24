@@ -1,0 +1,4 @@
+[ 2025-01-24 11:43:40,942 ] 71 root - INFO - FAISS index vectors: 56
+[ 2025-01-24 11:43:40,942 ] 72 root - INFO - Unified mapping entries (text + table): 56
+[ 2025-01-24 11:43:40,942 ] 77 root - INFO - FAISS vectors and metadata entries are synchronized.
+[ 2025-01-24 11:43:40,943 ] 88 root - INFO - Validation completed successfully.

@@ -1,4 +1,4 @@
-Page page_10_20250123_092259.txt Content:
+Page page_10_20250124_104725.txt Content:
 e. Impairment of Goodwill
 Goodwillistestedforimpairmentonanannualbasisandwheneverthereisanindicationthattherecoverableamountofacashgeneratingunit(CGUs)isless
 thanitscarryingamount.Fortheimpairmenttest,goodwillisallocatedtotheCGUorgroupsofCGUswhichbenefitfromthesynergiesoftheacquisitionand
@@ -8,7 +8,7 @@ areprepared basedoncurrenteconomicconditionsandcomprisesestimatedlongtermgrowthr
 margins (Refer to Note 2.3.1).
 9
 
-Page page_11_20250123_092259.txt Content:
+Page page_11_20250124_104725.txt Content:
 2. Notes to the Interim Condensed Consolidated Financial Statements
 2.1 BUSINESS COMBINATIONS
 Accounting policy
@@ -63,7 +63,7 @@ consulting fees are expensed as incurred. The transaction costs of ₹7 crore re
 Interim Condensed Consolidated Statement of Statement of Profit or Loss for the year ended March 31, 2023.
 10
 
-Page page_12_20250123_092259.txt Content:
+Page page_12_20250124_104725.txt Content:
 Proposed acquisitions
 On January 11, 2024, Infosys Limited entered into a definitive agreement to acquire 100% of the equity share capital in InSemi Technology Services Private
 Limited, a semiconductor design services company headquartered in India, for a consideration including earn-outs, and management incentives and retention
@@ -73,7 +73,7 @@ equity share capital in in-tech Holding GmbH, leading provider of Engineering R&
 amounting up to EUR 450 million (approximately ₹4,045 crore), subject to customary closing adjustments.
 11
 
-Page page_13_20250123_092259.txt Content:
+Page page_13_20250124_104725.txt Content:
 2.2 PROPERTY, PLANT AND EQUIPMENT
 Accounting policy
 Property,plantandequipmentarestatedatcost,lessaccumulateddepreciationandimpairment,ifany.Costsdirectlyattributabletoacquisitionarecapitalizeduntiltheproperty,plantandequipment
@@ -138,7 +138,7 @@ Carrying value as at January 1, 2023 1,431 7,105 821 260 2,556 528 361 5 13,067
 Carrying value as at March 31, 2023 1,431 7,027 865 284 2,693 628 413 5 13,346
 12
 
-Page page_14_20250123_092259.txt Content:
+Page page_14_20250124_104725.txt Content:
 The changes in the carrying value of property, plant and equipment for the year ended March 31, 2024 are as follows:
 (In ₹ crore)
 Particulars Land - Buildings Plant and Office Computer Furniture and Leasehold Vehicles Total
@@ -185,7 +185,7 @@ completedthetransferofassetsuponobtainingtherequiredapprovalsfromregulatoryautho
 Income Tax Act was rejected and registration cancelled. IGF is in the process of challenging the rejection order.
 13
 
-Page page_15_20250123_092259.txt Content:
+Page page_15_20250124_104725.txt Content:
 2.3 GOODWILL AND OTHER INTANGIBLE ASSETS
 2.3.1 Goodwill
 Accounting policy
@@ -227,7 +227,7 @@ the recoverable amount. The carrying amount of the asset is increased to its rev
 determined (net of any accumulated amortization) had no impairment loss been recognized for the asset in prior years.
 14
 
-Page page_16_20250123_092259.txt Content:
+Page page_16_20250124_104725.txt Content:
 2.4 INVESTMENTS
 (In ₹ crore)
 Particulars As at
@@ -311,7 +311,7 @@ Total 24,837 19,706
 Note: Certain quoted investments are classified as Level 2 in the absence of active market for such investments.
 15
 
-Page page_17_20250123_092259.txt Content:
+Page page_17_20250124_104725.txt Content:
 2.5 LOANS
 (In ₹ crore)
 Particulars As at
@@ -374,7 +374,7 @@ Trade Receivable - credit impaired - Unsecured — —
 Total trade receivables 30,193 25,424
 16
 
-Page page_18_20250123_092259.txt Content:
+Page page_18_20250124_104725.txt Content:
 2.8 CASH AND CASH EQUIVALENTS
 (In ₹ crore)
 Particulars As at
@@ -431,7 +431,7 @@ accordingly considered as non-cash transaction (Refer to note 2.13)
 Withholding taxes and others primarily consist of input tax credits and Cenvat/VAT recoverable from Government of India.
 17
 
-Page page_19_20250123_092259.txt Content:
+Page page_19_20250124_104725.txt Content:
 2X10AO .10 FINANCIAL INSTRUMENTS
 Accounting policy
 2.10.1 Initial recognition
@@ -482,7 +482,7 @@ derecognition under Ind AS 109. A financial liability (or a part of a financial 
 contract is discharged or cancelled or expires.
 18
 
-Page page_1_20250123_092259.txt Content:
+Page page_1_20250124_104725.txt Content:
 INFOSYS LIMITED AND SUBSIDIARIES
 Condensed Consolidated Financial Statements under
 Indian Accounting Standards (Ind AS)
@@ -525,7 +525,7 @@ Overview and Notes to the Interim Condensed Consolidated Financial Statements
 2.23 Segment reporting ……………………………………………………………………………………………………………37………………………………..
 2.24 Function wise classification of Condensed Consolidated Statement of Profit and Loss ……………………………………39………………………………………………………………………………………………………..
 
-Page page_20_20250123_092259.txt Content:
+Page page_20_20250124_104725.txt Content:
 2.10.4 Fair value of financial instruments
 In determining the fair value of its financial instruments, the Group uses a variety of methods and assumptions that are based on market conditions and risks existing at each
 reportingdate.Themethodsusedtodeterminefairvalueincludediscountedcashflowanalysis,optionpricingmodel,marketmultiples,availablequotedmarketpricesanddealer
@@ -578,7 +578,7 @@ Total 28,065 — 627 — 1 28,693 28,693
 (3) Excludes unbilled revenue on contracts where the right to consideration is dependent on completion of contractual milestones
 19
 
-Page page_21_20250123_092259.txt Content:
+Page page_21_20250124_104725.txt Content:
 The carrying value and fair value of financial instruments by categories as at March 31, 2023 were as follows:
 (In ₹ crore)
 Particulars Amortized Financial assets/ liabilities at Financial assets/liabilities at fair Total carrying Total fair value
@@ -649,7 +649,7 @@ Financial liability under option arrangements (Refer to Note 2.12)(1) 597 — �
 (1) Discount rate ranges from 9% to 15%
 20
 
-Page page_22_20250123_092259.txt Content:
+Page page_22_20250124_104725.txt Content:
 During the year ended March 31, 2024, government securities , non convertible debentures and tax free bonds of ₹2,143 crore was transferred from Level 2 to Level 1 of fair
 value hierarchy, since these were valued based on quoted price. Further, government securities of ₹ 73 crore were transferred from Level 1 to Level 2 of fair value hierarchy,
 since these were valued based on market observable inputs.
@@ -690,7 +690,7 @@ government and quasi-government organizations. The Group invests after consideri
 Ratio, Credit Rating, Profitability, NPA levels and Deposit base of banks and financial institutions. These risks are monitored regularly as per Group's risk management program.
 21
 
-Page page_23_20250123_092259.txt Content:
+Page page_23_20250124_104725.txt Content:
 2X11AO .11 EQUITY
 Accounting policy
 Ordinary Shares
@@ -748,7 +748,7 @@ There are no voting, dividend or liquidation rights to the holders of options is
 For details of shares reserved for issue under the employee stock option plan of the Company refer to the note below.
 22
 
-Page page_24_20250123_092259.txt Content:
+Page page_24_20250124_104725.txt Content:
 The reconciliation of the number of shares outstanding and the amount of share capital as at March 31, 2024 and March 31, 2023 are as follows:
 (In ₹ crore, except as stated otherwise)
 Particulars As at March 31, 2024 As at March 31, 2023
@@ -822,7 +822,7 @@ Controlled trust holds 10,916,829 and 1,21,72,119 shares as at March 31, 2024 an
 been earmarked for welfare activities of the employees as at March 31, 2024 and March 31, 2023.
 23
 
-Page page_25_20250123_092259.txt Content:
+Page page_25_20250124_104725.txt Content:
 The following is the summary of grants made during the three months and year ended March 31, 2024 and March 31, 2023:
 Particulars 2019 Plan 2015 Plan
 Three months ended Three months ended Year ended
@@ -897,7 +897,7 @@ The expected life of the RSU/ESOP is estimated based on the vesting term and con
 RSU/ESOP.
 24
 
-Page page_26_20250123_092259.txt Content:
+Page page_26_20250124_104725.txt Content:
 2X12AO .12 OTHER FINANCIAL LIABILITIES
 (In ₹ crore)
 Particulars As at
@@ -957,7 +957,7 @@ Total current other liabilities 10,539 10,830
 Total other liabilities 10,774 11,330
 25
 
-Page page_27_20250123_092259.txt Content:
+Page page_27_20250124_104725.txt Content:
 2.14 PROVISIONS
 Accounting policy
 Aprovisionisrecognized if,asaresultofapastevent,theGrouphasapresentlegalorconstructiveobligationthatisreasonablyestimable,anditisprobablethat
@@ -986,7 +986,7 @@ of recognition of revenues and are expected to be utilized over a period of 1 ye
 Provision for post sales client support and other provisions is included in cost of sales in the condensed consolidated statement of profit and loss.
 26
 
-Page page_28_20250123_092259.txt Content:
+Page page_28_20250124_104725.txt Content:
 2X13AOX13AOX13AO .15 INCOME TAXES
 Accounting policy
 Incometaxexpensecomprisescurrentanddeferredincometax.IncometaxexpenseisrecognizedinnetprofitintheConsolidatedStatementofProfitandLossexceptto
@@ -1026,7 +1026,7 @@ The Company’s Advanced Pricing Arrangement (APA) with the Internal Revenue Ser
 applied for renewal of APA and currently the US taxable income is based on the Company’s best estimate determined based on the expected value method.
 27
 
-Page page_29_20250123_092259.txt Content:
+Page page_29_20250124_104725.txt Content:
 2X14AO .16 REVENUE FROM OPERATIONS
 Accounting policy
 TheGroupderivesrevenuesprimarilyfromIT servicescomprisingsoftware developmentand relatedservices, cloudand infrastructureservices, maintenance,consultingandpackage
@@ -1085,7 +1085,7 @@ contractandcreationofanewcontractiftheyarenotpricedatthestandalonesellingprice.I
 part of the existing contract on a cumulative catch-up basis.
 28
 
-Page page_2_20250123_092259.txt Content:
+Page page_2_20250124_104725.txt Content:
 INFOSYS LIMITED AND SUBSIDIARIES
 (In ₹ crore )
 Condensed Consolidated Balance Sheets as at Note No. March 31, 2024 March 31, 2023
@@ -1153,7 +1153,7 @@ Bengaluru Jayesh Sanghrajka A.G.S. Manikantha
 April 18, 2024 Chief Financial Officer Company Secretary
 1
 
-Page page_30_20250123_092259.txt Content:
+Page page_30_20250124_104725.txt Content:
 The incremental costs of obtaining a contract (i.e., costs that would not have been incurred if the contract had not been obtained) are recognized as an asset if the Group expects to
 recover them.
 Certaineligible,nonrecurringcosts(e.g.set-uportransitionortransformationcosts)thatdonotrepresentaseparateperformanceobligationarerecognizedasanassetwhensuchcosts
@@ -1202,7 +1202,7 @@ Invoicing in excess of earnings are classified as unearned revenue.
 Trade receivables and unbilled revenues are presented net of impairment in the consolidated Balance Sheet.
 29
 
-Page page_31_20250123_092259.txt Content:
+Page page_31_20250124_104725.txt Content:
 2X15AO .17 OTHER INCOME, NET
 Accounting policy
 Other income is comprised primarilyof interest income, dividend income, gain/loss oninvestment and exchange gain/loss on forward and optionscontracts
@@ -1265,7 +1265,7 @@ Miscellaneous income, net 87 129 207 318
 Total other income 2,729 671 4,711 2,701
 30
 
-Page page_32_20250123_092259.txt Content:
+Page page_32_20250124_104725.txt Content:
 2.18 EXPENSES
 Accounting policy
 Gratuity and Pensions
@@ -1307,7 +1307,7 @@ the additional amount expected to be paid/availed as a result of the unused enti
 accumulating compensated absences is recognized in the period in which the absences occur.
 31
 
-Page page_33_20250123_092259.txt Content:
+Page page_33_20250124_104725.txt Content:
 (In ₹ crore)
 Particulars Three months ended March 31, Year ended March 31,
 2024 2023 2024 2023
@@ -1369,7 +1369,7 @@ extension or a termination option.
 Lease liability and ROU asset have been separately presented in the Balance Sheet and lease payments have been classified as financing cash flows.
 32
 
-Page page_34_20250123_092259.txt Content:
+Page page_34_20250124_104725.txt Content:
 The Group as a lessor
 Leases for which the Group is a lessor is classified as a finance or operating lease. Whenever the terms of the lease transfer substantially all the risks and
 rewards of ownership to the lessee, the contract is classified as a finance lease. All other leases are classified as operating leases.
@@ -1437,7 +1437,7 @@ Non-current lease liabilities 6,400 7,057
 Total 8,359 8,299
 33
 
-Page page_35_20250123_092259.txt Content:
+Page page_35_20250124_104725.txt Content:
 2X17AO .20 BASIC AND DILUTED SHARES USED IN COMPUTING EARNINGS PER EQUITY SHARE
 Accounting policy
 BasicearningsperequityshareiscomputedbydividingthenetprofitattributabletotheequityholdersoftheGroupbytheweightedaveragenumberofequity
@@ -1473,7 +1473,7 @@ operations.
 Amount paid to statutory authorities against the tax claims amounted to ₹8,743 crore and ₹6,528 crore as at March 31, 2024 and March 31, 2023, respectively.
 34
 
-Page page_36_20250123_092259.txt Content:
+Page page_36_20250124_104725.txt Content:
 2.21.2 McCamish Cybersecurity incident
 InNovember 2023, InfosysMcCamishSystems(McCamish), a step-downsubsidiaryofInfosys Limited, experienced a cybersecurityincidentresulting inthe
 non-availability of certain applications and systems. McCamish initiated its incident response and engaged cybersecurity and other specialists to assist in its
@@ -1506,7 +1506,7 @@ Other commitments* 79 92
 * Uncalled capital pertaining to investments
 35
 
-Page page_37_20250123_092259.txt Content:
+Page page_37_20250124_104725.txt Content:
 X18AO
 2.22 RELATED PARTY TRANSACTIONS
 Refer to the Company's Annual Report for the year ended March 31, 2023 for the full names and other details of the Company's subsidiaries and
@@ -1554,7 +1554,7 @@ crore, respectively, towardskey management personnel. Forthe yearended March 31,
 (2) Does not include post-employment benefits and other long-term benefits based on actuarial valuation as these are done for the Company as a whole.
 36
 
-Page page_38_20250123_092259.txt Content:
+Page page_38_20250124_104725.txt Content:
 2X19AOX18AO .23 SEGMENT REPORTING
 Ind AS 108, Operating segments, establishes standards for the way that public business enterprises report information about operating segments and related disclosures
 about products and services, geographic areas, and major customers. The Group's operations predominantly relate to providing end-to-end business solutions to enable
@@ -1612,7 +1612,7 @@ Non-cash expenses other than depreciation and amortization —
 —
 37
 
-Page page_39_20250123_092259.txt Content:
+Page page_39_20250124_104725.txt Content:
 Year ended March 31, 2024 and March 31, 2023:
 (In ₹ crore)
 Financial Retail (2) Communic Energy, Manufacturing Hi-Tech Life All other Total
@@ -1653,7 +1653,7 @@ Significant clients
 No client individually accounted for more than 10% of the revenues for the three months and year ended March 31, 2024 and March 31, 2023, respectively.
 38
 
-Page page_3_20250123_092259.txt Content:
+Page page_3_20250124_104725.txt Content:
 INFOSYS LIMITED AND SUBSIDIARIES
 (In ₹ crore, except equity share and per equity share data)
 Condensed Consolidated Statement of Profit and Loss for the Note No. Three months ended March 31, Year ended March 31,
@@ -1717,7 +1717,7 @@ Bengaluru Jayesh Sanghrajka A.G.S. Manikantha
 April 18, 2024 Chief Financial Officer Company Secretary
 2
 
-Page page_40_20250123_092259.txt Content:
+Page page_40_20250124_104725.txt Content:
 X20AO
 2.24 FUNCTION WISE CLASSIFICATION OF CONDENSED CONSOLIDATED STATEMENT OF PROFIT AND LOSS
 (In ₹ crore)
@@ -1766,7 +1766,7 @@ Bengaluru Jayesh Sanghrajka A.G.S. Manikantha
 April 18, 2024 Chief Financial Officer Company Secretary
 39
 
-Page page_4_20250123_092259.txt Content:
+Page page_4_20250124_104725.txt Content:
 INFOSYS LIMITED AND SUBSIDIARIES
 Condensed Consolidated Statement of Changes in Equity
 (In ₹ crore)
@@ -1811,7 +1811,7 @@ utilization
 Balance as at March 31, 2023 2,069 54 169 166 58,957 1,054 878 10,014 19 247 2,325 (5) (540) 75,407 388 75,795
 3
 
-Page page_5_20250123_092259.txt Content:
+Page page_5_20250124_104725.txt Content:
 Condensed Consolidated Statement of Changes in Equity (contd.)
 (In ₹ crore)
 Particulars OTHER EQUITY
@@ -1870,7 +1870,7 @@ Bengaluru Jayesh Sanghrajka A.G.S. Manikantha
 April 18, 2024 Chief Financial Officer Company Secretary
 4
 
-Page page_6_20250123_092259.txt Content:
+Page page_6_20250124_104725.txt Content:
 INFOSYS LIMITED AND SUBSIDIARIES
 Condensed Consolidated Statement of Cash Flows
 Accounting policy
@@ -1933,7 +1933,7 @@ Equity and preference securities 26 99
 Net cash generated / (used in) from investing activities (5,009) (1,209)
 5
 
-Page page_7_20250123_092259.txt Content:
+Page page_7_20250124_104725.txt Content:
 Cash flows from financing activities
 Payment of lease liabilities (2,024) (1,231)
 Payment of dividends (14,692) (13,631)
@@ -1963,7 +1963,7 @@ Bengaluru Jayesh Sanghrajka A.G.S. Manikantha
 April 18, 2024 Chief Financial Officer Company Secretary
 6
 
-Page page_8_20250123_092259.txt Content:
+Page page_8_20250124_104725.txt Content:
 INFOSYS LIMITED AND SUBSIDIARIES
 Overview and notes to the Interim Condensed Consolidated Financial Statements
 1. Overview
@@ -2011,7 +2011,7 @@ theestimates. Changesinestimatesandjudgementsarereflectedintheinterimcondensedco
 made and, if material, their effects are disclosed in the notes to the interim condensed consolidated financial statements.
 7
 
-Page page_9_20250123_092259.txt Content:
+Page page_9_20250124_104725.txt Content:
 1.5 Critical accounting estimates and judgments
 a. Revenue recognition
 The Group’s contracts with customers include promises to transfer multiple products and services to a customer. Revenues from customer contracts are

@@ -1,0 +1,16 @@
+[ 2025-01-24 12:41:57,650 ] 131 root - INFO - Starting unified mapping embedding generation...
+[ 2025-01-24 12:42:10,824 ] 66 sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[ 2025-01-24 12:42:15,077 ] 105 sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+[ 2025-01-24 12:42:15,078 ] 20 root - INFO - Generating embeddings for unified mapping.
+[ 2025-01-24 12:42:15,304 ] 45 root - INFO - Generated 3 embeddings for unified mapping.
+[ 2025-01-24 12:42:15,304 ] 53 root - INFO - Storing embeddings in the vector database.
+[ 2025-01-24 12:42:15,305 ] 58 root - INFO - Loading existing vector database.
+[ 2025-01-24 12:42:15,326 ] 65 root - INFO - Embeddings stored successfully.
+[ 2025-01-24 12:42:15,329 ] 77 root - INFO - FAISS index vectors: 62
+[ 2025-01-24 12:42:15,329 ] 78 root - INFO - Unified mapping entries (text + table): 62
+[ 2025-01-24 12:42:15,330 ] 82 root - INFO - FAISS vectors and metadata entries are synchronized.
+[ 2025-01-24 12:42:15,330 ] 89 root - INFO - Validating vector and metadata counts...
+[ 2025-01-24 12:42:15,401 ] 106 root - INFO - FAISS index vectors: 62
+[ 2025-01-24 12:42:15,401 ] 107 root - INFO - Unified mapping entries (text + table): 62
+[ 2025-01-24 12:42:15,401 ] 112 root - INFO - FAISS vectors and metadata entries are synchronized.
+[ 2025-01-24 12:42:15,401 ] 153 root - INFO - Validation completed successfully. FAISS vectors and metadata entries are synchronized.

@@ -1,0 +1,65 @@
+[ 2025-01-24 13:26:51,875 ] 136 root - INFO - Starting embedding pipeline...
+[ 2025-01-24 13:26:51,875 ] 66 sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[ 2025-01-24 13:26:56,545 ] 105 sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+[ 2025-01-24 13:26:56,548 ] 24 root - INFO - Generating text embeddings...
+[ 2025-01-24 13:26:56,800 ] 28 root - INFO - Text embeddings saved to C:\Users\91832\Desktop\RAG_Model_development\embeddings\cleaned_text_chunks_embeddings.npy
+[ 2025-01-24 13:26:56,801 ] 31 root - INFO - Text mappings generated: 15
+[ 2025-01-24 13:26:56,802 ] 50 root - INFO - Processing table file: C:\Users\91832\Desktop\RAG_Model_development\data\processed\flattened_table\table_page_18_table_1.csv
+[ 2025-01-24 13:26:56,829 ] 50 root - INFO - Processing table file: C:\Users\91832\Desktop\RAG_Model_development\data\processed\flattened_table\table_page_30_table_1.csv
+[ 2025-01-24 13:26:56,887 ] 60 root - INFO - Saved embedding for row 0 to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_30_table_1_row_0_embedding.npy
+[ 2025-01-24 13:26:56,887 ] 50 root - INFO - Processing table file: C:\Users\91832\Desktop\RAG_Model_development\data\processed\flattened_table\table_page_33_table_1.csv
+[ 2025-01-24 13:26:56,926 ] 60 root - INFO - Saved embedding for row 0 to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_33_table_1_row_0_embedding.npy
+[ 2025-01-24 13:26:56,961 ] 60 root - INFO - Saved embedding for row 1 to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_33_table_1_row_1_embedding.npy
+[ 2025-01-24 13:26:56,999 ] 60 root - INFO - Saved embedding for row 2 to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_33_table_1_row_2_embedding.npy
+[ 2025-01-24 13:26:57,039 ] 60 root - INFO - Saved embedding for row 3 to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_33_table_1_row_3_embedding.npy
+[ 2025-01-24 13:26:57,091 ] 60 root - INFO - Saved embedding for row 4 to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_33_table_1_row_4_embedding.npy
+[ 2025-01-24 13:26:57,091 ] 50 root - INFO - Processing table file: C:\Users\91832\Desktop\RAG_Model_development\data\processed\flattened_table\table_page_34_table_1.csv
+[ 2025-01-24 13:26:57,137 ] 60 root - INFO - Saved embedding for row 0 to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_34_table_1_row_0_embedding.npy
+[ 2025-01-24 13:26:57,188 ] 60 root - INFO - Saved embedding for row 1 to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_34_table_1_row_1_embedding.npy
+[ 2025-01-24 13:26:57,228 ] 60 root - INFO - Saved embedding for row 2 to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_34_table_1_row_2_embedding.npy
+[ 2025-01-24 13:26:57,261 ] 60 root - INFO - Saved embedding for row 3 to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_34_table_1_row_3_embedding.npy
+[ 2025-01-24 13:26:57,305 ] 60 root - INFO - Saved embedding for row 4 to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_34_table_1_row_4_embedding.npy
+[ 2025-01-24 13:26:57,347 ] 60 root - INFO - Saved embedding for row 5 to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_34_table_1_row_5_embedding.npy
+[ 2025-01-24 13:26:57,409 ] 60 root - INFO - Saved embedding for row 6 to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_34_table_1_row_6_embedding.npy
+[ 2025-01-24 13:26:57,446 ] 60 root - INFO - Saved embedding for row 7 to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_34_table_1_row_7_embedding.npy
+[ 2025-01-24 13:26:57,447 ] 50 root - INFO - Processing table file: C:\Users\91832\Desktop\RAG_Model_development\data\processed\flattened_table\table_page_34_table_2.csv
+[ 2025-01-24 13:26:57,489 ] 60 root - INFO - Saved embedding for row 0 to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_34_table_2_row_0_embedding.npy
+[ 2025-01-24 13:26:57,531 ] 60 root - INFO - Saved embedding for row 1 to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_34_table_2_row_1_embedding.npy
+[ 2025-01-24 13:26:57,565 ] 60 root - INFO - Saved embedding for row 2 to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_34_table_2_row_2_embedding.npy
+[ 2025-01-24 13:26:57,598 ] 60 root - INFO - Saved embedding for row 3 to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_34_table_2_row_3_embedding.npy
+[ 2025-01-24 13:26:57,638 ] 60 root - INFO - Saved embedding for row 4 to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_34_table_2_row_4_embedding.npy
+[ 2025-01-24 13:26:57,669 ] 60 root - INFO - Saved embedding for row 5 to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_34_table_2_row_5_embedding.npy
+[ 2025-01-24 13:26:57,718 ] 60 root - INFO - Saved embedding for row 6 to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_34_table_2_row_6_embedding.npy
+[ 2025-01-24 13:26:57,719 ] 50 root - INFO - Processing table file: C:\Users\91832\Desktop\RAG_Model_development\data\processed\flattened_table\table_page_34_table_3.csv
+[ 2025-01-24 13:26:57,774 ] 60 root - INFO - Saved embedding for row 0 to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_34_table_3_row_0_embedding.npy
+[ 2025-01-24 13:26:57,849 ] 60 root - INFO - Saved embedding for row 1 to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_34_table_3_row_1_embedding.npy
+[ 2025-01-24 13:26:57,914 ] 60 root - INFO - Saved embedding for row 2 to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_34_table_3_row_2_embedding.npy
+[ 2025-01-24 13:26:57,999 ] 60 root - INFO - Saved embedding for row 3 to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_34_table_3_row_3_embedding.npy
+[ 2025-01-24 13:26:58,064 ] 60 root - INFO - Saved embedding for row 4 to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_34_table_3_row_4_embedding.npy
+[ 2025-01-24 13:26:58,123 ] 60 root - INFO - Saved embedding for row 5 to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_34_table_3_row_5_embedding.npy
+[ 2025-01-24 13:26:58,173 ] 60 root - INFO - Saved embedding for row 6 to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_34_table_3_row_6_embedding.npy
+[ 2025-01-24 13:26:58,239 ] 60 root - INFO - Saved embedding for row 7 to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_34_table_3_row_7_embedding.npy
+[ 2025-01-24 13:26:58,240 ] 50 root - INFO - Processing table file: C:\Users\91832\Desktop\RAG_Model_development\data\processed\flattened_table\table_page_34_table_4.csv
+[ 2025-01-24 13:26:58,298 ] 60 root - INFO - Saved embedding for row 0 to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_34_table_4_row_0_embedding.npy
+[ 2025-01-24 13:26:58,365 ] 60 root - INFO - Saved embedding for row 1 to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_34_table_4_row_1_embedding.npy
+[ 2025-01-24 13:26:58,410 ] 60 root - INFO - Saved embedding for row 2 to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_34_table_4_row_2_embedding.npy
+[ 2025-01-24 13:26:58,480 ] 60 root - INFO - Saved embedding for row 3 to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_34_table_4_row_3_embedding.npy
+[ 2025-01-24 13:26:58,556 ] 60 root - INFO - Saved embedding for row 4 to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_34_table_4_row_4_embedding.npy
+[ 2025-01-24 13:26:58,642 ] 60 root - INFO - Saved embedding for row 5 to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_34_table_4_row_5_embedding.npy
+[ 2025-01-24 13:26:58,722 ] 60 root - INFO - Saved embedding for row 6 to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_34_table_4_row_6_embedding.npy
+[ 2025-01-24 13:26:58,722 ] 50 root - INFO - Processing table file: C:\Users\91832\Desktop\RAG_Model_development\data\processed\flattened_table\table_page_34_table_5.csv
+[ 2025-01-24 13:26:58,799 ] 60 root - INFO - Saved embedding for row 0 to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_34_table_5_row_0_embedding.npy
+[ 2025-01-24 13:26:58,863 ] 60 root - INFO - Saved embedding for row 1 to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_34_table_5_row_1_embedding.npy
+[ 2025-01-24 13:26:58,910 ] 60 root - INFO - Saved embedding for row 2 to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_34_table_5_row_2_embedding.npy
+[ 2025-01-24 13:26:58,980 ] 60 root - INFO - Saved embedding for row 3 to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_34_table_5_row_3_embedding.npy
+[ 2025-01-24 13:26:59,013 ] 60 root - INFO - Saved embedding for row 4 to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_34_table_5_row_4_embedding.npy
+[ 2025-01-24 13:26:59,014 ] 69 root - INFO - Total table embeddings generated: 41
+[ 2025-01-24 13:26:59,014 ] 77 root - INFO - Text mapping entries: 15
+[ 2025-01-24 13:26:59,014 ] 78 root - INFO - Table mapping entries: 41
+[ 2025-01-24 13:26:59,057 ] 84 root - INFO - Unified mapping saved with 56 entries.
+[ 2025-01-24 13:26:59,058 ] 92 root - INFO - Generating embeddings for FAISS index...
+[ 2025-01-24 13:27:31,726 ] 108 root - INFO - FAISS index created with 14578 vectors.
+[ 2025-01-24 13:27:31,829 ] 122 root - INFO - FAISS index vectors: 14578
+[ 2025-01-24 13:27:31,829 ] 123 root - INFO - Unified mapping entries: 56
+[ 2025-01-24 13:27:31,829 ] 126 root - WARNING - Mismatch detected! FAISS vectors: 14578, Metadata entries: 56
+[ 2025-01-24 13:27:31,831 ] 155 root - WARNING - Pipeline completed but validation failed.

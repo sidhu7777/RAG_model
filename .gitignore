@@ -1,3 +1,15 @@
 # Add these entries to .gitignore
 New/
 wordninja/
+# Ignore the GPT-2 model directory
+gpt2_model/
+
+# Ignore large binary files like models
+*.bin
+*.pt
+*.h5
+*.ckpt
+
+# Ignore FAISS vector database
+vector_db/
+

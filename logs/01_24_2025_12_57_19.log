@@ -1,0 +1,44 @@
+[ 2025-01-24 12:57:19,988 ] 136 root - INFO - Starting embedding pipeline...
+[ 2025-01-24 12:57:19,988 ] 66 sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[ 2025-01-24 12:57:23,843 ] 105 sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+[ 2025-01-24 12:57:23,848 ] 26 root - INFO - Generating text embeddings...
+[ 2025-01-24 12:57:24,079 ] 31 root - INFO - Text embeddings saved to C:\Users\91832\Desktop\RAG_Model_development\embeddings\cleaned_text_chunks_embeddings.npy
+[ 2025-01-24 12:57:24,080 ] 43 root - INFO - Processing table file: C:\Users\91832\Desktop\RAG_Model_development\data\processed\flattened_table\table_page_18_table_1.csv
+[ 2025-01-24 12:57:24,113 ] 48 root - INFO - Generating embeddings for column 'Deferred Contract Cost' in table 'table_page_18_table_1.csv'
+[ 2025-01-24 12:57:24,119 ] 56 root - INFO - Saved embeddings for column 'Deferred Contract Cost' to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_18_table_1_Deferred Contract Cost_embeddings.npy
+[ 2025-01-24 12:57:24,119 ] 48 root - INFO - Generating embeddings for column 'Unnamed: 1' in table 'table_page_18_table_1.csv'
+[ 2025-01-24 12:57:24,132 ] 56 root - INFO - Saved embeddings for column 'Unnamed: 1' to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_18_table_1_Unnamed: 1_embeddings.npy
+[ 2025-01-24 12:57:24,133 ] 43 root - INFO - Processing table file: C:\Users\91832\Desktop\RAG_Model_development\data\processed\flattened_table\table_page_30_table_1.csv
+[ 2025-01-24 12:57:24,147 ] 48 root - INFO - Generating embeddings for column 'Unnamed: 0' in table 'table_page_30_table_1.csv'
+[ 2025-01-24 12:57:24,209 ] 56 root - INFO - Saved embeddings for column 'Unnamed: 0' to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_30_table_1_Unnamed: 0_embeddings.npy
+[ 2025-01-24 12:57:24,210 ] 43 root - INFO - Processing table file: C:\Users\91832\Desktop\RAG_Model_development\data\processed\flattened_table\table_page_33_table_1.csv
+[ 2025-01-24 12:57:24,215 ] 43 root - INFO - Processing table file: C:\Users\91832\Desktop\RAG_Model_development\data\processed\flattened_table\table_page_34_table_1.csv
+[ 2025-01-24 12:57:24,219 ] 48 root - INFO - Generating embeddings for column 'Unnamed: 0' in table 'table_page_34_table_1.csv'
+[ 2025-01-24 12:57:24,513 ] 56 root - INFO - Saved embeddings for column 'Unnamed: 0' to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_34_table_1_Unnamed: 0_embeddings.npy
+[ 2025-01-24 12:57:24,516 ] 43 root - INFO - Processing table file: C:\Users\91832\Desktop\RAG_Model_development\data\processed\flattened_table\table_page_34_table_2.csv
+[ 2025-01-24 12:57:24,522 ] 48 root - INFO - Generating embeddings for column 'Unnamed: 0' in table 'table_page_34_table_2.csv'
+[ 2025-01-24 12:57:24,621 ] 56 root - INFO - Saved embeddings for column 'Unnamed: 0' to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_34_table_2_Unnamed: 0_embeddings.npy
+[ 2025-01-24 12:57:24,622 ] 43 root - INFO - Processing table file: C:\Users\91832\Desktop\RAG_Model_development\data\processed\flattened_table\table_page_34_table_3.csv
+[ 2025-01-24 12:57:24,626 ] 48 root - INFO - Generating embeddings for column 'Unnamed: 0' in table 'table_page_34_table_3.csv'
+[ 2025-01-24 12:57:24,746 ] 56 root - INFO - Saved embeddings for column 'Unnamed: 0' to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_34_table_3_Unnamed: 0_embeddings.npy
+[ 2025-01-24 12:57:24,746 ] 48 root - INFO - Generating embeddings for column 'Unnamed: 1' in table 'table_page_34_table_3.csv'
+[ 2025-01-24 12:57:24,824 ] 56 root - INFO - Saved embeddings for column 'Unnamed: 1' to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_34_table_3_Unnamed: 1_embeddings.npy
+[ 2025-01-24 12:57:24,824 ] 48 root - INFO - Generating embeddings for column 'Unnamed: 2' in table 'table_page_34_table_3.csv'
+[ 2025-01-24 12:57:24,876 ] 56 root - INFO - Saved embeddings for column 'Unnamed: 2' to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_34_table_3_Unnamed: 2_embeddings.npy
+[ 2025-01-24 12:57:24,877 ] 43 root - INFO - Processing table file: C:\Users\91832\Desktop\RAG_Model_development\data\processed\flattened_table\table_page_34_table_4.csv
+[ 2025-01-24 12:57:24,884 ] 48 root - INFO - Generating embeddings for column 'Unnamed: 0' in table 'table_page_34_table_4.csv'
+[ 2025-01-24 12:57:24,981 ] 56 root - INFO - Saved embeddings for column 'Unnamed: 0' to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_34_table_4_Unnamed: 0_embeddings.npy
+[ 2025-01-24 12:57:24,982 ] 48 root - INFO - Generating embeddings for column 'Unnamed: 1' in table 'table_page_34_table_4.csv'
+[ 2025-01-24 12:57:25,047 ] 56 root - INFO - Saved embeddings for column 'Unnamed: 1' to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_34_table_4_Unnamed: 1_embeddings.npy
+[ 2025-01-24 12:57:25,047 ] 48 root - INFO - Generating embeddings for column 'Unnamed: 2' in table 'table_page_34_table_4.csv'
+[ 2025-01-24 12:57:25,101 ] 56 root - INFO - Saved embeddings for column 'Unnamed: 2' to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_34_table_4_Unnamed: 2_embeddings.npy
+[ 2025-01-24 12:57:25,105 ] 43 root - INFO - Processing table file: C:\Users\91832\Desktop\RAG_Model_development\data\processed\flattened_table\table_page_34_table_5.csv
+[ 2025-01-24 12:57:25,112 ] 48 root - INFO - Generating embeddings for column 'Unnamed: 0' in table 'table_page_34_table_5.csv'
+[ 2025-01-24 12:57:25,197 ] 56 root - INFO - Saved embeddings for column 'Unnamed: 0' to C:\Users\91832\Desktop\RAG_Model_development\embeddings\table_page_34_table_5_Unnamed: 0_embeddings.npy
+[ 2025-01-24 12:57:25,242 ] 78 root - INFO - Unified mapping saved with 56 entries.
+[ 2025-01-24 12:57:25,243 ] 87 root - INFO - Generating embeddings for FAISS index...
+[ 2025-01-24 12:57:59,105 ] 105 root - INFO - FAISS index created with 14578 vectors.
+[ 2025-01-24 12:57:59,181 ] 121 root - INFO - FAISS index vectors: 14578
+[ 2025-01-24 12:57:59,181 ] 122 root - INFO - Unified mapping entries: 56
+[ 2025-01-24 12:57:59,181 ] 125 root - WARNING - Mismatch detected! FAISS vectors: 14578, Metadata entries: 56
+[ 2025-01-24 12:57:59,183 ] 172 root - WARNING - Pipeline completed but validation failed.

@@ -1,0 +1,8 @@
+[ 2025-01-24 12:53:25,323 ] 136 root - INFO - Starting embedding pipeline...
+[ 2025-01-24 12:53:25,323 ] 66 sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+[ 2025-01-24 12:53:29,320 ] 105 sentence_transformers.SentenceTransformer - INFO - Use pytorch device: cpu
+[ 2025-01-24 12:53:29,325 ] 26 root - INFO - Generating text embeddings...
+[ 2025-01-24 12:53:29,663 ] 31 root - INFO - Text embeddings saved to embeddings\cleaned_text_chunks_embeddings.npy
+[ 2025-01-24 12:53:29,663 ] 43 root - INFO - Processing table file: table1.csv
+[ 2025-01-24 12:53:29,775 ] 68 root - ERROR - Error generating table embeddings: [Errno 2] No such file or directory: 'table1.csv'
+[ 2025-01-24 12:53:29,777 ] 162 root - ERROR - Error in the embedding pipeline: __init__() missing 1 required positional argument: 'error_detail'
