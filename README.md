@@ -281,13 +281,10 @@ The project relies on the following key libraries and tools:
 
 ---
 
-#### **10. `Gen AI Engineer - Machine Learning Engineer Assignment.pdf`**
-- **Purpose**: Appears to be the project requirements or context document.
-- **Status**: Reviewed and serves as a reference.
 
----
 
----
+
+
 
 ## **License**
 
