@@ -3,6 +3,7 @@ import faiss
 import json
 from src.logger import logging
 from src.exception import CustomException
+import os
 
 
 class Retriever:
@@ -73,6 +74,7 @@ class Retriever:
             raise CustomException("Failed to retrieve results.", e)
 
 
+
 if __name__ == "__main__":
     try:
         # Load FAISS index
@@ -95,19 +97,24 @@ if __name__ == "__main__":
             model=model,
             index=index,
             mapping_data=unified_mapping,
-            similarity_threshold=1.5,  # Adjusted similarity threshold
+            similarity_threshold=1.5,
         )
 
         # Example query
         query = "What is revenue?"
         results = retriever.retrieve(query, k=5)
 
-        # Print results
+        # Save results to a JSON file
+        output_path = "retriever_output.json"
         if results:
-            for i, (content, distance) in enumerate(results):
-                print(f"Result {i+1}:\n{content}\nDistance: {distance}\n")
+            # Convert distances from float32 to float for JSON serialization
+            serialized_results = [(content, float(distance)) for content, distance in results]
+            with open(output_path, "w", encoding="utf-8") as outfile:
+                json.dump(serialized_results, outfile, indent=4)
+            logging.info(f"Retriever results saved to {output_path}")
         else:
             logging.info("No results found for the query.")
+
 
     except Exception as e:
         logging.error("Critical error in Retriever setup: %s", str(e))
