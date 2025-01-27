@@ -285,8 +285,3 @@ The project relies on the following key libraries and tools:
 
 
 
-
-## **License**
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
