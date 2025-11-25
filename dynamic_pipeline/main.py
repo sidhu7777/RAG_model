@@ -25,7 +25,8 @@ import warnings
 # Suppress non-critical warnings
 warnings.filterwarnings("ignore", category=FutureWarning)
 
-def main(file_path):
+def main(file_path, query):
+
     try:
         logging.info("Starting RAG pipeline...")
 
@@ -86,7 +87,7 @@ def main(file_path):
         response_generator = ResponseGenerator(model_name="gpt2")
 
         # Example dynamic query for debugging
-        query = "What is revenue?"  # This will be replaced dynamically in app.py
+        #query = "What is revenue?"  # This will be replaced dynamically in app.py
         logging.info(f"Processing query: {query}")
 
         # Retrieve relevant contexts
@@ -118,4 +119,5 @@ def main(file_path):
     except Exception as e:
         logging.error(f"Critical error in RAG pipeline: {e}")
         raise CustomException("Failed to execute RAG pipeline.", e)
+
 
