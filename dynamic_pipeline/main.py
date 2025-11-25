@@ -2,6 +2,14 @@ import os
 import json
 import faiss
 from sentence_transformers import SentenceTransformer
+
+import sys
+import os
+
+# Add project root to PYTHONPATH
+ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.append(ROOT_DIR)
+
 from src.components.data_extraction import DataExtraction
 from src.components.data_preprocessing import data_preprocessing_pipeline
 from src.components.new_vector import VectorDBHandler
@@ -10,6 +18,9 @@ from src.components.response_generator import ResponseGenerator
 from src.logger import logging
 from src.exception import CustomException
 import warnings
+
+
+
 
 # Suppress non-critical warnings
 warnings.filterwarnings("ignore", category=FutureWarning)
@@ -107,3 +118,4 @@ def main(file_path):
     except Exception as e:
         logging.error(f"Critical error in RAG pipeline: {e}")
         raise CustomException("Failed to execute RAG pipeline.", e)
+
