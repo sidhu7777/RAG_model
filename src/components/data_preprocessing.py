@@ -12,7 +12,7 @@ from src.exception import CustomException
 import unicodedata
 
 # Add wordninja path
-sys.path.insert(0, r"C:\Users\91832\Desktop\RAG_Model_development\wordninja")
+#sys.path.insert(0, r"C:\Users\91832\Desktop\RAG_Model_development\wordninja")
 import wordninja
 
 # Download required NLTK data
@@ -124,3 +124,4 @@ def data_preprocessing_pipeline():
 
 if __name__ == "__main__":
     data_preprocessing_pipeline()
+
