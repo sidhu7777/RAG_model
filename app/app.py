@@ -22,7 +22,8 @@ if uploaded_file:
         with st.spinner("Processing your query..."):
             try:
                 # Pass the uploaded file and query to main
-                response = main(file_path)
+                response = main(file_path, query)
+
                 st.success("Processing completed successfully!")
 
                 # Display Results
@@ -37,3 +38,4 @@ if uploaded_file:
 # Footer
 st.markdown("---")
 st.markdown("Created by [Vineeth Raja Banala]")
+
